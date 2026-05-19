@@ -1,0 +1,728 @@
+wo_item_id,work_order_id,material_code,description,category,quantity,unit,target_unit_price_usd,required_by_date,preferred_vendor_category
+WO-2024-0001-I01,WO-2024-0001,MECH-2202,Linear Guide Rail 1500mm,Mechanical Parts,87,pcs,170.26,2025-06-06,Mechanical Parts
+WO-2024-0001-I02,WO-2024-0001,MECH-2201,Precision Ball Screw Assy 25mm,Mechanical Parts,38,pcs,371.59,2025-06-01,Mechanical Parts
+WO-2024-0004-I01,WO-2024-0004,MECH-2202,Linear Guide Rail 1500mm,Mechanical Parts,54,pcs,169.67,2024-10-04,Mechanical Parts
+WO-2024-0004-I02,WO-2024-0004,MECH-2201,Precision Ball Screw Assy 25mm,Mechanical Parts,58,pcs,383.79,2024-10-07,Mechanical Parts
+WO-2024-0004-I03,WO-2024-0004,MECH-2205,Cast Iron Bed Section Grade 300,Mechanical Parts,115,kg,4.32,2024-10-03,Mechanical Parts
+WO-2024-0005-I01,WO-2024-0005,RAW-4403,Copper Busbar 40×4mm,Raw Materials,70,m,19.49,2025-01-10,Raw Materials
+WO-2024-0005-I02,WO-2024-0005,MECH-2203,Servo Coupling 14/19mm,Mechanical Parts,117,pcs,32.8,2025-01-17,Mechanical Parts
+WO-2024-0005-I03,WO-2024-0005,ELEC-3303,Limit Switch IP67 Stainless,Electrical Components,7,pcs,14.14,2025-01-10,Electrical Components
+WO-2024-0006-I01,WO-2024-0006,ELEC-3301,Servo Drive 5.5kW Siemens-compat,Electrical Components,117,pcs,1853.85,2024-06-21,Electrical Components
+WO-2024-0006-I02,WO-2024-0006,MECH-2201,Precision Ball Screw Assy 25mm,Mechanical Parts,91,pcs,394.22,2024-06-21,Mechanical Parts
+WO-2024-0006-I03,WO-2024-0006,RAW-4404,Stainless 316L Sheet 2mm,Raw Materials,73,kg,3.83,2024-06-22,Raw Materials
+WO-2024-0006-I04,WO-2024-0006,MECH-2205,Cast Iron Bed Section Grade 300,Mechanical Parts,18,kg,3.76,2024-06-21,Mechanical Parts
+WO-2024-0006-I05,WO-2024-0006,ELEC-3303,Limit Switch IP67 Stainless,Electrical Components,117,pcs,15.61,2024-06-26,Electrical Components
+WO-2024-0006-I06,WO-2024-0006,ELEC-3305,Power Supply 24VDC 20A DIN,Electrical Components,51,pcs,121.92,2024-06-18,Electrical Components
+WO-2024-0007-I01,WO-2024-0007,ELEC-3301,Servo Drive 5.5kW Siemens-compat,Electrical Components,14,pcs,1695.32,2024-03-28,Electrical Components
+WO-2024-0007-I02,WO-2024-0007,ELEC-3304,PLC I/O Module 32-channel DI,Electrical Components,62,pcs,357.46,2024-03-24,Electrical Components
+WO-2024-0007-I03,WO-2024-0007,MECH-2205,Cast Iron Bed Section Grade 300,Mechanical Parts,40,kg,4.12,2024-03-24,Mechanical Parts
+WO-2024-0008-I01,WO-2024-0008,ELEC-3302,Encoder 2500 PPR Differential,Electrical Components,106,pcs,107.23,2024-03-21,Electrical Components
+WO-2024-0008-I02,WO-2024-0008,ELEC-3301,Servo Drive 5.5kW Siemens-compat,Electrical Components,76,pcs,1911.08,2024-03-23,Electrical Components
+WO-2024-0009-I01,WO-2024-0009,MECH-2201,Precision Ball Screw Assy 25mm,Mechanical Parts,71,pcs,360.74,2024-11-15,Mechanical Parts
+WO-2024-0009-I02,WO-2024-0009,RAW-4405,HDPE Rod 50mm dia,Raw Materials,82,m,15.58,2024-11-12,Raw Materials
+WO-2024-0009-I03,WO-2024-0009,RAW-4404,Stainless 316L Sheet 2mm,Raw Materials,22,kg,4.05,2024-11-04,Raw Materials
+WO-2024-0009-I04,WO-2024-0009,MECH-2203,Servo Coupling 14/19mm,Mechanical Parts,83,pcs,31.75,2024-11-14,Mechanical Parts
+WO-2024-0009-I05,WO-2024-0009,ELEC-3301,Servo Drive 5.5kW Siemens-compat,Electrical Components,55,pcs,1770.92,2024-11-09,Electrical Components
+WO-2024-0009-I06,WO-2024-0009,ELEC-3303,Limit Switch IP67 Stainless,Electrical Components,99,pcs,18.55,2024-11-14,Electrical Components
+WO-2024-0010-I01,WO-2024-0010,ELEC-3303,Limit Switch IP67 Stainless,Electrical Components,52,pcs,16.45,2025-04-24,Electrical Components
+WO-2024-0010-I02,WO-2024-0010,RAW-4402,Aluminium Extrusion 6061-T6,Raw Materials,19,kg,3.73,2025-05-01,Raw Materials
+WO-2024-0010-I03,WO-2024-0010,ELEC-3305,Power Supply 24VDC 20A DIN,Electrical Components,79,pcs,94.62,2025-04-23,Electrical Components
+WO-2024-0010-I04,WO-2024-0010,MECH-2205,Cast Iron Bed Section Grade 300,Mechanical Parts,120,kg,3.93,2025-04-22,Mechanical Parts
+WO-2024-0010-I05,WO-2024-0010,RAW-4405,HDPE Rod 50mm dia,Raw Materials,93,m,15.94,2025-04-26,Raw Materials
+WO-2024-0010-I06,WO-2024-0010,MECH-2201,Precision Ball Screw Assy 25mm,Mechanical Parts,81,pcs,368.38,2025-04-29,Mechanical Parts
+WO-2024-0011-I01,WO-2024-0011,ELEC-3305,Power Supply 24VDC 20A DIN,Electrical Components,26,pcs,113.05,2025-02-28,Electrical Components
+WO-2024-0011-I02,WO-2024-0011,ELEC-3303,Limit Switch IP67 Stainless,Electrical Components,97,pcs,16.78,2025-02-23,Electrical Components
+WO-2024-0012-I01,WO-2024-0012,ELEC-3305,Power Supply 24VDC 20A DIN,Electrical Components,19,pcs,101.88,2025-02-03,Electrical Components
+WO-2024-0012-I02,WO-2024-0012,RAW-4402,Aluminium Extrusion 6061-T6,Raw Materials,61,kg,3.04,2025-02-05,Raw Materials
+WO-2024-0013-I01,WO-2024-0013,RAW-4403,Copper Busbar 40×4mm,Raw Materials,71,m,18.95,2024-06-02,Raw Materials
+WO-2024-0013-I02,WO-2024-0013,ELEC-3305,Power Supply 24VDC 20A DIN,Electrical Components,46,pcs,127.96,2024-06-03,Electrical Components
+WO-2024-0013-I03,WO-2024-0013,ELEC-3303,Limit Switch IP67 Stainless,Electrical Components,66,pcs,17.12,2024-06-02,Electrical Components
+WO-2024-0013-I04,WO-2024-0013,RAW-4402,Aluminium Extrusion 6061-T6,Raw Materials,45,kg,3.65,2024-06-08,Raw Materials
+WO-2024-0013-I05,WO-2024-0013,MECH-2201,Precision Ball Screw Assy 25mm,Mechanical Parts,63,pcs,419.5,2024-06-05,Mechanical Parts
+WO-2024-0013-I06,WO-2024-0013,MECH-2203,Servo Coupling 14/19mm,Mechanical Parts,48,pcs,34.07,2024-06-11,Mechanical Parts
+WO-2024-0014-I01,WO-2024-0014,ELEC-3303,Limit Switch IP67 Stainless,Electrical Components,33,pcs,19.86,2025-02-03,Electrical Components
+WO-2024-0014-I02,WO-2024-0014,MECH-2204,Spindle Bearing Set NSK 7210,Mechanical Parts,43,pcs,236.94,2025-02-01,Mechanical Parts
+WO-2024-0014-I03,WO-2024-0014,RAW-4404,Stainless 316L Sheet 2mm,Raw Materials,95,kg,3.74,2025-01-27,Raw Materials
+WO-2024-0014-I04,WO-2024-0014,MECH-2205,Cast Iron Bed Section Grade 300,Mechanical Parts,95,kg,3.8,2025-01-23,Mechanical Parts
+WO-2024-0014-I05,WO-2024-0014,ELEC-3304,PLC I/O Module 32-channel DI,Electrical Components,66,pcs,371.25,2025-01-27,Electrical Components
+WO-2024-0014-I06,WO-2024-0014,RAW-4402,Aluminium Extrusion 6061-T6,Raw Materials,106,kg,3.27,2025-01-28,Raw Materials
+WO-2024-0015-I01,WO-2024-0015,RAW-4405,HDPE Rod 50mm dia,Raw Materials,10,m,13.14,2025-02-10,Raw Materials
+WO-2024-0015-I02,WO-2024-0015,ELEC-3302,Encoder 2500 PPR Differential,Electrical Components,96,pcs,84.51,2025-02-05,Electrical Components
+WO-2024-0015-I03,WO-2024-0015,ELEC-3301,Servo Drive 5.5kW Siemens-compat,Electrical Components,61,pcs,1738.19,2025-02-10,Electrical Components
+WO-2024-0015-I04,WO-2024-0015,MECH-2203,Servo Coupling 14/19mm,Mechanical Parts,100,pcs,31.34,2025-02-02,Mechanical Parts
+WO-2024-0015-I05,WO-2024-0015,MECH-2205,Cast Iron Bed Section Grade 300,Mechanical Parts,30,kg,4.39,2025-02-07,Mechanical Parts
+WO-2024-0016-I01,WO-2024-0016,MECH-2202,Linear Guide Rail 1500mm,Mechanical Parts,80,pcs,146.06,2024-12-25,Mechanical Parts
+WO-2024-0016-I02,WO-2024-0016,ELEC-3305,Power Supply 24VDC 20A DIN,Electrical Components,11,pcs,117.62,2024-12-24,Electrical Components
+WO-2024-0016-I03,WO-2024-0016,RAW-4402,Aluminium Extrusion 6061-T6,Raw Materials,72,kg,2.85,2024-12-24,Raw Materials
+WO-2024-0017-I01,WO-2024-0017,MECH-2202,Linear Guide Rail 1500mm,Mechanical Parts,75,pcs,159.44,2024-09-24,Mechanical Parts
+WO-2024-0017-I02,WO-2024-0017,RAW-4401,Steel HR Coil 3mm S235,Raw Materials,25,MT,668.89,2024-09-16,Raw Materials
+WO-2024-0017-I03,WO-2024-0017,RAW-4403,Copper Busbar 40×4mm,Raw Materials,117,m,23.62,2024-09-19,Raw Materials
+WO-2024-0017-I04,WO-2024-0017,MECH-2203,Servo Coupling 14/19mm,Mechanical Parts,66,pcs,34.07,2024-09-17,Mechanical Parts
+WO-2024-0017-I05,WO-2024-0017,MECH-2201,Precision Ball Screw Assy 25mm,Mechanical Parts,101,pcs,397.16,2024-09-21,Mechanical Parts
+WO-2024-0020-I01,WO-2024-0020,MECH-2201,Precision Ball Screw Assy 25mm,Mechanical Parts,106,pcs,351.64,2024-12-19,Mechanical Parts
+WO-2024-0020-I02,WO-2024-0020,RAW-4402,Aluminium Extrusion 6061-T6,Raw Materials,91,kg,3.51,2024-12-23,Raw Materials
+WO-2024-0020-I03,WO-2024-0020,ELEC-3301,Servo Drive 5.5kW Siemens-compat,Electrical Components,27,pcs,1636.45,2024-12-26,Electrical Components
+WO-2024-0021-I01,WO-2024-0021,ELEC-3301,Servo Drive 5.5kW Siemens-compat,Electrical Components,22,pcs,1778.76,2025-03-12,Electrical Components
+WO-2024-0021-I02,WO-2024-0021,MECH-2202,Linear Guide Rail 1500mm,Mechanical Parts,36,pcs,137.24,2025-03-17,Mechanical Parts
+WO-2024-0021-I03,WO-2024-0021,ELEC-3302,Encoder 2500 PPR Differential,Electrical Components,54,pcs,87.4,2025-03-15,Electrical Components
+WO-2024-0021-I04,WO-2024-0021,RAW-4401,Steel HR Coil 3mm S235,Raw Materials,101,MT,633.95,2025-03-11,Raw Materials
+WO-2024-0021-I05,WO-2024-0021,RAW-4404,Stainless 316L Sheet 2mm,Raw Materials,47,kg,3.68,2025-03-10,Raw Materials
+WO-2024-0021-I06,WO-2024-0021,MECH-2203,Servo Coupling 14/19mm,Mechanical Parts,97,pcs,32.61,2025-03-13,Mechanical Parts
+WO-2024-0022-I01,WO-2024-0022,RAW-4401,Steel HR Coil 3mm S235,Raw Materials,64,MT,703.3,2025-01-11,Raw Materials
+WO-2024-0022-I02,WO-2024-0022,MECH-2202,Linear Guide Rail 1500mm,Mechanical Parts,56,pcs,166.98,2025-01-10,Mechanical Parts
+WO-2024-0023-I01,WO-2024-0023,ELEC-3301,Servo Drive 5.5kW Siemens-compat,Electrical Components,22,pcs,1771.82,2025-01-06,Electrical Components
+WO-2024-0023-I02,WO-2024-0023,ELEC-3305,Power Supply 24VDC 20A DIN,Electrical Components,63,pcs,117.93,2025-01-11,Electrical Components
+WO-2024-0023-I03,WO-2024-0023,MECH-2204,Spindle Bearing Set NSK 7210,Mechanical Parts,82,pcs,216.38,2025-01-04,Mechanical Parts
+WO-2024-0023-I04,WO-2024-0023,RAW-4403,Copper Busbar 40×4mm,Raw Materials,94,m,22.72,2025-01-09,Raw Materials
+WO-2024-0024-I01,WO-2024-0024,RAW-4401,Steel HR Coil 3mm S235,Raw Materials,116,MT,728.1,2025-03-13,Raw Materials
+WO-2024-0024-I02,WO-2024-0024,RAW-4403,Copper Busbar 40×4mm,Raw Materials,72,m,19.75,2025-03-04,Raw Materials
+WO-2024-0024-I03,WO-2024-0024,ELEC-3305,Power Supply 24VDC 20A DIN,Electrical Components,95,pcs,99.24,2025-03-09,Electrical Components
+WO-2024-0025-I01,WO-2024-0025,MECH-2204,Spindle Bearing Set NSK 7210,Mechanical Parts,114,pcs,215.49,2025-04-26,Mechanical Parts
+WO-2024-0025-I02,WO-2024-0025,ELEC-3305,Power Supply 24VDC 20A DIN,Electrical Components,19,pcs,109.95,2025-04-30,Electrical Components
+WO-2024-0025-I03,WO-2024-0025,ELEC-3304,PLC I/O Module 32-channel DI,Electrical Components,96,pcs,383.25,2025-04-23,Electrical Components
+WO-2024-0025-I04,WO-2024-0025,MECH-2203,Servo Coupling 14/19mm,Mechanical Parts,16,pcs,36.39,2025-04-29,Mechanical Parts
+WO-2024-0025-I05,WO-2024-0025,RAW-4402,Aluminium Extrusion 6061-T6,Raw Materials,62,kg,3.2,2025-05-02,Raw Materials
+WO-2024-0025-I06,WO-2024-0025,ELEC-3301,Servo Drive 5.5kW Siemens-compat,Electrical Components,63,pcs,1624.28,2025-04-21,Electrical Components
+WO-2024-0026-I01,WO-2024-0026,RAW-4401,Steel HR Coil 3mm S235,Raw Materials,55,MT,636.28,2024-03-31,Raw Materials
+WO-2024-0026-I02,WO-2024-0026,RAW-4403,Copper Busbar 40×4mm,Raw Materials,5,m,22.77,2024-03-23,Raw Materials
+WO-2024-0026-I03,WO-2024-0026,MECH-2205,Cast Iron Bed Section Grade 300,Mechanical Parts,79,kg,3.21,2024-03-23,Mechanical Parts
+WO-2024-0026-I04,WO-2024-0026,RAW-4402,Aluminium Extrusion 6061-T6,Raw Materials,59,kg,2.85,2024-03-28,Raw Materials
+WO-2024-0026-I05,WO-2024-0026,MECH-2201,Precision Ball Screw Assy 25mm,Mechanical Parts,13,pcs,389.7,2024-03-22,Mechanical Parts
+WO-2024-0027-I01,WO-2024-0027,MECH-2205,Cast Iron Bed Section Grade 300,Mechanical Parts,28,kg,4.09,2024-02-14,Mechanical Parts
+WO-2024-0027-I02,WO-2024-0027,ELEC-3302,Encoder 2500 PPR Differential,Electrical Components,103,pcs,104.31,2024-02-17,Electrical Components
+WO-2024-0028-I01,WO-2024-0028,ELEC-3303,Limit Switch IP67 Stainless,Electrical Components,92,pcs,20.25,2024-08-23,Electrical Components
+WO-2024-0028-I02,WO-2024-0028,RAW-4404,Stainless 316L Sheet 2mm,Raw Materials,116,kg,3.95,2024-09-03,Raw Materials
+WO-2024-0028-I03,WO-2024-0028,ELEC-3302,Encoder 2500 PPR Differential,Electrical Components,88,pcs,105.44,2024-08-27,Electrical Components
+WO-2024-0028-I04,WO-2024-0028,RAW-4403,Copper Busbar 40×4mm,Raw Materials,20,m,18.62,2024-08-26,Raw Materials
+WO-2024-0028-I05,WO-2024-0028,MECH-2202,Linear Guide Rail 1500mm,Mechanical Parts,73,pcs,155.2,2024-08-31,Mechanical Parts
+WO-2024-0029-I01,WO-2024-0029,MECH-2205,Cast Iron Bed Section Grade 300,Mechanical Parts,91,kg,4.11,2024-05-08,Mechanical Parts
+WO-2024-0029-I02,WO-2024-0029,ELEC-3303,Limit Switch IP67 Stainless,Electrical Components,59,pcs,18.41,2024-05-09,Electrical Components
+WO-2024-0030-I01,WO-2024-0030,MECH-2204,Spindle Bearing Set NSK 7210,Mechanical Parts,9,pcs,249.15,2024-08-12,Mechanical Parts
+WO-2024-0030-I02,WO-2024-0030,RAW-4402,Aluminium Extrusion 6061-T6,Raw Materials,58,kg,3.21,2024-08-20,Raw Materials
+WO-2024-0030-I03,WO-2024-0030,RAW-4403,Copper Busbar 40×4mm,Raw Materials,118,m,24.82,2024-08-12,Raw Materials
+WO-2024-0030-I04,WO-2024-0030,MECH-2202,Linear Guide Rail 1500mm,Mechanical Parts,35,pcs,142.02,2024-08-18,Mechanical Parts
+WO-2024-0031-I01,WO-2024-0031,RAW-4402,Aluminium Extrusion 6061-T6,Raw Materials,61,kg,2.84,2024-08-30,Raw Materials
+WO-2024-0031-I02,WO-2024-0031,MECH-2201,Precision Ball Screw Assy 25mm,Mechanical Parts,32,pcs,364.6,2024-09-02,Mechanical Parts
+WO-2024-0031-I03,WO-2024-0031,ELEC-3302,Encoder 2500 PPR Differential,Electrical Components,104,pcs,89.04,2024-09-07,Electrical Components
+WO-2024-0032-I01,WO-2024-0032,ELEC-3305,Power Supply 24VDC 20A DIN,Electrical Components,117,pcs,91.97,2024-05-08,Electrical Components
+WO-2024-0032-I02,WO-2024-0032,RAW-4403,Copper Busbar 40×4mm,Raw Materials,89,m,21.5,2024-05-13,Raw Materials
+WO-2024-0032-I03,WO-2024-0032,RAW-4401,Steel HR Coil 3mm S235,Raw Materials,57,MT,640.67,2024-05-04,Raw Materials
+WO-2024-0032-I04,WO-2024-0032,ELEC-3301,Servo Drive 5.5kW Siemens-compat,Electrical Components,12,pcs,1615.94,2024-05-12,Electrical Components
+WO-2024-0032-I05,WO-2024-0032,MECH-2204,Spindle Bearing Set NSK 7210,Mechanical Parts,80,pcs,229.86,2024-05-14,Mechanical Parts
+WO-2024-0032-I06,WO-2024-0032,MECH-2205,Cast Iron Bed Section Grade 300,Mechanical Parts,27,kg,3.81,2024-05-07,Mechanical Parts
+WO-2024-0033-I01,WO-2024-0033,RAW-4403,Copper Busbar 40×4mm,Raw Materials,57,m,17.93,2024-02-19,Raw Materials
+WO-2024-0033-I02,WO-2024-0033,ELEC-3304,PLC I/O Module 32-channel DI,Electrical Components,53,pcs,338.26,2024-02-15,Electrical Components
+WO-2024-0033-I03,WO-2024-0033,ELEC-3301,Servo Drive 5.5kW Siemens-compat,Electrical Components,73,pcs,1725.11,2024-02-26,Electrical Components
+WO-2024-0033-I04,WO-2024-0033,RAW-4402,Aluminium Extrusion 6061-T6,Raw Materials,113,kg,2.89,2024-02-17,Raw Materials
+WO-2024-0033-I05,WO-2024-0033,ELEC-3302,Encoder 2500 PPR Differential,Electrical Components,114,pcs,105.01,2024-02-26,Electrical Components
+WO-2024-0034-I01,WO-2024-0034,ELEC-3304,PLC I/O Module 32-channel DI,Electrical Components,37,pcs,355.02,2024-10-23,Electrical Components
+WO-2024-0034-I02,WO-2024-0034,RAW-4405,HDPE Rod 50mm dia,Raw Materials,87,m,12.37,2024-10-30,Raw Materials
+WO-2024-0034-I03,WO-2024-0034,MECH-2203,Servo Coupling 14/19mm,Mechanical Parts,62,pcs,37.09,2024-10-19,Mechanical Parts
+WO-2024-0034-I04,WO-2024-0034,ELEC-3302,Encoder 2500 PPR Differential,Electrical Components,16,pcs,103.62,2024-10-24,Electrical Components
+WO-2024-0034-I05,WO-2024-0034,MECH-2204,Spindle Bearing Set NSK 7210,Mechanical Parts,111,pcs,218.44,2024-10-19,Mechanical Parts
+WO-2024-0036-I01,WO-2024-0036,RAW-4405,HDPE Rod 50mm dia,Raw Materials,99,m,12.66,2025-06-05,Raw Materials
+WO-2024-0036-I02,WO-2024-0036,MECH-2201,Precision Ball Screw Assy 25mm,Mechanical Parts,101,pcs,404.05,2025-05-29,Mechanical Parts
+WO-2024-0036-I03,WO-2024-0036,MECH-2204,Spindle Bearing Set NSK 7210,Mechanical Parts,36,pcs,218.73,2025-05-26,Mechanical Parts
+WO-2024-0036-I04,WO-2024-0036,RAW-4403,Copper Busbar 40×4mm,Raw Materials,95,m,17.92,2025-05-31,Raw Materials
+WO-2024-0037-I01,WO-2024-0037,ELEC-3303,Limit Switch IP67 Stainless,Electrical Components,38,pcs,17.09,2025-02-23,Electrical Components
+WO-2024-0037-I02,WO-2024-0037,ELEC-3304,PLC I/O Module 32-channel DI,Electrical Components,117,pcs,374.04,2025-02-25,Electrical Components
+WO-2024-0037-I03,WO-2024-0037,RAW-4401,Steel HR Coil 3mm S235,Raw Materials,17,MT,750.4,2025-02-21,Raw Materials
+WO-2024-0037-I04,WO-2024-0037,ELEC-3301,Servo Drive 5.5kW Siemens-compat,Electrical Components,97,pcs,1720.5,2025-02-21,Electrical Components
+WO-2024-0037-I05,WO-2024-0037,MECH-2205,Cast Iron Bed Section Grade 300,Mechanical Parts,112,kg,3.5,2025-02-21,Mechanical Parts
+WO-2024-0038-I01,WO-2024-0038,RAW-4404,Stainless 316L Sheet 2mm,Raw Materials,75,kg,4.62,2024-09-11,Raw Materials
+WO-2024-0038-I02,WO-2024-0038,MECH-2204,Spindle Bearing Set NSK 7210,Mechanical Parts,79,pcs,228.1,2024-09-17,Mechanical Parts
+WO-2024-0038-I03,WO-2024-0038,RAW-4402,Aluminium Extrusion 6061-T6,Raw Materials,42,kg,2.9,2024-09-10,Raw Materials
+WO-2024-0038-I04,WO-2024-0038,MECH-2203,Servo Coupling 14/19mm,Mechanical Parts,47,pcs,29.41,2024-09-14,Mechanical Parts
+WO-2024-0038-I05,WO-2024-0038,MECH-2201,Precision Ball Screw Assy 25mm,Mechanical Parts,77,pcs,415.95,2024-09-11,Mechanical Parts
+WO-2024-0038-I06,WO-2024-0038,MECH-2205,Cast Iron Bed Section Grade 300,Mechanical Parts,68,kg,4.16,2024-09-14,Mechanical Parts
+WO-2024-0039-I01,WO-2024-0039,ELEC-3303,Limit Switch IP67 Stainless,Electrical Components,22,pcs,18.28,2025-03-24,Electrical Components
+WO-2024-0039-I02,WO-2024-0039,MECH-2203,Servo Coupling 14/19mm,Mechanical Parts,67,pcs,29.32,2025-03-24,Mechanical Parts
+WO-2024-0039-I03,WO-2024-0039,RAW-4402,Aluminium Extrusion 6061-T6,Raw Materials,118,kg,3.16,2025-03-19,Raw Materials
+WO-2024-0039-I04,WO-2024-0039,ELEC-3301,Servo Drive 5.5kW Siemens-compat,Electrical Components,87,pcs,1955.88,2025-03-23,Electrical Components
+WO-2024-0039-I05,WO-2024-0039,RAW-4404,Stainless 316L Sheet 2mm,Raw Materials,72,kg,3.57,2025-03-20,Raw Materials
+WO-2024-0040-I01,WO-2024-0040,ELEC-3302,Encoder 2500 PPR Differential,Electrical Components,112,pcs,106.88,2024-12-07,Electrical Components
+WO-2024-0040-I02,WO-2024-0040,MECH-2203,Servo Coupling 14/19mm,Mechanical Parts,13,pcs,33.44,2024-12-14,Mechanical Parts
+WO-2024-0041-I01,WO-2024-0041,ELEC-3305,Power Supply 24VDC 20A DIN,Electrical Components,90,pcs,116.33,2024-10-13,Electrical Components
+WO-2024-0041-I02,WO-2024-0041,RAW-4401,Steel HR Coil 3mm S235,Raw Materials,66,MT,661.7,2024-10-07,Raw Materials
+WO-2024-0042-I01,WO-2024-0042,MECH-2201,Precision Ball Screw Assy 25mm,Mechanical Parts,97,pcs,394.75,2024-12-07,Mechanical Parts
+WO-2024-0042-I02,WO-2024-0042,ELEC-3304,PLC I/O Module 32-channel DI,Electrical Components,41,pcs,304.91,2024-12-02,Electrical Components
+WO-2024-0043-I01,WO-2024-0043,RAW-4405,HDPE Rod 50mm dia,Raw Materials,72,m,12.39,2025-03-10,Raw Materials
+WO-2024-0043-I02,WO-2024-0043,MECH-2202,Linear Guide Rail 1500mm,Mechanical Parts,29,pcs,152.67,2025-03-09,Mechanical Parts
+WO-2024-0045-I01,WO-2024-0045,ELEC-3302,Encoder 2500 PPR Differential,Electrical Components,53,pcs,101.99,2024-03-03,Electrical Components
+WO-2024-0045-I02,WO-2024-0045,RAW-4405,HDPE Rod 50mm dia,Raw Materials,12,m,15.0,2024-02-23,Raw Materials
+WO-2024-0046-I01,WO-2024-0046,ELEC-3305,Power Supply 24VDC 20A DIN,Electrical Components,10,pcs,91.21,2024-11-03,Electrical Components
+WO-2024-0046-I02,WO-2024-0046,RAW-4404,Stainless 316L Sheet 2mm,Raw Materials,120,kg,4.43,2024-11-12,Raw Materials
+WO-2024-0046-I03,WO-2024-0046,MECH-2202,Linear Guide Rail 1500mm,Mechanical Parts,118,pcs,166.33,2024-11-07,Mechanical Parts
+WO-2024-0046-I04,WO-2024-0046,ELEC-3304,PLC I/O Module 32-channel DI,Electrical Components,39,pcs,319.22,2024-11-06,Electrical Components
+WO-2024-0047-I01,WO-2024-0047,RAW-4401,Steel HR Coil 3mm S235,Raw Materials,80,MT,702.23,2024-06-27,Raw Materials
+WO-2024-0047-I02,WO-2024-0047,MECH-2201,Precision Ball Screw Assy 25mm,Mechanical Parts,110,pcs,395.74,2024-06-17,Mechanical Parts
+WO-2024-0047-I03,WO-2024-0047,MECH-2203,Servo Coupling 14/19mm,Mechanical Parts,55,pcs,38.28,2024-06-23,Mechanical Parts
+WO-2024-0047-I04,WO-2024-0047,ELEC-3301,Servo Drive 5.5kW Siemens-compat,Electrical Components,43,pcs,1619.6,2024-06-22,Electrical Components
+WO-2024-0047-I05,WO-2024-0047,RAW-4404,Stainless 316L Sheet 2mm,Raw Materials,35,kg,4.22,2024-06-25,Raw Materials
+WO-2024-0047-I06,WO-2024-0047,MECH-2204,Spindle Bearing Set NSK 7210,Mechanical Parts,113,pcs,212.42,2024-06-16,Mechanical Parts
+WO-2024-0048-I01,WO-2024-0048,ELEC-3304,PLC I/O Module 32-channel DI,Electrical Components,49,pcs,339.27,2025-03-08,Electrical Components
+WO-2024-0048-I02,WO-2024-0048,RAW-4402,Aluminium Extrusion 6061-T6,Raw Materials,60,kg,2.96,2025-03-14,Raw Materials
+WO-2024-0049-I01,WO-2024-0049,MECH-2201,Precision Ball Screw Assy 25mm,Mechanical Parts,67,pcs,346.93,2025-03-19,Mechanical Parts
+WO-2024-0049-I02,WO-2024-0049,RAW-4401,Steel HR Coil 3mm S235,Raw Materials,75,MT,762.57,2025-03-20,Raw Materials
+WO-2024-0049-I03,WO-2024-0049,MECH-2205,Cast Iron Bed Section Grade 300,Mechanical Parts,60,kg,3.28,2025-03-27,Mechanical Parts
+WO-2024-0049-I04,WO-2024-0049,ELEC-3303,Limit Switch IP67 Stainless,Electrical Components,79,pcs,18.05,2025-03-22,Electrical Components
+WO-2024-0050-I01,WO-2024-0050,MECH-2202,Linear Guide Rail 1500mm,Mechanical Parts,24,pcs,143.69,2024-06-22,Mechanical Parts
+WO-2024-0050-I02,WO-2024-0050,MECH-2205,Cast Iron Bed Section Grade 300,Mechanical Parts,105,kg,4.09,2024-06-25,Mechanical Parts
+WO-2024-0051-I01,WO-2024-0051,MECH-2201,Precision Ball Screw Assy 25mm,Mechanical Parts,61,pcs,351.03,2024-08-20,Mechanical Parts
+WO-2024-0051-I02,WO-2024-0051,MECH-2205,Cast Iron Bed Section Grade 300,Mechanical Parts,39,kg,3.11,2024-08-17,Mechanical Parts
+WO-2024-0053-I01,WO-2024-0053,MECH-2203,Servo Coupling 14/19mm,Mechanical Parts,39,pcs,32.28,2024-04-20,Mechanical Parts
+WO-2024-0053-I02,WO-2024-0053,MECH-2205,Cast Iron Bed Section Grade 300,Mechanical Parts,13,kg,3.37,2024-04-25,Mechanical Parts
+WO-2024-0053-I03,WO-2024-0053,RAW-4404,Stainless 316L Sheet 2mm,Raw Materials,40,kg,3.85,2024-04-24,Raw Materials
+WO-2024-0054-I01,WO-2024-0054,RAW-4402,Aluminium Extrusion 6061-T6,Raw Materials,81,kg,3.07,2024-07-29,Raw Materials
+WO-2024-0054-I02,WO-2024-0054,RAW-4401,Steel HR Coil 3mm S235,Raw Materials,63,MT,635.23,2024-07-27,Raw Materials
+WO-2024-0054-I03,WO-2024-0054,ELEC-3303,Limit Switch IP67 Stainless,Electrical Components,43,pcs,12.67,2024-07-21,Electrical Components
+WO-2024-0055-I01,WO-2024-0055,ELEC-3303,Limit Switch IP67 Stainless,Electrical Components,81,pcs,14.59,2025-01-11,Electrical Components
+WO-2024-0055-I02,WO-2024-0055,ELEC-3301,Servo Drive 5.5kW Siemens-compat,Electrical Components,46,pcs,1833.94,2025-01-09,Electrical Components
+WO-2024-0055-I03,WO-2024-0055,ELEC-3302,Encoder 2500 PPR Differential,Electrical Components,93,pcs,82.39,2025-01-02,Electrical Components
+WO-2024-0055-I04,WO-2024-0055,RAW-4401,Steel HR Coil 3mm S235,Raw Materials,45,MT,700.77,2025-01-09,Raw Materials
+WO-2024-0056-I01,WO-2024-0056,RAW-4403,Copper Busbar 40×4mm,Raw Materials,51,m,18.07,2024-06-14,Raw Materials
+WO-2024-0056-I02,WO-2024-0056,MECH-2204,Spindle Bearing Set NSK 7210,Mechanical Parts,77,pcs,210.42,2024-06-13,Mechanical Parts
+WO-2024-0056-I03,WO-2024-0056,ELEC-3301,Servo Drive 5.5kW Siemens-compat,Electrical Components,74,pcs,1630.42,2024-06-08,Electrical Components
+WO-2024-0056-I04,WO-2024-0056,ELEC-3302,Encoder 2500 PPR Differential,Electrical Components,103,pcs,101.02,2024-06-15,Electrical Components
+WO-2024-0056-I05,WO-2024-0056,MECH-2205,Cast Iron Bed Section Grade 300,Mechanical Parts,98,kg,3.85,2024-06-07,Mechanical Parts
+WO-2024-0056-I06,WO-2024-0056,RAW-4402,Aluminium Extrusion 6061-T6,Raw Materials,95,kg,2.73,2024-06-08,Raw Materials
+WO-2024-0057-I01,WO-2024-0057,MECH-2203,Servo Coupling 14/19mm,Mechanical Parts,89,pcs,26.79,2024-03-04,Mechanical Parts
+WO-2024-0057-I02,WO-2024-0057,RAW-4401,Steel HR Coil 3mm S235,Raw Materials,59,MT,753.78,2024-02-27,Raw Materials
+WO-2024-0057-I03,WO-2024-0057,MECH-2205,Cast Iron Bed Section Grade 300,Mechanical Parts,14,kg,3.6,2024-02-29,Mechanical Parts
+WO-2024-0057-I04,WO-2024-0057,MECH-2204,Spindle Bearing Set NSK 7210,Mechanical Parts,81,pcs,227.33,2024-03-07,Mechanical Parts
+WO-2024-0057-I05,WO-2024-0057,RAW-4403,Copper Busbar 40×4mm,Raw Materials,56,m,19.81,2024-02-26,Raw Materials
+WO-2024-0058-I01,WO-2024-0058,ELEC-3305,Power Supply 24VDC 20A DIN,Electrical Components,26,pcs,103.84,2024-03-09,Electrical Components
+WO-2024-0058-I02,WO-2024-0058,RAW-4401,Steel HR Coil 3mm S235,Raw Materials,10,MT,691.89,2024-03-13,Raw Materials
+WO-2024-0058-I03,WO-2024-0058,MECH-2202,Linear Guide Rail 1500mm,Mechanical Parts,87,pcs,160.48,2024-03-08,Mechanical Parts
+WO-2024-0058-I04,WO-2024-0058,RAW-4403,Copper Busbar 40×4mm,Raw Materials,56,m,23.0,2024-03-14,Raw Materials
+WO-2024-0058-I05,WO-2024-0058,MECH-2204,Spindle Bearing Set NSK 7210,Mechanical Parts,47,pcs,244.82,2024-03-10,Mechanical Parts
+WO-2024-0058-I06,WO-2024-0058,ELEC-3301,Servo Drive 5.5kW Siemens-compat,Electrical Components,60,pcs,1605.12,2024-03-17,Electrical Components
+WO-2024-0059-I01,WO-2024-0059,ELEC-3305,Power Supply 24VDC 20A DIN,Electrical Components,55,pcs,98.2,2024-11-17,Electrical Components
+WO-2024-0059-I02,WO-2024-0059,RAW-4402,Aluminium Extrusion 6061-T6,Raw Materials,91,kg,3.46,2024-11-16,Raw Materials
+WO-2024-0059-I03,WO-2024-0059,RAW-4405,HDPE Rod 50mm dia,Raw Materials,69,m,11.95,2024-11-14,Raw Materials
+WO-2024-0059-I04,WO-2024-0059,MECH-2204,Spindle Bearing Set NSK 7210,Mechanical Parts,8,pcs,230.44,2024-11-20,Mechanical Parts
+WO-2024-0059-I05,WO-2024-0059,ELEC-3303,Limit Switch IP67 Stainless,Electrical Components,42,pcs,16.09,2024-11-15,Electrical Components
+WO-2024-0059-I06,WO-2024-0059,ELEC-3301,Servo Drive 5.5kW Siemens-compat,Electrical Components,15,pcs,1566.47,2024-11-16,Electrical Components
+WO-2024-0060-I01,WO-2024-0060,RAW-4403,Copper Busbar 40×4mm,Raw Materials,65,m,18.17,2024-07-31,Raw Materials
+WO-2024-0060-I02,WO-2024-0060,MECH-2204,Spindle Bearing Set NSK 7210,Mechanical Parts,97,pcs,245.98,2024-08-06,Mechanical Parts
+WO-2024-0060-I03,WO-2024-0060,ELEC-3304,PLC I/O Module 32-channel DI,Electrical Components,45,pcs,349.58,2024-08-02,Electrical Components
+WO-2024-0060-I04,WO-2024-0060,ELEC-3303,Limit Switch IP67 Stainless,Electrical Components,10,pcs,18.67,2024-08-01,Electrical Components
+WO-2024-0060-I05,WO-2024-0060,ELEC-3301,Servo Drive 5.5kW Siemens-compat,Electrical Components,19,pcs,1666.07,2024-07-27,Electrical Components
+WO-2024-0061-I01,WO-2024-0061,ELEC-3304,PLC I/O Module 32-channel DI,Electrical Components,25,pcs,357.29,2024-12-29,Electrical Components
+WO-2024-0061-I02,WO-2024-0061,MECH-2203,Servo Coupling 14/19mm,Mechanical Parts,59,pcs,40.43,2025-01-02,Mechanical Parts
+WO-2024-0061-I03,WO-2024-0061,RAW-4405,HDPE Rod 50mm dia,Raw Materials,34,m,15.34,2025-01-06,Raw Materials
+WO-2024-0062-I01,WO-2024-0062,MECH-2201,Precision Ball Screw Assy 25mm,Mechanical Parts,80,pcs,379.67,2025-01-19,Mechanical Parts
+WO-2024-0062-I02,WO-2024-0062,RAW-4402,Aluminium Extrusion 6061-T6,Raw Materials,5,kg,3.43,2025-01-13,Raw Materials
+WO-2024-0062-I03,WO-2024-0062,ELEC-3305,Power Supply 24VDC 20A DIN,Electrical Components,31,pcs,100.11,2025-01-19,Electrical Components
+WO-2024-0062-I04,WO-2024-0062,MECH-2204,Spindle Bearing Set NSK 7210,Mechanical Parts,95,pcs,250.63,2025-01-18,Mechanical Parts
+WO-2024-0062-I05,WO-2024-0062,ELEC-3303,Limit Switch IP67 Stainless,Electrical Components,13,pcs,18.18,2025-01-14,Electrical Components
+WO-2024-0063-I01,WO-2024-0063,MECH-2202,Linear Guide Rail 1500mm,Mechanical Parts,86,pcs,149.59,2024-08-07,Mechanical Parts
+WO-2024-0063-I02,WO-2024-0063,MECH-2205,Cast Iron Bed Section Grade 300,Mechanical Parts,54,kg,3.86,2024-08-01,Mechanical Parts
+WO-2024-0063-I03,WO-2024-0063,RAW-4401,Steel HR Coil 3mm S235,Raw Materials,80,MT,668.5,2024-07-29,Raw Materials
+WO-2024-0063-I04,WO-2024-0063,ELEC-3303,Limit Switch IP67 Stainless,Electrical Components,50,pcs,18.61,2024-08-04,Electrical Components
+WO-2024-0063-I05,WO-2024-0063,ELEC-3304,PLC I/O Module 32-channel DI,Electrical Components,84,pcs,352.93,2024-08-07,Electrical Components
+WO-2024-0064-I01,WO-2024-0064,ELEC-3301,Servo Drive 5.5kW Siemens-compat,Electrical Components,44,pcs,1554.43,2024-06-15,Electrical Components
+WO-2024-0064-I02,WO-2024-0064,MECH-2202,Linear Guide Rail 1500mm,Mechanical Parts,52,pcs,171.09,2024-06-16,Mechanical Parts
+WO-2024-0064-I03,WO-2024-0064,MECH-2204,Spindle Bearing Set NSK 7210,Mechanical Parts,70,pcs,231.86,2024-06-22,Mechanical Parts
+WO-2024-0065-I01,WO-2024-0065,ELEC-3303,Limit Switch IP67 Stainless,Electrical Components,93,pcs,18.87,2024-09-03,Electrical Components
+WO-2024-0065-I02,WO-2024-0065,RAW-4401,Steel HR Coil 3mm S235,Raw Materials,27,MT,715.06,2024-09-03,Raw Materials
+WO-2024-0065-I03,WO-2024-0065,ELEC-3304,PLC I/O Module 32-channel DI,Electrical Components,67,pcs,348.36,2024-09-09,Electrical Components
+WO-2024-0066-I01,WO-2024-0066,MECH-2201,Precision Ball Screw Assy 25mm,Mechanical Parts,109,pcs,386.01,2024-10-01,Mechanical Parts
+WO-2024-0066-I02,WO-2024-0066,ELEC-3303,Limit Switch IP67 Stainless,Electrical Components,76,pcs,16.21,2024-09-29,Electrical Components
+WO-2024-0066-I03,WO-2024-0066,MECH-2203,Servo Coupling 14/19mm,Mechanical Parts,68,pcs,31.9,2024-09-28,Mechanical Parts
+WO-2024-0066-I04,WO-2024-0066,MECH-2204,Spindle Bearing Set NSK 7210,Mechanical Parts,67,pcs,215.17,2024-10-02,Mechanical Parts
+WO-2024-0067-I01,WO-2024-0067,MECH-2205,Cast Iron Bed Section Grade 300,Mechanical Parts,33,kg,3.59,2024-04-03,Mechanical Parts
+WO-2024-0067-I02,WO-2024-0067,MECH-2201,Precision Ball Screw Assy 25mm,Mechanical Parts,26,pcs,415.16,2024-03-28,Mechanical Parts
+WO-2024-0067-I03,WO-2024-0067,RAW-4405,HDPE Rod 50mm dia,Raw Materials,77,m,15.0,2024-03-24,Raw Materials
+WO-2024-0068-I01,WO-2024-0068,RAW-4403,Copper Busbar 40×4mm,Raw Materials,110,m,24.38,2024-04-12,Raw Materials
+WO-2024-0068-I02,WO-2024-0068,ELEC-3304,PLC I/O Module 32-channel DI,Electrical Components,102,pcs,398.08,2024-04-12,Electrical Components
+WO-2024-0068-I03,WO-2024-0068,ELEC-3301,Servo Drive 5.5kW Siemens-compat,Electrical Components,74,pcs,1674.9,2024-04-12,Electrical Components
+WO-2024-0068-I04,WO-2024-0068,RAW-4404,Stainless 316L Sheet 2mm,Raw Materials,59,kg,3.93,2024-04-13,Raw Materials
+WO-2024-0069-I01,WO-2024-0069,MECH-2205,Cast Iron Bed Section Grade 300,Mechanical Parts,104,kg,4.2,2024-06-20,Mechanical Parts
+WO-2024-0069-I02,WO-2024-0069,ELEC-3301,Servo Drive 5.5kW Siemens-compat,Electrical Components,31,pcs,1770.49,2024-06-14,Electrical Components
+WO-2024-0069-I03,WO-2024-0069,MECH-2202,Linear Guide Rail 1500mm,Mechanical Parts,80,pcs,162.37,2024-06-17,Mechanical Parts
+WO-2024-0069-I04,WO-2024-0069,ELEC-3303,Limit Switch IP67 Stainless,Electrical Components,115,pcs,18.78,2024-06-14,Electrical Components
+WO-2024-0069-I05,WO-2024-0069,RAW-4403,Copper Busbar 40×4mm,Raw Materials,85,m,21.22,2024-06-17,Raw Materials
+WO-2024-0071-I01,WO-2024-0071,RAW-4405,HDPE Rod 50mm dia,Raw Materials,40,m,16.09,2024-12-05,Raw Materials
+WO-2024-0071-I02,WO-2024-0071,RAW-4401,Steel HR Coil 3mm S235,Raw Materials,21,MT,666.89,2024-12-10,Raw Materials
+WO-2024-0071-I03,WO-2024-0071,MECH-2202,Linear Guide Rail 1500mm,Mechanical Parts,21,pcs,146.4,2024-12-06,Mechanical Parts
+WO-2024-0071-I04,WO-2024-0071,MECH-2203,Servo Coupling 14/19mm,Mechanical Parts,96,pcs,32.99,2024-12-13,Mechanical Parts
+WO-2024-0071-I05,WO-2024-0071,ELEC-3302,Encoder 2500 PPR Differential,Electrical Components,36,pcs,99.96,2024-12-10,Electrical Components
+WO-2024-0071-I06,WO-2024-0071,MECH-2201,Precision Ball Screw Assy 25mm,Mechanical Parts,91,pcs,397.22,2024-12-12,Mechanical Parts
+WO-2024-0072-I01,WO-2024-0072,ELEC-3303,Limit Switch IP67 Stainless,Electrical Components,70,pcs,17.75,2024-06-11,Electrical Components
+WO-2024-0072-I02,WO-2024-0072,MECH-2202,Linear Guide Rail 1500mm,Mechanical Parts,93,pcs,178.93,2024-06-12,Mechanical Parts
+WO-2024-0072-I03,WO-2024-0072,RAW-4401,Steel HR Coil 3mm S235,Raw Materials,52,MT,728.13,2024-06-12,Raw Materials
+WO-2024-0072-I04,WO-2024-0072,RAW-4404,Stainless 316L Sheet 2mm,Raw Materials,67,kg,3.71,2024-06-11,Raw Materials
+WO-2024-0072-I05,WO-2024-0072,ELEC-3302,Encoder 2500 PPR Differential,Electrical Components,5,pcs,99.85,2024-06-10,Electrical Components
+WO-2024-0073-I01,WO-2024-0073,RAW-4403,Copper Busbar 40×4mm,Raw Materials,55,m,18.51,2024-10-14,Raw Materials
+WO-2024-0073-I02,WO-2024-0073,ELEC-3304,PLC I/O Module 32-channel DI,Electrical Components,59,pcs,358.69,2024-10-14,Electrical Components
+WO-2024-0074-I01,WO-2024-0074,ELEC-3304,PLC I/O Module 32-channel DI,Electrical Components,114,pcs,338.15,2025-04-23,Electrical Components
+WO-2024-0074-I02,WO-2024-0074,ELEC-3305,Power Supply 24VDC 20A DIN,Electrical Components,48,pcs,123.37,2025-04-17,Electrical Components
+WO-2024-0074-I03,WO-2024-0074,MECH-2203,Servo Coupling 14/19mm,Mechanical Parts,102,pcs,28.44,2025-04-17,Mechanical Parts
+WO-2024-0074-I04,WO-2024-0074,RAW-4404,Stainless 316L Sheet 2mm,Raw Materials,17,kg,4.41,2025-04-27,Raw Materials
+WO-2024-0076-I01,WO-2024-0076,ELEC-3302,Encoder 2500 PPR Differential,Electrical Components,95,pcs,84.57,2024-09-08,Electrical Components
+WO-2024-0076-I02,WO-2024-0076,RAW-4401,Steel HR Coil 3mm S235,Raw Materials,32,MT,707.76,2024-09-14,Raw Materials
+WO-2024-0076-I03,WO-2024-0076,MECH-2202,Linear Guide Rail 1500mm,Mechanical Parts,21,pcs,154.68,2024-09-10,Mechanical Parts
+WO-2024-0078-I01,WO-2024-0078,MECH-2202,Linear Guide Rail 1500mm,Mechanical Parts,6,pcs,166.49,2025-03-25,Mechanical Parts
+WO-2024-0078-I02,WO-2024-0078,ELEC-3304,PLC I/O Module 32-channel DI,Electrical Components,26,pcs,375.82,2025-03-25,Electrical Components
+WO-2024-0078-I03,WO-2024-0078,ELEC-3305,Power Supply 24VDC 20A DIN,Electrical Components,97,pcs,101.2,2025-03-27,Electrical Components
+WO-2024-0079-I01,WO-2024-0079,MECH-2202,Linear Guide Rail 1500mm,Mechanical Parts,101,pcs,135.17,2024-09-25,Mechanical Parts
+WO-2024-0079-I02,WO-2024-0079,RAW-4405,HDPE Rod 50mm dia,Raw Materials,98,m,14.51,2024-09-27,Raw Materials
+WO-2024-0079-I03,WO-2024-0079,MECH-2203,Servo Coupling 14/19mm,Mechanical Parts,59,pcs,31.34,2024-09-23,Mechanical Parts
+WO-2024-0081-I01,WO-2024-0081,ELEC-3304,PLC I/O Module 32-channel DI,Electrical Components,105,pcs,397.46,2024-04-26,Electrical Components
+WO-2024-0081-I02,WO-2024-0081,MECH-2204,Spindle Bearing Set NSK 7210,Mechanical Parts,35,pcs,214.39,2024-04-24,Mechanical Parts
+WO-2024-0081-I03,WO-2024-0081,RAW-4402,Aluminium Extrusion 6061-T6,Raw Materials,19,kg,3.03,2024-04-26,Raw Materials
+WO-2024-0081-I04,WO-2024-0081,ELEC-3302,Encoder 2500 PPR Differential,Electrical Components,86,pcs,97.53,2024-05-02,Electrical Components
+WO-2024-0081-I05,WO-2024-0081,MECH-2205,Cast Iron Bed Section Grade 300,Mechanical Parts,72,kg,4.45,2024-05-03,Mechanical Parts
+WO-2024-0081-I06,WO-2024-0081,MECH-2201,Precision Ball Screw Assy 25mm,Mechanical Parts,6,pcs,383.51,2024-04-25,Mechanical Parts
+WO-2024-0082-I01,WO-2024-0082,ELEC-3304,PLC I/O Module 32-channel DI,Electrical Components,103,pcs,314.39,2025-05-12,Electrical Components
+WO-2024-0082-I02,WO-2024-0082,RAW-4401,Steel HR Coil 3mm S235,Raw Materials,80,MT,627.0,2025-05-04,Raw Materials
+WO-2024-0082-I03,WO-2024-0082,MECH-2203,Servo Coupling 14/19mm,Mechanical Parts,38,pcs,28.81,2025-05-12,Mechanical Parts
+WO-2024-0082-I04,WO-2024-0082,ELEC-3303,Limit Switch IP67 Stainless,Electrical Components,12,pcs,21.58,2025-05-04,Electrical Components
+WO-2024-0083-I01,WO-2024-0083,ELEC-3302,Encoder 2500 PPR Differential,Electrical Components,73,pcs,91.48,2025-01-16,Electrical Components
+WO-2024-0083-I02,WO-2024-0083,RAW-4402,Aluminium Extrusion 6061-T6,Raw Materials,24,kg,2.96,2025-01-15,Raw Materials
+WO-2024-0083-I03,WO-2024-0083,RAW-4405,HDPE Rod 50mm dia,Raw Materials,44,m,11.26,2025-01-13,Raw Materials
+WO-2024-0083-I04,WO-2024-0083,MECH-2202,Linear Guide Rail 1500mm,Mechanical Parts,31,pcs,172.93,2025-01-06,Mechanical Parts
+WO-2024-0083-I05,WO-2024-0083,RAW-4401,Steel HR Coil 3mm S235,Raw Materials,24,MT,722.02,2025-01-08,Raw Materials
+WO-2024-0084-I01,WO-2024-0084,RAW-4402,Aluminium Extrusion 6061-T6,Raw Materials,12,kg,2.9,2025-02-19,Raw Materials
+WO-2024-0084-I02,WO-2024-0084,ELEC-3302,Encoder 2500 PPR Differential,Electrical Components,60,pcs,81.38,2025-02-15,Electrical Components
+WO-2024-0084-I03,WO-2024-0084,RAW-4405,HDPE Rod 50mm dia,Raw Materials,83,m,14.48,2025-02-13,Raw Materials
+WO-2024-0084-I04,WO-2024-0084,MECH-2204,Spindle Bearing Set NSK 7210,Mechanical Parts,44,pcs,242.04,2025-02-13,Mechanical Parts
+WO-2024-0085-I01,WO-2024-0085,RAW-4402,Aluminium Extrusion 6061-T6,Raw Materials,68,kg,3.37,2024-03-22,Raw Materials
+WO-2024-0085-I02,WO-2024-0085,MECH-2201,Precision Ball Screw Assy 25mm,Mechanical Parts,71,pcs,371.07,2024-03-20,Mechanical Parts
+WO-2024-0085-I03,WO-2024-0085,MECH-2203,Servo Coupling 14/19mm,Mechanical Parts,110,pcs,36.32,2024-03-15,Mechanical Parts
+WO-2024-0086-I01,WO-2024-0086,RAW-4403,Copper Busbar 40×4mm,Raw Materials,47,m,24.88,2025-03-09,Raw Materials
+WO-2024-0086-I02,WO-2024-0086,MECH-2201,Precision Ball Screw Assy 25mm,Mechanical Parts,39,pcs,408.25,2025-03-10,Mechanical Parts
+WO-2024-0087-I01,WO-2024-0087,ELEC-3303,Limit Switch IP67 Stainless,Electrical Components,114,pcs,18.52,2024-11-11,Electrical Components
+WO-2024-0087-I02,WO-2024-0087,ELEC-3304,PLC I/O Module 32-channel DI,Electrical Components,52,pcs,336.2,2024-11-06,Electrical Components
+WO-2024-0087-I03,WO-2024-0087,ELEC-3301,Servo Drive 5.5kW Siemens-compat,Electrical Components,103,pcs,1562.44,2024-11-13,Electrical Components
+WO-2024-0087-I04,WO-2024-0087,MECH-2201,Precision Ball Screw Assy 25mm,Mechanical Parts,78,pcs,393.12,2024-11-08,Mechanical Parts
+WO-2024-0087-I05,WO-2024-0087,RAW-4405,HDPE Rod 50mm dia,Raw Materials,19,m,12.74,2024-11-05,Raw Materials
+WO-2024-0088-I01,WO-2024-0088,MECH-2201,Precision Ball Screw Assy 25mm,Mechanical Parts,54,pcs,383.74,2025-05-03,Mechanical Parts
+WO-2024-0088-I02,WO-2024-0088,ELEC-3303,Limit Switch IP67 Stainless,Electrical Components,27,pcs,18.88,2025-05-06,Electrical Components
+WO-2024-0088-I03,WO-2024-0088,ELEC-3301,Servo Drive 5.5kW Siemens-compat,Electrical Components,114,pcs,1569.42,2025-05-05,Electrical Components
+WO-2024-0089-I01,WO-2024-0089,MECH-2204,Spindle Bearing Set NSK 7210,Mechanical Parts,39,pcs,235.71,2024-08-25,Mechanical Parts
+WO-2024-0089-I02,WO-2024-0089,ELEC-3302,Encoder 2500 PPR Differential,Electrical Components,78,pcs,91.1,2024-08-20,Electrical Components
+WO-2024-0089-I03,WO-2024-0089,RAW-4402,Aluminium Extrusion 6061-T6,Raw Materials,69,kg,3.19,2024-08-20,Raw Materials
+WO-2024-0089-I04,WO-2024-0089,ELEC-3301,Servo Drive 5.5kW Siemens-compat,Electrical Components,11,pcs,1547.33,2024-08-26,Electrical Components
+WO-2024-0090-I01,WO-2024-0090,RAW-4404,Stainless 316L Sheet 2mm,Raw Materials,16,kg,4.22,2024-08-02,Raw Materials
+WO-2024-0090-I02,WO-2024-0090,MECH-2205,Cast Iron Bed Section Grade 300,Mechanical Parts,6,kg,3.4,2024-07-28,Mechanical Parts
+WO-2024-0090-I03,WO-2024-0090,RAW-4403,Copper Busbar 40×4mm,Raw Materials,42,m,20.88,2024-07-22,Raw Materials
+WO-2024-0090-I04,WO-2024-0090,RAW-4405,HDPE Rod 50mm dia,Raw Materials,43,m,15.78,2024-08-02,Raw Materials
+WO-2024-0090-I05,WO-2024-0090,ELEC-3301,Servo Drive 5.5kW Siemens-compat,Electrical Components,36,pcs,1782.89,2024-07-30,Electrical Components
+WO-2024-0091-I01,WO-2024-0091,RAW-4403,Copper Busbar 40×4mm,Raw Materials,8,m,19.69,2025-02-02,Raw Materials
+WO-2024-0091-I02,WO-2024-0091,RAW-4405,HDPE Rod 50mm dia,Raw Materials,49,m,14.22,2025-02-10,Raw Materials
+WO-2024-0091-I03,WO-2024-0091,MECH-2204,Spindle Bearing Set NSK 7210,Mechanical Parts,93,pcs,245.69,2025-02-04,Mechanical Parts
+WO-2024-0091-I04,WO-2024-0091,MECH-2203,Servo Coupling 14/19mm,Mechanical Parts,47,pcs,28.17,2025-02-05,Mechanical Parts
+WO-2024-0091-I05,WO-2024-0091,MECH-2201,Precision Ball Screw Assy 25mm,Mechanical Parts,89,pcs,391.0,2025-02-06,Mechanical Parts
+WO-2024-0091-I06,WO-2024-0091,ELEC-3302,Encoder 2500 PPR Differential,Electrical Components,99,pcs,108.69,2025-02-12,Electrical Components
+WO-2024-0092-I01,WO-2024-0092,MECH-2201,Precision Ball Screw Assy 25mm,Mechanical Parts,10,pcs,385.24,2024-06-23,Mechanical Parts
+WO-2024-0092-I02,WO-2024-0092,MECH-2203,Servo Coupling 14/19mm,Mechanical Parts,119,pcs,35.16,2024-06-22,Mechanical Parts
+WO-2024-0092-I03,WO-2024-0092,RAW-4402,Aluminium Extrusion 6061-T6,Raw Materials,57,kg,3.45,2024-06-26,Raw Materials
+WO-2024-0092-I04,WO-2024-0092,MECH-2205,Cast Iron Bed Section Grade 300,Mechanical Parts,52,kg,3.49,2024-06-29,Mechanical Parts
+WO-2024-0092-I05,WO-2024-0092,MECH-2202,Linear Guide Rail 1500mm,Mechanical Parts,100,pcs,136.02,2024-07-01,Mechanical Parts
+WO-2024-0093-I01,WO-2024-0093,ELEC-3305,Power Supply 24VDC 20A DIN,Electrical Components,12,pcs,105.8,2025-01-16,Electrical Components
+WO-2024-0093-I02,WO-2024-0093,RAW-4405,HDPE Rod 50mm dia,Raw Materials,21,m,12.16,2025-01-21,Raw Materials
+WO-2024-0094-I01,WO-2024-0094,ELEC-3301,Servo Drive 5.5kW Siemens-compat,Electrical Components,14,pcs,1774.58,2025-05-05,Electrical Components
+WO-2024-0094-I02,WO-2024-0094,ELEC-3303,Limit Switch IP67 Stainless,Electrical Components,22,pcs,19.22,2025-05-03,Electrical Components
+WO-2024-0094-I03,WO-2024-0094,MECH-2205,Cast Iron Bed Section Grade 300,Mechanical Parts,79,kg,3.14,2025-05-02,Mechanical Parts
+WO-2024-0094-I04,WO-2024-0094,MECH-2204,Spindle Bearing Set NSK 7210,Mechanical Parts,18,pcs,198.64,2025-05-02,Mechanical Parts
+WO-2024-0095-I01,WO-2024-0095,RAW-4403,Copper Busbar 40×4mm,Raw Materials,64,m,20.28,2024-04-26,Raw Materials
+WO-2024-0095-I02,WO-2024-0095,MECH-2204,Spindle Bearing Set NSK 7210,Mechanical Parts,20,pcs,203.97,2024-04-26,Mechanical Parts
+WO-2024-0095-I03,WO-2024-0095,ELEC-3303,Limit Switch IP67 Stainless,Electrical Components,108,pcs,19.62,2024-05-01,Electrical Components
+WO-2024-0095-I04,WO-2024-0095,MECH-2205,Cast Iron Bed Section Grade 300,Mechanical Parts,110,kg,3.93,2024-04-26,Mechanical Parts
+WO-2024-0096-I01,WO-2024-0096,MECH-2202,Linear Guide Rail 1500mm,Mechanical Parts,50,pcs,142.99,2025-04-29,Mechanical Parts
+WO-2024-0096-I02,WO-2024-0096,RAW-4402,Aluminium Extrusion 6061-T6,Raw Materials,11,kg,3.49,2025-04-22,Raw Materials
+WO-2024-0096-I03,WO-2024-0096,MECH-2204,Spindle Bearing Set NSK 7210,Mechanical Parts,38,pcs,244.66,2025-04-28,Mechanical Parts
+WO-2024-0097-I01,WO-2024-0097,RAW-4402,Aluminium Extrusion 6061-T6,Raw Materials,107,kg,3.61,2024-09-25,Raw Materials
+WO-2024-0097-I02,WO-2024-0097,ELEC-3304,PLC I/O Module 32-channel DI,Electrical Components,20,pcs,300.24,2024-09-26,Electrical Components
+WO-2024-0097-I03,WO-2024-0097,MECH-2204,Spindle Bearing Set NSK 7210,Mechanical Parts,111,pcs,243.12,2024-09-17,Mechanical Parts
+WO-2024-0097-I04,WO-2024-0097,MECH-2202,Linear Guide Rail 1500mm,Mechanical Parts,33,pcs,149.89,2024-09-21,Mechanical Parts
+WO-2024-0097-I05,WO-2024-0097,ELEC-3303,Limit Switch IP67 Stainless,Electrical Components,110,pcs,16.26,2024-09-26,Electrical Components
+WO-2024-0097-I06,WO-2024-0097,RAW-4405,HDPE Rod 50mm dia,Raw Materials,92,m,14.11,2024-09-16,Raw Materials
+WO-2024-0098-I01,WO-2024-0098,MECH-2201,Precision Ball Screw Assy 25mm,Mechanical Parts,30,pcs,403.38,2024-12-20,Mechanical Parts
+WO-2024-0098-I02,WO-2024-0098,MECH-2202,Linear Guide Rail 1500mm,Mechanical Parts,61,pcs,160.32,2024-12-20,Mechanical Parts
+WO-2024-0099-I01,WO-2024-0099,MECH-2201,Precision Ball Screw Assy 25mm,Mechanical Parts,11,pcs,376.65,2025-03-13,Mechanical Parts
+WO-2024-0099-I02,WO-2024-0099,ELEC-3303,Limit Switch IP67 Stainless,Electrical Components,78,pcs,15.74,2025-03-13,Electrical Components
+WO-2024-0101-I01,WO-2024-0101,ELEC-3302,Encoder 2500 PPR Differential,Electrical Components,118,pcs,104.7,2024-07-15,Electrical Components
+WO-2024-0101-I02,WO-2024-0101,MECH-2204,Spindle Bearing Set NSK 7210,Mechanical Parts,36,pcs,223.32,2024-07-21,Mechanical Parts
+WO-2024-0101-I03,WO-2024-0101,RAW-4401,Steel HR Coil 3mm S235,Raw Materials,107,MT,747.84,2024-07-19,Raw Materials
+WO-2024-0102-I01,WO-2024-0102,ELEC-3304,PLC I/O Module 32-channel DI,Electrical Components,69,pcs,367.53,2025-02-11,Electrical Components
+WO-2024-0102-I02,WO-2024-0102,RAW-4403,Copper Busbar 40×4mm,Raw Materials,39,m,18.31,2025-02-17,Raw Materials
+WO-2024-0102-I03,WO-2024-0102,ELEC-3303,Limit Switch IP67 Stainless,Electrical Components,45,pcs,16.6,2025-02-09,Electrical Components
+WO-2024-0102-I04,WO-2024-0102,ELEC-3301,Servo Drive 5.5kW Siemens-compat,Electrical Components,8,pcs,1702.04,2025-02-13,Electrical Components
+WO-2024-0102-I05,WO-2024-0102,ELEC-3305,Power Supply 24VDC 20A DIN,Electrical Components,104,pcs,93.04,2025-02-13,Electrical Components
+WO-2024-0103-I01,WO-2024-0103,MECH-2202,Linear Guide Rail 1500mm,Mechanical Parts,35,pcs,149.41,2025-03-13,Mechanical Parts
+WO-2024-0103-I02,WO-2024-0103,MECH-2204,Spindle Bearing Set NSK 7210,Mechanical Parts,109,pcs,244.05,2025-03-15,Mechanical Parts
+WO-2024-0103-I03,WO-2024-0103,RAW-4401,Steel HR Coil 3mm S235,Raw Materials,99,MT,646.23,2025-03-19,Raw Materials
+WO-2024-0104-I01,WO-2024-0104,RAW-4405,HDPE Rod 50mm dia,Raw Materials,35,m,15.7,2025-03-10,Raw Materials
+WO-2024-0104-I02,WO-2024-0104,RAW-4404,Stainless 316L Sheet 2mm,Raw Materials,108,kg,4.42,2025-03-16,Raw Materials
+WO-2024-0104-I03,WO-2024-0104,MECH-2203,Servo Coupling 14/19mm,Mechanical Parts,50,pcs,40.55,2025-03-06,Mechanical Parts
+WO-2024-0104-I04,WO-2024-0104,RAW-4403,Copper Busbar 40×4mm,Raw Materials,8,m,22.34,2025-03-10,Raw Materials
+WO-2024-0105-I01,WO-2024-0105,MECH-2204,Spindle Bearing Set NSK 7210,Mechanical Parts,27,pcs,237.48,2024-10-23,Mechanical Parts
+WO-2024-0105-I02,WO-2024-0105,RAW-4404,Stainless 316L Sheet 2mm,Raw Materials,16,kg,3.86,2024-10-16,Raw Materials
+WO-2024-0105-I03,WO-2024-0105,RAW-4403,Copper Busbar 40×4mm,Raw Materials,82,m,18.09,2024-10-20,Raw Materials
+WO-2024-0105-I04,WO-2024-0105,ELEC-3303,Limit Switch IP67 Stainless,Electrical Components,72,pcs,16.66,2024-10-14,Electrical Components
+WO-2024-0105-I05,WO-2024-0105,ELEC-3304,PLC I/O Module 32-channel DI,Electrical Components,47,pcs,416.91,2024-10-20,Electrical Components
+WO-2024-0105-I06,WO-2024-0105,MECH-2205,Cast Iron Bed Section Grade 300,Mechanical Parts,30,kg,4.45,2024-10-20,Mechanical Parts
+WO-2024-0106-I01,WO-2024-0106,MECH-2201,Precision Ball Screw Assy 25mm,Mechanical Parts,80,pcs,379.29,2025-05-08,Mechanical Parts
+WO-2024-0106-I02,WO-2024-0106,MECH-2203,Servo Coupling 14/19mm,Mechanical Parts,23,pcs,38.78,2025-05-11,Mechanical Parts
+WO-2024-0107-I01,WO-2024-0107,ELEC-3305,Power Supply 24VDC 20A DIN,Electrical Components,22,pcs,115.52,2024-02-11,Electrical Components
+WO-2024-0107-I02,WO-2024-0107,MECH-2202,Linear Guide Rail 1500mm,Mechanical Parts,98,pcs,176.69,2024-02-17,Mechanical Parts
+WO-2024-0107-I03,WO-2024-0107,ELEC-3301,Servo Drive 5.5kW Siemens-compat,Electrical Components,106,pcs,1764.17,2024-02-21,Electrical Components
+WO-2024-0107-I04,WO-2024-0107,MECH-2205,Cast Iron Bed Section Grade 300,Mechanical Parts,67,kg,4.2,2024-02-14,Mechanical Parts
+WO-2024-0107-I05,WO-2024-0107,RAW-4403,Copper Busbar 40×4mm,Raw Materials,27,m,22.35,2024-02-13,Raw Materials
+WO-2024-0108-I01,WO-2024-0108,RAW-4401,Steel HR Coil 3mm S235,Raw Materials,53,MT,729.34,2025-05-14,Raw Materials
+WO-2024-0108-I02,WO-2024-0108,ELEC-3305,Power Supply 24VDC 20A DIN,Electrical Components,93,pcs,93.65,2025-05-17,Electrical Components
+WO-2024-0108-I03,WO-2024-0108,MECH-2203,Servo Coupling 14/19mm,Mechanical Parts,27,pcs,37.97,2025-05-11,Mechanical Parts
+WO-2024-0109-I01,WO-2024-0109,ELEC-3305,Power Supply 24VDC 20A DIN,Electrical Components,83,pcs,98.23,2024-07-26,Electrical Components
+WO-2024-0109-I02,WO-2024-0109,ELEC-3301,Servo Drive 5.5kW Siemens-compat,Electrical Components,77,pcs,1520.22,2024-07-19,Electrical Components
+WO-2024-0109-I03,WO-2024-0109,RAW-4403,Copper Busbar 40×4mm,Raw Materials,68,m,17.04,2024-07-18,Raw Materials
+WO-2024-0110-I01,WO-2024-0110,RAW-4401,Steel HR Coil 3mm S235,Raw Materials,90,MT,706.26,2024-08-15,Raw Materials
+WO-2024-0110-I02,WO-2024-0110,MECH-2202,Linear Guide Rail 1500mm,Mechanical Parts,118,pcs,140.08,2024-08-16,Mechanical Parts
+WO-2024-0110-I03,WO-2024-0110,RAW-4402,Aluminium Extrusion 6061-T6,Raw Materials,6,kg,2.84,2024-08-17,Raw Materials
+WO-2024-0113-I01,WO-2024-0113,MECH-2202,Linear Guide Rail 1500mm,Mechanical Parts,26,pcs,171.22,2024-08-07,Mechanical Parts
+WO-2024-0113-I02,WO-2024-0113,ELEC-3301,Servo Drive 5.5kW Siemens-compat,Electrical Components,25,pcs,1702.21,2024-08-06,Electrical Components
+WO-2024-0114-I01,WO-2024-0114,ELEC-3305,Power Supply 24VDC 20A DIN,Electrical Components,82,pcs,122.67,2024-02-26,Electrical Components
+WO-2024-0114-I02,WO-2024-0114,ELEC-3303,Limit Switch IP67 Stainless,Electrical Components,25,pcs,13.77,2024-02-27,Electrical Components
+WO-2024-0114-I03,WO-2024-0114,RAW-4402,Aluminium Extrusion 6061-T6,Raw Materials,47,kg,2.98,2024-02-26,Raw Materials
+WO-2024-0114-I04,WO-2024-0114,MECH-2201,Precision Ball Screw Assy 25mm,Mechanical Parts,29,pcs,359.66,2024-02-23,Mechanical Parts
+WO-2024-0114-I05,WO-2024-0114,ELEC-3302,Encoder 2500 PPR Differential,Electrical Components,75,pcs,107.81,2024-02-29,Electrical Components
+WO-2024-0114-I06,WO-2024-0114,MECH-2203,Servo Coupling 14/19mm,Mechanical Parts,98,pcs,34.13,2024-02-23,Mechanical Parts
+WO-2024-0115-I01,WO-2024-0115,ELEC-3302,Encoder 2500 PPR Differential,Electrical Components,75,pcs,106.43,2024-06-15,Electrical Components
+WO-2024-0115-I02,WO-2024-0115,ELEC-3305,Power Supply 24VDC 20A DIN,Electrical Components,24,pcs,98.66,2024-06-18,Electrical Components
+WO-2024-0116-I01,WO-2024-0116,MECH-2202,Linear Guide Rail 1500mm,Mechanical Parts,26,pcs,160.12,2024-07-31,Mechanical Parts
+WO-2024-0116-I02,WO-2024-0116,MECH-2201,Precision Ball Screw Assy 25mm,Mechanical Parts,15,pcs,351.11,2024-07-23,Mechanical Parts
+WO-2024-0116-I03,WO-2024-0116,MECH-2204,Spindle Bearing Set NSK 7210,Mechanical Parts,19,pcs,224.27,2024-07-26,Mechanical Parts
+WO-2024-0118-I01,WO-2024-0118,MECH-2205,Cast Iron Bed Section Grade 300,Mechanical Parts,24,kg,4.24,2024-07-05,Mechanical Parts
+WO-2024-0118-I02,WO-2024-0118,MECH-2204,Spindle Bearing Set NSK 7210,Mechanical Parts,90,pcs,198.63,2024-07-09,Mechanical Parts
+WO-2024-0118-I03,WO-2024-0118,RAW-4405,HDPE Rod 50mm dia,Raw Materials,90,m,13.17,2024-07-09,Raw Materials
+WO-2024-0118-I04,WO-2024-0118,ELEC-3305,Power Supply 24VDC 20A DIN,Electrical Components,74,pcs,104.71,2024-07-05,Electrical Components
+WO-2024-0118-I05,WO-2024-0118,MECH-2201,Precision Ball Screw Assy 25mm,Mechanical Parts,101,pcs,364.96,2024-07-13,Mechanical Parts
+WO-2024-0119-I01,WO-2024-0119,ELEC-3304,PLC I/O Module 32-channel DI,Electrical Components,65,pcs,328.1,2024-09-08,Electrical Components
+WO-2024-0119-I02,WO-2024-0119,RAW-4401,Steel HR Coil 3mm S235,Raw Materials,55,MT,692.26,2024-09-18,Raw Materials
+WO-2024-0119-I03,WO-2024-0119,ELEC-3303,Limit Switch IP67 Stainless,Electrical Components,96,pcs,12.71,2024-09-18,Electrical Components
+WO-2024-0119-I04,WO-2024-0119,ELEC-3305,Power Supply 24VDC 20A DIN,Electrical Components,78,pcs,113.89,2024-09-11,Electrical Components
+WO-2024-0119-I05,WO-2024-0119,MECH-2204,Spindle Bearing Set NSK 7210,Mechanical Parts,107,pcs,231.92,2024-09-16,Mechanical Parts
+WO-2024-0121-I01,WO-2024-0121,RAW-4405,HDPE Rod 50mm dia,Raw Materials,16,m,14.01,2024-12-21,Raw Materials
+WO-2024-0121-I02,WO-2024-0121,RAW-4402,Aluminium Extrusion 6061-T6,Raw Materials,55,kg,3.29,2024-12-20,Raw Materials
+WO-2024-0121-I03,WO-2024-0121,RAW-4403,Copper Busbar 40×4mm,Raw Materials,114,m,19.23,2024-12-19,Raw Materials
+WO-2024-0121-I04,WO-2024-0121,MECH-2202,Linear Guide Rail 1500mm,Mechanical Parts,63,pcs,176.18,2024-12-21,Mechanical Parts
+WO-2024-0122-I01,WO-2024-0122,MECH-2202,Linear Guide Rail 1500mm,Mechanical Parts,80,pcs,158.93,2024-12-09,Mechanical Parts
+WO-2024-0122-I02,WO-2024-0122,ELEC-3302,Encoder 2500 PPR Differential,Electrical Components,17,pcs,103.16,2024-12-12,Electrical Components
+WO-2024-0122-I03,WO-2024-0122,MECH-2203,Servo Coupling 14/19mm,Mechanical Parts,77,pcs,35.71,2024-12-12,Mechanical Parts
+WO-2024-0122-I04,WO-2024-0122,RAW-4403,Copper Busbar 40×4mm,Raw Materials,105,m,19.49,2024-12-20,Raw Materials
+WO-2024-0122-I05,WO-2024-0122,ELEC-3305,Power Supply 24VDC 20A DIN,Electrical Components,73,pcs,127.93,2024-12-11,Electrical Components
+WO-2024-0123-I01,WO-2024-0123,ELEC-3305,Power Supply 24VDC 20A DIN,Electrical Components,23,pcs,118.35,2025-01-29,Electrical Components
+WO-2024-0123-I02,WO-2024-0123,ELEC-3303,Limit Switch IP67 Stainless,Electrical Components,92,pcs,17.59,2025-01-19,Electrical Components
+WO-2024-0123-I03,WO-2024-0123,MECH-2201,Precision Ball Screw Assy 25mm,Mechanical Parts,9,pcs,377.5,2025-01-26,Mechanical Parts
+WO-2024-0123-I04,WO-2024-0123,MECH-2203,Servo Coupling 14/19mm,Mechanical Parts,117,pcs,30.85,2025-01-29,Mechanical Parts
+WO-2024-0123-I05,WO-2024-0123,MECH-2205,Cast Iron Bed Section Grade 300,Mechanical Parts,35,kg,3.13,2025-01-21,Mechanical Parts
+WO-2024-0123-I06,WO-2024-0123,ELEC-3302,Encoder 2500 PPR Differential,Electrical Components,65,pcs,100.71,2025-01-23,Electrical Components
+WO-2024-0124-I01,WO-2024-0124,MECH-2205,Cast Iron Bed Section Grade 300,Mechanical Parts,92,kg,3.21,2025-04-12,Mechanical Parts
+WO-2024-0124-I02,WO-2024-0124,RAW-4404,Stainless 316L Sheet 2mm,Raw Materials,116,kg,3.74,2025-04-21,Raw Materials
+WO-2024-0124-I03,WO-2024-0124,ELEC-3303,Limit Switch IP67 Stainless,Electrical Components,43,pcs,21.93,2025-04-13,Electrical Components
+WO-2024-0124-I04,WO-2024-0124,RAW-4402,Aluminium Extrusion 6061-T6,Raw Materials,61,kg,3.56,2025-04-14,Raw Materials
+WO-2024-0125-I01,WO-2024-0125,ELEC-3303,Limit Switch IP67 Stainless,Electrical Components,99,pcs,16.79,2024-09-20,Electrical Components
+WO-2024-0125-I02,WO-2024-0125,MECH-2204,Spindle Bearing Set NSK 7210,Mechanical Parts,71,pcs,233.22,2024-09-24,Mechanical Parts
+WO-2024-0125-I03,WO-2024-0125,ELEC-3302,Encoder 2500 PPR Differential,Electrical Components,110,pcs,87.49,2024-09-15,Electrical Components
+WO-2024-0126-I01,WO-2024-0126,MECH-2203,Servo Coupling 14/19mm,Mechanical Parts,27,pcs,29.72,2025-02-19,Mechanical Parts
+WO-2024-0126-I02,WO-2024-0126,RAW-4403,Copper Busbar 40×4mm,Raw Materials,111,m,17.72,2025-02-28,Raw Materials
+WO-2024-0126-I03,WO-2024-0126,ELEC-3304,PLC I/O Module 32-channel DI,Electrical Components,12,pcs,349.84,2025-02-24,Electrical Components
+WO-2024-0126-I04,WO-2024-0126,ELEC-3305,Power Supply 24VDC 20A DIN,Electrical Components,63,pcs,96.12,2025-02-19,Electrical Components
+WO-2024-0126-I05,WO-2024-0126,MECH-2201,Precision Ball Screw Assy 25mm,Mechanical Parts,51,pcs,360.77,2025-02-21,Mechanical Parts
+WO-2024-0128-I01,WO-2024-0128,MECH-2201,Precision Ball Screw Assy 25mm,Mechanical Parts,114,pcs,370.39,2025-01-09,Mechanical Parts
+WO-2024-0128-I02,WO-2024-0128,ELEC-3302,Encoder 2500 PPR Differential,Electrical Components,32,pcs,98.02,2025-01-12,Electrical Components
+WO-2024-0128-I03,WO-2024-0128,RAW-4405,HDPE Rod 50mm dia,Raw Materials,87,m,12.88,2025-01-04,Raw Materials
+WO-2024-0128-I04,WO-2024-0128,MECH-2203,Servo Coupling 14/19mm,Mechanical Parts,31,pcs,31.24,2025-01-03,Mechanical Parts
+WO-2024-0129-I01,WO-2024-0129,RAW-4405,HDPE Rod 50mm dia,Raw Materials,107,m,11.0,2025-05-06,Raw Materials
+WO-2024-0129-I02,WO-2024-0129,MECH-2203,Servo Coupling 14/19mm,Mechanical Parts,37,pcs,36.22,2025-05-08,Mechanical Parts
+WO-2024-0129-I03,WO-2024-0129,RAW-4401,Steel HR Coil 3mm S235,Raw Materials,44,MT,699.85,2025-05-07,Raw Materials
+WO-2024-0129-I04,WO-2024-0129,RAW-4404,Stainless 316L Sheet 2mm,Raw Materials,95,kg,4.58,2025-04-29,Raw Materials
+WO-2024-0129-I05,WO-2024-0129,ELEC-3305,Power Supply 24VDC 20A DIN,Electrical Components,59,pcs,127.7,2025-05-06,Electrical Components
+WO-2024-0130-I01,WO-2024-0130,RAW-4401,Steel HR Coil 3mm S235,Raw Materials,79,MT,658.39,2024-06-10,Raw Materials
+WO-2024-0130-I02,WO-2024-0130,ELEC-3304,PLC I/O Module 32-channel DI,Electrical Components,70,pcs,379.39,2024-06-11,Electrical Components
+WO-2024-0130-I03,WO-2024-0130,ELEC-3305,Power Supply 24VDC 20A DIN,Electrical Components,112,pcs,122.24,2024-06-15,Electrical Components
+WO-2024-0130-I04,WO-2024-0130,ELEC-3302,Encoder 2500 PPR Differential,Electrical Components,76,pcs,93.62,2024-06-16,Electrical Components
+WO-2024-0131-I01,WO-2024-0131,MECH-2202,Linear Guide Rail 1500mm,Mechanical Parts,115,pcs,144.76,2025-02-02,Mechanical Parts
+WO-2024-0131-I02,WO-2024-0131,ELEC-3301,Servo Drive 5.5kW Siemens-compat,Electrical Components,88,pcs,1763.97,2025-01-29,Electrical Components
+WO-2024-0131-I03,WO-2024-0131,MECH-2205,Cast Iron Bed Section Grade 300,Mechanical Parts,119,kg,3.87,2025-01-27,Mechanical Parts
+WO-2024-0131-I04,WO-2024-0131,RAW-4401,Steel HR Coil 3mm S235,Raw Materials,29,MT,688.57,2025-01-30,Raw Materials
+WO-2024-0131-I05,WO-2024-0131,RAW-4404,Stainless 316L Sheet 2mm,Raw Materials,102,kg,3.72,2025-01-29,Raw Materials
+WO-2024-0132-I01,WO-2024-0132,RAW-4401,Steel HR Coil 3mm S235,Raw Materials,88,MT,692.76,2025-03-09,Raw Materials
+WO-2024-0132-I02,WO-2024-0132,MECH-2203,Servo Coupling 14/19mm,Mechanical Parts,42,pcs,29.23,2025-03-11,Mechanical Parts
+WO-2024-0132-I03,WO-2024-0132,RAW-4402,Aluminium Extrusion 6061-T6,Raw Materials,58,kg,3.18,2025-03-19,Raw Materials
+WO-2024-0132-I04,WO-2024-0132,MECH-2201,Precision Ball Screw Assy 25mm,Mechanical Parts,99,pcs,340.84,2025-03-11,Mechanical Parts
+WO-2024-0133-I01,WO-2024-0133,RAW-4402,Aluminium Extrusion 6061-T6,Raw Materials,73,kg,3.47,2025-03-01,Raw Materials
+WO-2024-0133-I02,WO-2024-0133,RAW-4405,HDPE Rod 50mm dia,Raw Materials,65,m,16.01,2025-03-05,Raw Materials
+WO-2024-0133-I03,WO-2024-0133,MECH-2204,Spindle Bearing Set NSK 7210,Mechanical Parts,90,pcs,208.72,2025-02-25,Mechanical Parts
+WO-2024-0133-I04,WO-2024-0133,RAW-4401,Steel HR Coil 3mm S235,Raw Materials,43,MT,716.11,2025-02-24,Raw Materials
+WO-2024-0134-I01,WO-2024-0134,ELEC-3303,Limit Switch IP67 Stainless,Electrical Components,99,pcs,15.31,2024-04-06,Electrical Components
+WO-2024-0134-I02,WO-2024-0134,MECH-2203,Servo Coupling 14/19mm,Mechanical Parts,108,pcs,34.99,2024-04-14,Mechanical Parts
+WO-2024-0135-I01,WO-2024-0135,MECH-2204,Spindle Bearing Set NSK 7210,Mechanical Parts,33,pcs,217.96,2025-04-20,Mechanical Parts
+WO-2024-0135-I02,WO-2024-0135,ELEC-3301,Servo Drive 5.5kW Siemens-compat,Electrical Components,44,pcs,1693.62,2025-04-11,Electrical Components
+WO-2024-0136-I01,WO-2024-0136,RAW-4404,Stainless 316L Sheet 2mm,Raw Materials,79,kg,3.93,2024-12-14,Raw Materials
+WO-2024-0136-I02,WO-2024-0136,MECH-2202,Linear Guide Rail 1500mm,Mechanical Parts,84,pcs,131.69,2024-12-14,Mechanical Parts
+WO-2024-0136-I03,WO-2024-0136,ELEC-3303,Limit Switch IP67 Stainless,Electrical Components,118,pcs,15.12,2024-12-20,Electrical Components
+WO-2024-0136-I04,WO-2024-0136,MECH-2201,Precision Ball Screw Assy 25mm,Mechanical Parts,20,pcs,420.12,2024-12-13,Mechanical Parts
+WO-2024-0136-I05,WO-2024-0136,RAW-4401,Steel HR Coil 3mm S235,Raw Materials,53,MT,661.75,2024-12-22,Raw Materials
+WO-2024-0138-I01,WO-2024-0138,RAW-4401,Steel HR Coil 3mm S235,Raw Materials,40,MT,642.12,2025-01-12,Raw Materials
+WO-2024-0138-I02,WO-2024-0138,MECH-2201,Precision Ball Screw Assy 25mm,Mechanical Parts,104,pcs,378.0,2025-01-09,Mechanical Parts
+WO-2024-0138-I03,WO-2024-0138,RAW-4404,Stainless 316L Sheet 2mm,Raw Materials,102,kg,3.66,2025-01-03,Raw Materials
+WO-2024-0138-I04,WO-2024-0138,ELEC-3303,Limit Switch IP67 Stainless,Electrical Components,105,pcs,20.33,2025-01-03,Electrical Components
+WO-2024-0139-I01,WO-2024-0139,ELEC-3302,Encoder 2500 PPR Differential,Electrical Components,73,pcs,90.9,2024-10-04,Electrical Components
+WO-2024-0139-I02,WO-2024-0139,ELEC-3303,Limit Switch IP67 Stainless,Electrical Components,52,pcs,19.79,2024-10-08,Electrical Components
+WO-2024-0139-I03,WO-2024-0139,RAW-4405,HDPE Rod 50mm dia,Raw Materials,119,m,12.8,2024-10-09,Raw Materials
+WO-2024-0139-I04,WO-2024-0139,MECH-2201,Precision Ball Screw Assy 25mm,Mechanical Parts,111,pcs,374.59,2024-10-04,Mechanical Parts
+WO-2024-0139-I05,WO-2024-0139,RAW-4402,Aluminium Extrusion 6061-T6,Raw Materials,7,kg,3.58,2024-10-05,Raw Materials
+WO-2024-0140-I01,WO-2024-0140,MECH-2203,Servo Coupling 14/19mm,Mechanical Parts,80,pcs,30.64,2024-05-24,Mechanical Parts
+WO-2024-0140-I02,WO-2024-0140,MECH-2202,Linear Guide Rail 1500mm,Mechanical Parts,13,pcs,167.82,2024-05-25,Mechanical Parts
+WO-2024-0140-I03,WO-2024-0140,ELEC-3302,Encoder 2500 PPR Differential,Electrical Components,43,pcs,110.24,2024-05-26,Electrical Components
+WO-2024-0140-I04,WO-2024-0140,ELEC-3304,PLC I/O Module 32-channel DI,Electrical Components,63,pcs,358.46,2024-05-21,Electrical Components
+WO-2024-0141-I01,WO-2024-0141,RAW-4405,HDPE Rod 50mm dia,Raw Materials,26,m,17.34,2024-10-02,Raw Materials
+WO-2024-0141-I02,WO-2024-0141,ELEC-3303,Limit Switch IP67 Stainless,Electrical Components,108,pcs,15.25,2024-10-02,Electrical Components
+WO-2024-0141-I03,WO-2024-0141,ELEC-3301,Servo Drive 5.5kW Siemens-compat,Electrical Components,34,pcs,1648.59,2024-09-29,Electrical Components
+WO-2024-0141-I04,WO-2024-0141,MECH-2204,Spindle Bearing Set NSK 7210,Mechanical Parts,21,pcs,218.09,2024-10-03,Mechanical Parts
+WO-2024-0142-I01,WO-2024-0142,RAW-4402,Aluminium Extrusion 6061-T6,Raw Materials,53,kg,3.59,2024-04-18,Raw Materials
+WO-2024-0142-I02,WO-2024-0142,RAW-4401,Steel HR Coil 3mm S235,Raw Materials,37,MT,684.4,2024-04-17,Raw Materials
+WO-2024-0142-I03,WO-2024-0142,RAW-4403,Copper Busbar 40×4mm,Raw Materials,84,m,18.51,2024-04-13,Raw Materials
+WO-2024-0142-I04,WO-2024-0142,MECH-2201,Precision Ball Screw Assy 25mm,Mechanical Parts,11,pcs,357.91,2024-04-11,Mechanical Parts
+WO-2024-0143-I01,WO-2024-0143,ELEC-3303,Limit Switch IP67 Stainless,Electrical Components,65,pcs,19.57,2024-02-19,Electrical Components
+WO-2024-0143-I02,WO-2024-0143,ELEC-3302,Encoder 2500 PPR Differential,Electrical Components,31,pcs,102.03,2024-02-20,Electrical Components
+WO-2024-0143-I03,WO-2024-0143,MECH-2202,Linear Guide Rail 1500mm,Mechanical Parts,85,pcs,135.71,2024-02-09,Mechanical Parts
+WO-2024-0143-I04,WO-2024-0143,ELEC-3304,PLC I/O Module 32-channel DI,Electrical Components,58,pcs,390.78,2024-02-13,Electrical Components
+WO-2024-0143-I05,WO-2024-0143,MECH-2205,Cast Iron Bed Section Grade 300,Mechanical Parts,89,kg,3.61,2024-02-12,Mechanical Parts
+WO-2024-0144-I01,WO-2024-0144,ELEC-3304,PLC I/O Module 32-channel DI,Electrical Components,84,pcs,327.09,2024-04-01,Electrical Components
+WO-2024-0144-I02,WO-2024-0144,RAW-4402,Aluminium Extrusion 6061-T6,Raw Materials,19,kg,3.68,2024-04-01,Raw Materials
+WO-2024-0146-I01,WO-2024-0146,RAW-4402,Aluminium Extrusion 6061-T6,Raw Materials,17,kg,3.66,2024-04-15,Raw Materials
+WO-2024-0146-I02,WO-2024-0146,RAW-4405,HDPE Rod 50mm dia,Raw Materials,87,m,13.0,2024-04-17,Raw Materials
+WO-2024-0147-I01,WO-2024-0147,RAW-4404,Stainless 316L Sheet 2mm,Raw Materials,51,kg,4.37,2024-03-19,Raw Materials
+WO-2024-0147-I02,WO-2024-0147,MECH-2201,Precision Ball Screw Assy 25mm,Mechanical Parts,45,pcs,384.45,2024-03-15,Mechanical Parts
+WO-2024-0147-I03,WO-2024-0147,MECH-2205,Cast Iron Bed Section Grade 300,Mechanical Parts,19,kg,3.18,2024-03-10,Mechanical Parts
+WO-2024-0148-I01,WO-2024-0148,ELEC-3301,Servo Drive 5.5kW Siemens-compat,Electrical Components,117,pcs,1652.17,2024-04-24,Electrical Components
+WO-2024-0148-I02,WO-2024-0148,ELEC-3303,Limit Switch IP67 Stainless,Electrical Components,52,pcs,18.74,2024-04-27,Electrical Components
+WO-2024-0148-I03,WO-2024-0148,ELEC-3305,Power Supply 24VDC 20A DIN,Electrical Components,28,pcs,87.98,2024-04-25,Electrical Components
+WO-2024-0148-I04,WO-2024-0148,MECH-2205,Cast Iron Bed Section Grade 300,Mechanical Parts,56,kg,4.6,2024-04-26,Mechanical Parts
+WO-2024-0149-I01,WO-2024-0149,RAW-4401,Steel HR Coil 3mm S235,Raw Materials,94,MT,670.66,2025-01-11,Raw Materials
+WO-2024-0149-I02,WO-2024-0149,RAW-4403,Copper Busbar 40×4mm,Raw Materials,113,m,17.08,2025-01-21,Raw Materials
+WO-2024-0149-I03,WO-2024-0149,MECH-2203,Servo Coupling 14/19mm,Mechanical Parts,58,pcs,37.08,2025-01-12,Mechanical Parts
+WO-2024-0149-I04,WO-2024-0149,MECH-2202,Linear Guide Rail 1500mm,Mechanical Parts,66,pcs,168.48,2025-01-15,Mechanical Parts
+WO-2024-0149-I05,WO-2024-0149,RAW-4404,Stainless 316L Sheet 2mm,Raw Materials,91,kg,4.33,2025-01-14,Raw Materials
+WO-2024-0150-I01,WO-2024-0150,ELEC-3303,Limit Switch IP67 Stainless,Electrical Components,118,pcs,15.3,2024-08-20,Electrical Components
+WO-2024-0150-I02,WO-2024-0150,RAW-4405,HDPE Rod 50mm dia,Raw Materials,10,m,11.74,2024-08-22,Raw Materials
+WO-2024-0150-I03,WO-2024-0150,MECH-2202,Linear Guide Rail 1500mm,Mechanical Parts,88,pcs,147.57,2024-08-13,Mechanical Parts
+WO-2024-0152-I01,WO-2024-0152,RAW-4401,Steel HR Coil 3mm S235,Raw Materials,69,MT,679.79,2024-11-01,Raw Materials
+WO-2024-0152-I02,WO-2024-0152,MECH-2203,Servo Coupling 14/19mm,Mechanical Parts,114,pcs,34.76,2024-11-04,Mechanical Parts
+WO-2024-0153-I01,WO-2024-0153,ELEC-3301,Servo Drive 5.5kW Siemens-compat,Electrical Components,69,pcs,1707.27,2024-11-04,Electrical Components
+WO-2024-0153-I02,WO-2024-0153,MECH-2205,Cast Iron Bed Section Grade 300,Mechanical Parts,87,kg,3.62,2024-10-27,Mechanical Parts
+WO-2024-0153-I03,WO-2024-0153,MECH-2201,Precision Ball Screw Assy 25mm,Mechanical Parts,109,pcs,354.7,2024-11-02,Mechanical Parts
+WO-2024-0154-I01,WO-2024-0154,RAW-4404,Stainless 316L Sheet 2mm,Raw Materials,62,kg,4.22,2024-12-10,Raw Materials
+WO-2024-0154-I02,WO-2024-0154,ELEC-3303,Limit Switch IP67 Stainless,Electrical Components,68,pcs,19.09,2024-12-14,Electrical Components
+WO-2024-0155-I01,WO-2024-0155,ELEC-3304,PLC I/O Module 32-channel DI,Electrical Components,118,pcs,352.87,2024-09-18,Electrical Components
+WO-2024-0155-I02,WO-2024-0155,MECH-2201,Precision Ball Screw Assy 25mm,Mechanical Parts,31,pcs,373.01,2024-09-13,Mechanical Parts
+WO-2024-0155-I03,WO-2024-0155,MECH-2202,Linear Guide Rail 1500mm,Mechanical Parts,63,pcs,161.06,2024-09-14,Mechanical Parts
+WO-2024-0155-I04,WO-2024-0155,ELEC-3305,Power Supply 24VDC 20A DIN,Electrical Components,51,pcs,118.62,2024-09-12,Electrical Components
+WO-2024-0155-I05,WO-2024-0155,RAW-4402,Aluminium Extrusion 6061-T6,Raw Materials,109,kg,2.83,2024-09-10,Raw Materials
+WO-2024-0155-I06,WO-2024-0155,MECH-2205,Cast Iron Bed Section Grade 300,Mechanical Parts,63,kg,3.3,2024-09-18,Mechanical Parts
+WO-2024-0156-I01,WO-2024-0156,MECH-2202,Linear Guide Rail 1500mm,Mechanical Parts,5,pcs,141.58,2025-01-24,Mechanical Parts
+WO-2024-0156-I02,WO-2024-0156,RAW-4405,HDPE Rod 50mm dia,Raw Materials,111,m,14.08,2025-01-31,Raw Materials
+WO-2024-0156-I03,WO-2024-0156,RAW-4403,Copper Busbar 40×4mm,Raw Materials,107,m,18.41,2025-01-30,Raw Materials
+WO-2024-0156-I04,WO-2024-0156,RAW-4401,Steel HR Coil 3mm S235,Raw Materials,71,MT,708.41,2025-01-22,Raw Materials
+WO-2024-0156-I05,WO-2024-0156,MECH-2204,Spindle Bearing Set NSK 7210,Mechanical Parts,18,pcs,213.17,2025-01-25,Mechanical Parts
+WO-2024-0157-I01,WO-2024-0157,MECH-2205,Cast Iron Bed Section Grade 300,Mechanical Parts,30,kg,3.39,2025-04-16,Mechanical Parts
+WO-2024-0157-I02,WO-2024-0157,ELEC-3305,Power Supply 24VDC 20A DIN,Electrical Components,114,pcs,102.56,2025-04-21,Electrical Components
+WO-2024-0158-I01,WO-2024-0158,RAW-4403,Copper Busbar 40×4mm,Raw Materials,10,m,24.91,2024-04-28,Raw Materials
+WO-2024-0158-I02,WO-2024-0158,ELEC-3302,Encoder 2500 PPR Differential,Electrical Components,112,pcs,107.53,2024-04-27,Electrical Components
+WO-2024-0159-I01,WO-2024-0159,ELEC-3304,PLC I/O Module 32-channel DI,Electrical Components,75,pcs,397.43,2024-09-16,Electrical Components
+WO-2024-0159-I02,WO-2024-0159,MECH-2203,Servo Coupling 14/19mm,Mechanical Parts,112,pcs,32.44,2024-09-11,Mechanical Parts
+WO-2024-0159-I03,WO-2024-0159,ELEC-3303,Limit Switch IP67 Stainless,Electrical Components,70,pcs,20.59,2024-09-10,Electrical Components
+WO-2024-0159-I04,WO-2024-0159,MECH-2201,Precision Ball Screw Assy 25mm,Mechanical Parts,27,pcs,379.4,2024-09-11,Mechanical Parts
+WO-2024-0159-I05,WO-2024-0159,RAW-4405,HDPE Rod 50mm dia,Raw Materials,27,m,15.58,2024-09-12,Raw Materials
+WO-2024-0159-I06,WO-2024-0159,RAW-4402,Aluminium Extrusion 6061-T6,Raw Materials,21,kg,2.95,2024-09-09,Raw Materials
+WO-2024-0160-I01,WO-2024-0160,RAW-4405,HDPE Rod 50mm dia,Raw Materials,55,m,16.02,2025-04-21,Raw Materials
+WO-2024-0160-I02,WO-2024-0160,ELEC-3302,Encoder 2500 PPR Differential,Electrical Components,42,pcs,95.18,2025-04-26,Electrical Components
+WO-2024-0160-I03,WO-2024-0160,RAW-4404,Stainless 316L Sheet 2mm,Raw Materials,22,kg,3.85,2025-04-28,Raw Materials
+WO-2024-0160-I04,WO-2024-0160,ELEC-3305,Power Supply 24VDC 20A DIN,Electrical Components,82,pcs,106.06,2025-04-23,Electrical Components
+WO-2024-0160-I05,WO-2024-0160,MECH-2204,Spindle Bearing Set NSK 7210,Mechanical Parts,100,pcs,216.74,2025-04-22,Mechanical Parts
+WO-2024-0160-I06,WO-2024-0160,MECH-2205,Cast Iron Bed Section Grade 300,Mechanical Parts,112,kg,3.95,2025-04-19,Mechanical Parts
+WO-2024-0161-I01,WO-2024-0161,MECH-2204,Spindle Bearing Set NSK 7210,Mechanical Parts,96,pcs,199.24,2025-05-20,Mechanical Parts
+WO-2024-0161-I02,WO-2024-0161,RAW-4405,HDPE Rod 50mm dia,Raw Materials,49,m,15.86,2025-05-28,Raw Materials
+WO-2024-0161-I03,WO-2024-0161,ELEC-3305,Power Supply 24VDC 20A DIN,Electrical Components,21,pcs,122.61,2025-05-27,Electrical Components
+WO-2024-0163-I01,WO-2024-0163,MECH-2201,Precision Ball Screw Assy 25mm,Mechanical Parts,30,pcs,366.72,2024-03-02,Mechanical Parts
+WO-2024-0163-I02,WO-2024-0163,RAW-4401,Steel HR Coil 3mm S235,Raw Materials,105,MT,686.7,2024-03-08,Raw Materials
+WO-2024-0163-I03,WO-2024-0163,RAW-4405,HDPE Rod 50mm dia,Raw Materials,41,m,14.69,2024-03-12,Raw Materials
+WO-2024-0164-I01,WO-2024-0164,RAW-4403,Copper Busbar 40×4mm,Raw Materials,50,m,24.55,2025-01-11,Raw Materials
+WO-2024-0164-I02,WO-2024-0164,ELEC-3304,PLC I/O Module 32-channel DI,Electrical Components,18,pcs,391.16,2025-01-16,Electrical Components
+WO-2024-0164-I03,WO-2024-0164,MECH-2201,Precision Ball Screw Assy 25mm,Mechanical Parts,91,pcs,387.44,2025-01-10,Mechanical Parts
+WO-2024-0166-I01,WO-2024-0166,RAW-4402,Aluminium Extrusion 6061-T6,Raw Materials,30,kg,3.23,2024-11-27,Raw Materials
+WO-2024-0166-I02,WO-2024-0166,MECH-2205,Cast Iron Bed Section Grade 300,Mechanical Parts,104,kg,4.32,2024-11-26,Mechanical Parts
+WO-2024-0167-I01,WO-2024-0167,ELEC-3304,PLC I/O Module 32-channel DI,Electrical Components,62,pcs,313.28,2025-05-04,Electrical Components
+WO-2024-0167-I02,WO-2024-0167,RAW-4402,Aluminium Extrusion 6061-T6,Raw Materials,92,kg,2.64,2025-05-11,Raw Materials
+WO-2024-0167-I03,WO-2024-0167,ELEC-3305,Power Supply 24VDC 20A DIN,Electrical Components,27,pcs,108.12,2025-05-06,Electrical Components
+WO-2024-0167-I04,WO-2024-0167,MECH-2204,Spindle Bearing Set NSK 7210,Mechanical Parts,20,pcs,216.09,2025-05-11,Mechanical Parts
+WO-2024-0167-I05,WO-2024-0167,RAW-4404,Stainless 316L Sheet 2mm,Raw Materials,59,kg,4.05,2025-05-10,Raw Materials
+WO-2024-0167-I06,WO-2024-0167,MECH-2205,Cast Iron Bed Section Grade 300,Mechanical Parts,38,kg,3.42,2025-05-04,Mechanical Parts
+WO-2024-0168-I01,WO-2024-0168,RAW-4402,Aluminium Extrusion 6061-T6,Raw Materials,81,kg,2.83,2024-01-25,Raw Materials
+WO-2024-0168-I02,WO-2024-0168,MECH-2203,Servo Coupling 14/19mm,Mechanical Parts,85,pcs,36.61,2024-02-01,Mechanical Parts
+WO-2024-0168-I03,WO-2024-0168,MECH-2201,Precision Ball Screw Assy 25mm,Mechanical Parts,89,pcs,367.6,2024-01-25,Mechanical Parts
+WO-2024-0168-I04,WO-2024-0168,RAW-4404,Stainless 316L Sheet 2mm,Raw Materials,106,kg,4.2,2024-01-30,Raw Materials
+WO-2024-0168-I05,WO-2024-0168,ELEC-3301,Servo Drive 5.5kW Siemens-compat,Electrical Components,50,pcs,1609.7,2024-01-26,Electrical Components
+WO-2024-0169-I01,WO-2024-0169,MECH-2202,Linear Guide Rail 1500mm,Mechanical Parts,73,pcs,145.52,2024-06-09,Mechanical Parts
+WO-2024-0169-I02,WO-2024-0169,RAW-4403,Copper Busbar 40×4mm,Raw Materials,49,m,18.6,2024-06-11,Raw Materials
+WO-2024-0169-I03,WO-2024-0169,ELEC-3304,PLC I/O Module 32-channel DI,Electrical Components,32,pcs,394.98,2024-06-05,Electrical Components
+WO-2024-0169-I04,WO-2024-0169,MECH-2203,Servo Coupling 14/19mm,Mechanical Parts,47,pcs,33.46,2024-06-05,Mechanical Parts
+WO-2024-0169-I05,WO-2024-0169,ELEC-3302,Encoder 2500 PPR Differential,Electrical Components,32,pcs,114.31,2024-06-08,Electrical Components
+WO-2024-0169-I06,WO-2024-0169,RAW-4404,Stainless 316L Sheet 2mm,Raw Materials,84,kg,4.46,2024-06-14,Raw Materials
+WO-2024-0170-I01,WO-2024-0170,RAW-4401,Steel HR Coil 3mm S235,Raw Materials,62,MT,679.15,2024-12-16,Raw Materials
+WO-2024-0170-I02,WO-2024-0170,ELEC-3301,Servo Drive 5.5kW Siemens-compat,Electrical Components,87,pcs,1821.93,2024-12-12,Electrical Components
+WO-2024-0171-I01,WO-2024-0171,RAW-4405,HDPE Rod 50mm dia,Raw Materials,74,m,15.66,2024-03-19,Raw Materials
+WO-2024-0171-I02,WO-2024-0171,RAW-4403,Copper Busbar 40×4mm,Raw Materials,8,m,24.71,2024-03-13,Raw Materials
+WO-2024-0171-I03,WO-2024-0171,MECH-2202,Linear Guide Rail 1500mm,Mechanical Parts,110,pcs,174.2,2024-03-17,Mechanical Parts
+WO-2024-0171-I04,WO-2024-0171,ELEC-3302,Encoder 2500 PPR Differential,Electrical Components,70,pcs,102.02,2024-03-16,Electrical Components
+WO-2024-0171-I05,WO-2024-0171,MECH-2205,Cast Iron Bed Section Grade 300,Mechanical Parts,62,kg,3.86,2024-03-18,Mechanical Parts
+WO-2024-0173-I01,WO-2024-0173,MECH-2201,Precision Ball Screw Assy 25mm,Mechanical Parts,47,pcs,375.65,2024-12-23,Mechanical Parts
+WO-2024-0173-I02,WO-2024-0173,ELEC-3303,Limit Switch IP67 Stainless,Electrical Components,14,pcs,14.67,2024-12-16,Electrical Components
+WO-2024-0173-I03,WO-2024-0173,RAW-4402,Aluminium Extrusion 6061-T6,Raw Materials,106,kg,3.09,2024-12-12,Raw Materials
+WO-2024-0174-I01,WO-2024-0174,ELEC-3302,Encoder 2500 PPR Differential,Electrical Components,45,pcs,77.86,2024-05-17,Electrical Components
+WO-2024-0174-I02,WO-2024-0174,ELEC-3303,Limit Switch IP67 Stainless,Electrical Components,91,pcs,13.3,2024-05-16,Electrical Components
+WO-2024-0174-I03,WO-2024-0174,RAW-4401,Steel HR Coil 3mm S235,Raw Materials,5,MT,692.85,2024-05-27,Raw Materials
+WO-2024-0174-I04,WO-2024-0174,RAW-4405,HDPE Rod 50mm dia,Raw Materials,84,m,11.41,2024-05-23,Raw Materials
+WO-2024-0174-I05,WO-2024-0174,RAW-4402,Aluminium Extrusion 6061-T6,Raw Materials,100,kg,3.35,2024-05-18,Raw Materials
+WO-2024-0175-I01,WO-2024-0175,MECH-2205,Cast Iron Bed Section Grade 300,Mechanical Parts,92,kg,3.41,2024-08-06,Mechanical Parts
+WO-2024-0175-I02,WO-2024-0175,RAW-4403,Copper Busbar 40×4mm,Raw Materials,16,m,19.28,2024-07-27,Raw Materials
+WO-2024-0176-I01,WO-2024-0176,MECH-2203,Servo Coupling 14/19mm,Mechanical Parts,106,pcs,37.01,2025-04-16,Mechanical Parts
+WO-2024-0176-I02,WO-2024-0176,ELEC-3304,PLC I/O Module 32-channel DI,Electrical Components,74,pcs,338.58,2025-04-14,Electrical Components
+WO-2024-0176-I03,WO-2024-0176,MECH-2204,Spindle Bearing Set NSK 7210,Mechanical Parts,86,pcs,210.85,2025-04-05,Mechanical Parts
+WO-2024-0176-I04,WO-2024-0176,RAW-4405,HDPE Rod 50mm dia,Raw Materials,91,m,15.4,2025-04-05,Raw Materials
+WO-2024-0176-I05,WO-2024-0176,ELEC-3302,Encoder 2500 PPR Differential,Electrical Components,106,pcs,110.11,2025-04-14,Electrical Components
+WO-2024-0177-I01,WO-2024-0177,RAW-4404,Stainless 316L Sheet 2mm,Raw Materials,78,kg,4.22,2025-06-14,Raw Materials
+WO-2024-0177-I02,WO-2024-0177,ELEC-3304,PLC I/O Module 32-channel DI,Electrical Components,73,pcs,384.55,2025-06-12,Electrical Components
+WO-2024-0177-I03,WO-2024-0177,MECH-2203,Servo Coupling 14/19mm,Mechanical Parts,15,pcs,29.35,2025-06-12,Mechanical Parts
+WO-2024-0177-I04,WO-2024-0177,MECH-2202,Linear Guide Rail 1500mm,Mechanical Parts,100,pcs,168.65,2025-06-18,Mechanical Parts
+WO-2024-0177-I05,WO-2024-0177,MECH-2201,Precision Ball Screw Assy 25mm,Mechanical Parts,97,pcs,365.94,2025-06-19,Mechanical Parts
+WO-2024-0177-I06,WO-2024-0177,RAW-4401,Steel HR Coil 3mm S235,Raw Materials,57,MT,733.32,2025-06-17,Raw Materials
+WO-2024-0178-I01,WO-2024-0178,RAW-4404,Stainless 316L Sheet 2mm,Raw Materials,114,kg,3.66,2024-05-22,Raw Materials
+WO-2024-0178-I02,WO-2024-0178,MECH-2205,Cast Iron Bed Section Grade 300,Mechanical Parts,101,kg,4.67,2024-05-23,Mechanical Parts
+WO-2024-0178-I03,WO-2024-0178,MECH-2204,Spindle Bearing Set NSK 7210,Mechanical Parts,75,pcs,228.25,2024-05-20,Mechanical Parts
+WO-2024-0178-I04,WO-2024-0178,MECH-2202,Linear Guide Rail 1500mm,Mechanical Parts,75,pcs,146.9,2024-05-26,Mechanical Parts
+WO-2024-0178-I05,WO-2024-0178,MECH-2203,Servo Coupling 14/19mm,Mechanical Parts,90,pcs,27.3,2024-05-25,Mechanical Parts
+WO-2024-0178-I06,WO-2024-0178,ELEC-3305,Power Supply 24VDC 20A DIN,Electrical Components,17,pcs,101.09,2024-05-19,Electrical Components
+WO-2024-0179-I01,WO-2024-0179,RAW-4401,Steel HR Coil 3mm S235,Raw Materials,17,MT,675.66,2024-08-14,Raw Materials
+WO-2024-0179-I02,WO-2024-0179,RAW-4405,HDPE Rod 50mm dia,Raw Materials,13,m,16.26,2024-08-13,Raw Materials
+WO-2024-0179-I03,WO-2024-0179,MECH-2204,Spindle Bearing Set NSK 7210,Mechanical Parts,45,pcs,215.63,2024-08-14,Mechanical Parts
+WO-2024-0181-I01,WO-2024-0181,ELEC-3304,PLC I/O Module 32-channel DI,Electrical Components,15,pcs,408.36,2025-03-23,Electrical Components
+WO-2024-0181-I02,WO-2024-0181,MECH-2202,Linear Guide Rail 1500mm,Mechanical Parts,114,pcs,176.24,2025-03-31,Mechanical Parts
+WO-2024-0181-I03,WO-2024-0181,MECH-2203,Servo Coupling 14/19mm,Mechanical Parts,119,pcs,32.73,2025-03-21,Mechanical Parts
+WO-2024-0181-I04,WO-2024-0181,RAW-4401,Steel HR Coil 3mm S235,Raw Materials,38,MT,722.6,2025-03-29,Raw Materials
+WO-2024-0181-I05,WO-2024-0181,ELEC-3305,Power Supply 24VDC 20A DIN,Electrical Components,85,pcs,92.44,2025-03-25,Electrical Components
+WO-2024-0182-I01,WO-2024-0182,RAW-4404,Stainless 316L Sheet 2mm,Raw Materials,79,kg,3.78,2025-03-25,Raw Materials
+WO-2024-0182-I02,WO-2024-0182,ELEC-3305,Power Supply 24VDC 20A DIN,Electrical Components,80,pcs,102.13,2025-03-20,Electrical Components
+WO-2024-0183-I01,WO-2024-0183,RAW-4401,Steel HR Coil 3mm S235,Raw Materials,33,MT,747.47,2024-11-03,Raw Materials
+WO-2024-0183-I02,WO-2024-0183,RAW-4403,Copper Busbar 40×4mm,Raw Materials,80,m,22.63,2024-10-29,Raw Materials
+WO-2024-0183-I03,WO-2024-0183,MECH-2203,Servo Coupling 14/19mm,Mechanical Parts,42,pcs,29.2,2024-10-31,Mechanical Parts
+WO-2024-0183-I04,WO-2024-0183,ELEC-3301,Servo Drive 5.5kW Siemens-compat,Electrical Components,69,pcs,1699.14,2024-11-04,Electrical Components
+WO-2024-0183-I05,WO-2024-0183,ELEC-3302,Encoder 2500 PPR Differential,Electrical Components,55,pcs,93.85,2024-11-04,Electrical Components
+WO-2024-0184-I01,WO-2024-0184,MECH-2203,Servo Coupling 14/19mm,Mechanical Parts,89,pcs,40.85,2025-04-04,Mechanical Parts
+WO-2024-0184-I02,WO-2024-0184,ELEC-3303,Limit Switch IP67 Stainless,Electrical Components,23,pcs,17.92,2025-03-31,Electrical Components
+WO-2024-0184-I03,WO-2024-0184,RAW-4405,HDPE Rod 50mm dia,Raw Materials,66,m,16.65,2025-04-02,Raw Materials
+WO-2024-0184-I04,WO-2024-0184,RAW-4403,Copper Busbar 40×4mm,Raw Materials,10,m,19.09,2025-04-02,Raw Materials
+WO-2024-0184-I05,WO-2024-0184,ELEC-3305,Power Supply 24VDC 20A DIN,Electrical Components,67,pcs,101.01,2025-03-31,Electrical Components
+WO-2024-0184-I06,WO-2024-0184,RAW-4401,Steel HR Coil 3mm S235,Raw Materials,38,MT,654.92,2025-04-02,Raw Materials
+WO-2024-0185-I01,WO-2024-0185,ELEC-3303,Limit Switch IP67 Stainless,Electrical Components,46,pcs,13.29,2024-10-17,Electrical Components
+WO-2024-0185-I02,WO-2024-0185,RAW-4405,HDPE Rod 50mm dia,Raw Materials,71,m,15.17,2024-10-15,Raw Materials
+WO-2024-0185-I03,WO-2024-0185,MECH-2201,Precision Ball Screw Assy 25mm,Mechanical Parts,40,pcs,378.85,2024-10-20,Mechanical Parts
+WO-2024-0185-I04,WO-2024-0185,RAW-4403,Copper Busbar 40×4mm,Raw Materials,38,m,20.56,2024-10-11,Raw Materials
+WO-2024-0185-I05,WO-2024-0185,RAW-4401,Steel HR Coil 3mm S235,Raw Materials,77,MT,624.4,2024-10-17,Raw Materials
+WO-2024-0186-I01,WO-2024-0186,MECH-2205,Cast Iron Bed Section Grade 300,Mechanical Parts,109,kg,4.67,2024-12-10,Mechanical Parts
+WO-2024-0186-I02,WO-2024-0186,ELEC-3302,Encoder 2500 PPR Differential,Electrical Components,67,pcs,100.89,2024-12-18,Electrical Components
+WO-2024-0186-I03,WO-2024-0186,MECH-2204,Spindle Bearing Set NSK 7210,Mechanical Parts,118,pcs,224.99,2024-12-11,Mechanical Parts
+WO-2024-0186-I04,WO-2024-0186,ELEC-3304,PLC I/O Module 32-channel DI,Electrical Components,69,pcs,405.47,2024-12-11,Electrical Components
+WO-2024-0186-I05,WO-2024-0186,RAW-4404,Stainless 316L Sheet 2mm,Raw Materials,61,kg,4.02,2024-12-16,Raw Materials
+WO-2024-0186-I06,WO-2024-0186,ELEC-3301,Servo Drive 5.5kW Siemens-compat,Electrical Components,14,pcs,1588.92,2024-12-07,Electrical Components
+WO-2024-0187-I01,WO-2024-0187,ELEC-3305,Power Supply 24VDC 20A DIN,Electrical Components,34,pcs,100.9,2024-05-26,Electrical Components
+WO-2024-0187-I02,WO-2024-0187,RAW-4402,Aluminium Extrusion 6061-T6,Raw Materials,47,kg,3.61,2024-05-21,Raw Materials
+WO-2024-0187-I03,WO-2024-0187,MECH-2202,Linear Guide Rail 1500mm,Mechanical Parts,66,pcs,164.14,2024-05-21,Mechanical Parts
+WO-2024-0187-I04,WO-2024-0187,RAW-4401,Steel HR Coil 3mm S235,Raw Materials,66,MT,696.2,2024-05-23,Raw Materials
+WO-2024-0188-I01,WO-2024-0188,MECH-2201,Precision Ball Screw Assy 25mm,Mechanical Parts,80,pcs,347.62,2024-08-13,Mechanical Parts
+WO-2024-0188-I02,WO-2024-0188,MECH-2203,Servo Coupling 14/19mm,Mechanical Parts,85,pcs,31.53,2024-08-21,Mechanical Parts
+WO-2024-0188-I03,WO-2024-0188,ELEC-3305,Power Supply 24VDC 20A DIN,Electrical Components,119,pcs,107.69,2024-08-18,Electrical Components
+WO-2024-0189-I01,WO-2024-0189,ELEC-3302,Encoder 2500 PPR Differential,Electrical Components,15,pcs,91.01,2025-06-02,Electrical Components
+WO-2024-0189-I02,WO-2024-0189,ELEC-3305,Power Supply 24VDC 20A DIN,Electrical Components,82,pcs,123.74,2025-06-07,Electrical Components
+WO-2024-0189-I03,WO-2024-0189,RAW-4404,Stainless 316L Sheet 2mm,Raw Materials,116,kg,3.93,2025-06-10,Raw Materials
+WO-2024-0189-I04,WO-2024-0189,RAW-4401,Steel HR Coil 3mm S235,Raw Materials,33,MT,730.61,2025-06-04,Raw Materials
+WO-2024-0189-I05,WO-2024-0189,MECH-2201,Precision Ball Screw Assy 25mm,Mechanical Parts,81,pcs,375.99,2025-06-10,Mechanical Parts
+WO-2024-0189-I06,WO-2024-0189,MECH-2205,Cast Iron Bed Section Grade 300,Mechanical Parts,79,kg,4.58,2025-06-05,Mechanical Parts
+WO-2024-0190-I01,WO-2024-0190,RAW-4402,Aluminium Extrusion 6061-T6,Raw Materials,63,kg,3.48,2024-10-07,Raw Materials
+WO-2024-0190-I02,WO-2024-0190,RAW-4401,Steel HR Coil 3mm S235,Raw Materials,13,MT,661.32,2024-10-15,Raw Materials
+WO-2024-0190-I03,WO-2024-0190,ELEC-3301,Servo Drive 5.5kW Siemens-compat,Electrical Components,54,pcs,1656.26,2024-10-11,Electrical Components
+WO-2024-0191-I01,WO-2024-0191,RAW-4404,Stainless 316L Sheet 2mm,Raw Materials,65,kg,4.45,2025-05-09,Raw Materials
+WO-2024-0191-I02,WO-2024-0191,MECH-2203,Servo Coupling 14/19mm,Mechanical Parts,81,pcs,28.62,2025-05-15,Mechanical Parts
+WO-2024-0191-I03,WO-2024-0191,ELEC-3305,Power Supply 24VDC 20A DIN,Electrical Components,105,pcs,103.4,2025-05-09,Electrical Components
+WO-2024-0191-I04,WO-2024-0191,MECH-2202,Linear Guide Rail 1500mm,Mechanical Parts,101,pcs,146.7,2025-05-10,Mechanical Parts
+WO-2024-0191-I05,WO-2024-0191,RAW-4405,HDPE Rod 50mm dia,Raw Materials,66,m,15.84,2025-05-12,Raw Materials
+WO-2024-0192-I01,WO-2024-0192,ELEC-3302,Encoder 2500 PPR Differential,Electrical Components,34,pcs,106.31,2024-02-20,Electrical Components
+WO-2024-0192-I02,WO-2024-0192,ELEC-3301,Servo Drive 5.5kW Siemens-compat,Electrical Components,66,pcs,1818.4,2024-02-27,Electrical Components
+WO-2024-0192-I03,WO-2024-0192,MECH-2201,Precision Ball Screw Assy 25mm,Mechanical Parts,53,pcs,358.2,2024-02-22,Mechanical Parts
+WO-2024-0192-I04,WO-2024-0192,RAW-4402,Aluminium Extrusion 6061-T6,Raw Materials,107,kg,3.64,2024-02-21,Raw Materials
+WO-2024-0192-I05,WO-2024-0192,ELEC-3304,PLC I/O Module 32-channel DI,Electrical Components,102,pcs,414.36,2024-02-28,Electrical Components
+WO-2024-0192-I06,WO-2024-0192,RAW-4405,HDPE Rod 50mm dia,Raw Materials,78,m,12.72,2024-02-20,Raw Materials
+WO-2024-0193-I01,WO-2024-0193,MECH-2205,Cast Iron Bed Section Grade 300,Mechanical Parts,117,kg,4.1,2025-03-18,Mechanical Parts
+WO-2024-0193-I02,WO-2024-0193,ELEC-3305,Power Supply 24VDC 20A DIN,Electrical Components,37,pcs,91.91,2025-03-17,Electrical Components
+WO-2024-0194-I01,WO-2024-0194,ELEC-3304,PLC I/O Module 32-channel DI,Electrical Components,53,pcs,366.25,2024-01-31,Electrical Components
+WO-2024-0194-I02,WO-2024-0194,MECH-2201,Precision Ball Screw Assy 25mm,Mechanical Parts,93,pcs,391.02,2024-02-04,Mechanical Parts
+WO-2024-0195-I01,WO-2024-0195,MECH-2205,Cast Iron Bed Section Grade 300,Mechanical Parts,83,kg,3.44,2024-05-20,Mechanical Parts
+WO-2024-0195-I02,WO-2024-0195,RAW-4405,HDPE Rod 50mm dia,Raw Materials,92,m,14.25,2024-05-18,Raw Materials
+WO-2024-0195-I03,WO-2024-0195,ELEC-3304,PLC I/O Module 32-channel DI,Electrical Components,31,pcs,342.01,2024-05-10,Electrical Components
+WO-2024-0195-I04,WO-2024-0195,ELEC-3302,Encoder 2500 PPR Differential,Electrical Components,105,pcs,102.72,2024-05-13,Electrical Components
+WO-2024-0195-I05,WO-2024-0195,ELEC-3305,Power Supply 24VDC 20A DIN,Electrical Components,27,pcs,96.88,2024-05-10,Electrical Components
+WO-2024-0195-I06,WO-2024-0195,ELEC-3301,Servo Drive 5.5kW Siemens-compat,Electrical Components,76,pcs,1804.06,2024-05-14,Electrical Components
+WO-2024-0196-I01,WO-2024-0196,RAW-4404,Stainless 316L Sheet 2mm,Raw Materials,20,kg,4.56,2025-02-26,Raw Materials
+WO-2024-0196-I02,WO-2024-0196,RAW-4405,HDPE Rod 50mm dia,Raw Materials,62,m,17.02,2025-03-04,Raw Materials
+WO-2024-0196-I03,WO-2024-0196,RAW-4401,Steel HR Coil 3mm S235,Raw Materials,25,MT,673.76,2025-02-28,Raw Materials
+WO-2024-0197-I01,WO-2024-0197,RAW-4402,Aluminium Extrusion 6061-T6,Raw Materials,86,kg,2.81,2024-08-16,Raw Materials
+WO-2024-0197-I02,WO-2024-0197,RAW-4401,Steel HR Coil 3mm S235,Raw Materials,16,MT,776.62,2024-08-22,Raw Materials
+WO-2024-0197-I03,WO-2024-0197,RAW-4405,HDPE Rod 50mm dia,Raw Materials,65,m,16.37,2024-08-12,Raw Materials
+WO-2024-0197-I04,WO-2024-0197,MECH-2201,Precision Ball Screw Assy 25mm,Mechanical Parts,60,pcs,368.39,2024-08-19,Mechanical Parts
+WO-2024-0197-I05,WO-2024-0197,MECH-2203,Servo Coupling 14/19mm,Mechanical Parts,38,pcs,28.08,2024-08-23,Mechanical Parts
+WO-2024-0197-I06,WO-2024-0197,ELEC-3302,Encoder 2500 PPR Differential,Electrical Components,15,pcs,94.04,2024-08-16,Electrical Components
+WO-2024-0198-I01,WO-2024-0198,RAW-4402,Aluminium Extrusion 6061-T6,Raw Materials,86,kg,3.07,2024-09-19,Raw Materials
+WO-2024-0198-I02,WO-2024-0198,ELEC-3305,Power Supply 24VDC 20A DIN,Electrical Components,6,pcs,98.9,2024-09-20,Electrical Components
+WO-2024-0198-I03,WO-2024-0198,MECH-2201,Precision Ball Screw Assy 25mm,Mechanical Parts,89,pcs,370.01,2024-09-21,Mechanical Parts
+WO-2024-0198-I04,WO-2024-0198,MECH-2203,Servo Coupling 14/19mm,Mechanical Parts,71,pcs,30.53,2024-09-24,Mechanical Parts
+WO-2024-0199-I01,WO-2024-0199,ELEC-3305,Power Supply 24VDC 20A DIN,Electrical Components,9,pcs,103.7,2024-10-21,Electrical Components
+WO-2024-0199-I02,WO-2024-0199,MECH-2203,Servo Coupling 14/19mm,Mechanical Parts,88,pcs,26.77,2024-10-18,Mechanical Parts
+WO-2024-0199-I03,WO-2024-0199,RAW-4401,Steel HR Coil 3mm S235,Raw Materials,25,MT,694.86,2024-10-13,Raw Materials
+WO-2024-0200-I01,WO-2024-0200,ELEC-3305,Power Supply 24VDC 20A DIN,Electrical Components,16,pcs,109.81,2024-07-29,Electrical Components
+WO-2024-0200-I02,WO-2024-0200,MECH-2204,Spindle Bearing Set NSK 7210,Mechanical Parts,97,pcs,221.77,2024-07-23,Mechanical Parts
+WO-2024-0200-I03,WO-2024-0200,ELEC-3304,PLC I/O Module 32-channel DI,Electrical Components,79,pcs,338.2,2024-07-24,Electrical Components
+WO-2024-0200-I04,WO-2024-0200,MECH-2201,Precision Ball Screw Assy 25mm,Mechanical Parts,109,pcs,366.69,2024-07-29,Mechanical Parts
+WO-2024-0200-I05,WO-2024-0200,MECH-2202,Linear Guide Rail 1500mm,Mechanical Parts,82,pcs,159.83,2024-07-29,Mechanical Parts
+WO-2024-0201-I01,WO-2024-0201,MECH-2203,Servo Coupling 14/19mm,Mechanical Parts,76,pcs,28.91,2024-10-21,Mechanical Parts
+WO-2024-0201-I02,WO-2024-0201,ELEC-3302,Encoder 2500 PPR Differential,Electrical Components,42,pcs,97.03,2024-10-18,Electrical Components
+WO-2024-0201-I03,WO-2024-0201,ELEC-3304,PLC I/O Module 32-channel DI,Electrical Components,19,pcs,386.92,2024-10-28,Electrical Components
+WO-2024-0201-I04,WO-2024-0201,MECH-2202,Linear Guide Rail 1500mm,Mechanical Parts,37,pcs,164.84,2024-10-28,Mechanical Parts
+WO-2024-0203-I01,WO-2024-0203,RAW-4402,Aluminium Extrusion 6061-T6,Raw Materials,38,kg,3.05,2024-10-08,Raw Materials
+WO-2024-0203-I02,WO-2024-0203,RAW-4404,Stainless 316L Sheet 2mm,Raw Materials,16,kg,4.22,2024-10-01,Raw Materials
+WO-2024-0204-I01,WO-2024-0204,ELEC-3303,Limit Switch IP67 Stainless,Electrical Components,32,pcs,18.7,2024-03-13,Electrical Components
+WO-2024-0204-I02,WO-2024-0204,ELEC-3301,Servo Drive 5.5kW Siemens-compat,Electrical Components,39,pcs,1553.33,2024-03-03,Electrical Components
+WO-2024-0204-I03,WO-2024-0204,RAW-4404,Stainless 316L Sheet 2mm,Raw Materials,100,kg,4.09,2024-03-11,Raw Materials
+WO-2024-0205-I01,WO-2024-0205,RAW-4404,Stainless 316L Sheet 2mm,Raw Materials,34,kg,3.78,2024-06-06,Raw Materials
+WO-2024-0205-I02,WO-2024-0205,MECH-2205,Cast Iron Bed Section Grade 300,Mechanical Parts,36,kg,4.04,2024-05-31,Mechanical Parts
+WO-2024-0205-I03,WO-2024-0205,MECH-2204,Spindle Bearing Set NSK 7210,Mechanical Parts,50,pcs,214.76,2024-06-07,Mechanical Parts
+WO-2024-0206-I01,WO-2024-0206,MECH-2201,Precision Ball Screw Assy 25mm,Mechanical Parts,84,pcs,371.29,2024-04-07,Mechanical Parts
+WO-2024-0206-I02,WO-2024-0206,RAW-4403,Copper Busbar 40×4mm,Raw Materials,119,m,22.93,2024-04-07,Raw Materials
+WO-2024-0206-I03,WO-2024-0206,ELEC-3304,PLC I/O Module 32-channel DI,Electrical Components,119,pcs,375.72,2024-04-10,Electrical Components
+WO-2024-0206-I04,WO-2024-0206,RAW-4405,HDPE Rod 50mm dia,Raw Materials,40,m,14.78,2024-04-02,Raw Materials
+WO-2024-0206-I05,WO-2024-0206,ELEC-3303,Limit Switch IP67 Stainless,Electrical Components,102,pcs,19.38,2024-04-08,Electrical Components
+WO-2024-0206-I06,WO-2024-0206,ELEC-3301,Servo Drive 5.5kW Siemens-compat,Electrical Components,40,pcs,1602.81,2024-04-06,Electrical Components
+WO-2024-0208-I01,WO-2024-0208,ELEC-3305,Power Supply 24VDC 20A DIN,Electrical Components,75,pcs,96.77,2024-04-17,Electrical Components
+WO-2024-0208-I02,WO-2024-0208,RAW-4404,Stainless 316L Sheet 2mm,Raw Materials,39,kg,4.32,2024-04-08,Raw Materials
+WO-2024-0208-I03,WO-2024-0208,MECH-2205,Cast Iron Bed Section Grade 300,Mechanical Parts,83,kg,3.62,2024-04-11,Mechanical Parts
+WO-2024-0208-I04,WO-2024-0208,MECH-2203,Servo Coupling 14/19mm,Mechanical Parts,28,pcs,33.57,2024-04-18,Mechanical Parts
+WO-2024-0209-I01,WO-2024-0209,RAW-4404,Stainless 316L Sheet 2mm,Raw Materials,28,kg,4.02,2025-03-15,Raw Materials
+WO-2024-0209-I02,WO-2024-0209,ELEC-3302,Encoder 2500 PPR Differential,Electrical Components,78,pcs,96.3,2025-03-11,Electrical Components
+WO-2024-0209-I03,WO-2024-0209,MECH-2205,Cast Iron Bed Section Grade 300,Mechanical Parts,109,kg,2.96,2025-03-08,Mechanical Parts
+WO-2024-0209-I04,WO-2024-0209,ELEC-3303,Limit Switch IP67 Stainless,Electrical Components,39,pcs,18.26,2025-03-16,Electrical Components
+WO-2024-0210-I01,WO-2024-0210,RAW-4403,Copper Busbar 40×4mm,Raw Materials,65,m,23.53,2024-08-30,Raw Materials
+WO-2024-0210-I02,WO-2024-0210,RAW-4402,Aluminium Extrusion 6061-T6,Raw Materials,27,kg,3.2,2024-09-05,Raw Materials
+WO-2024-0210-I03,WO-2024-0210,MECH-2203,Servo Coupling 14/19mm,Mechanical Parts,22,pcs,37.97,2024-09-01,Mechanical Parts
