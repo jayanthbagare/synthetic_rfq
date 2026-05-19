@@ -1,0 +1,1508 @@
+invite_id,rfq_id,vendor_id,vendor_name,invited_date,category,month_index,responded,response_type
+RFQ-0001-INV-V018,RFQ-0001,V018,Guangzhou Mech & Elec Co.,2024-01-23,Electrical Components,0,True,bid
+RFQ-0001-INV-V011,RFQ-0001,V011,Solaris Power Components,2024-01-23,Electrical Components,0,True,bid
+RFQ-0001-INV-V006,RFQ-0001,V006,Bright Spark Electronics Ltd,2024-01-23,Electrical Components,0,True,bid
+RFQ-0001-INV-V016,RFQ-0001,V016,Precision Arc Systems,2024-01-23,Electrical Components,0,True,bid
+RFQ-0001-INV-V002,RFQ-0001,V002,Tanaka Electrical KK,2024-01-23,Electrical Components,0,False,no_response
+RFQ-0001-INV-V013,RFQ-0001,V013,Vantage Sensors GmbH,2024-01-23,Electrical Components,0,False,no_response
+RFQ-0001-INV-V021,RFQ-0001,V021,Helios Micro Systems,2024-01-23,Electrical Components,0,False,no_response
+RFQ-0002-INV-V006,RFQ-0002,V006,Bright Spark Electronics Ltd,2024-01-23,Electrical Components,0,True,bid
+RFQ-0002-INV-V018,RFQ-0002,V018,Guangzhou Mech & Elec Co.,2024-01-23,Electrical Components,0,True,bid
+RFQ-0002-INV-V016,RFQ-0002,V016,Precision Arc Systems,2024-01-23,Electrical Components,0,True,bid
+RFQ-0002-INV-V002,RFQ-0002,V002,Tanaka Electrical KK,2024-01-23,Electrical Components,0,True,bid
+RFQ-0002-INV-V011,RFQ-0002,V011,Solaris Power Components,2024-01-23,Electrical Components,0,False,no_response
+RFQ-0002-INV-V013,RFQ-0002,V013,Vantage Sensors GmbH,2024-01-23,Electrical Components,0,True,bid
+RFQ-0002-INV-V021,RFQ-0002,V021,Helios Micro Systems,2024-01-23,Electrical Components,0,False,no_response
+RFQ-0003-INV-V015,RFQ-0003,V015,Nordic Steel AS,2024-01-19,Raw Materials,0,True,bid
+RFQ-0003-INV-V008,RFQ-0003,V008,Delta Composites Inc.,2024-01-19,Raw Materials,0,True,bid
+RFQ-0003-INV-V014,RFQ-0003,V014,Coastal Alloys Pty Ltd,2024-01-19,Raw Materials,0,False,no_response
+RFQ-0003-INV-V005,RFQ-0003,V005,Cerro Negro Metals SA,2024-01-19,Raw Materials,0,True,bid
+RFQ-0003-INV-V020,RFQ-0003,V020,Rajasthan Rare Earths Ltd,2024-01-19,Raw Materials,0,True,bid
+RFQ-0003-INV-V012,RFQ-0003,V012,Indra Copper Works,2024-01-19,Raw Materials,0,True,bid
+RFQ-0003-INV-V003,RFQ-0003,V003,Patel Alloys Pvt Ltd,2024-01-19,Raw Materials,0,True,bid
+RFQ-0003-INV-V023,RFQ-0003,V023,Sahara Industrial FZE,2024-01-19,Raw Materials,0,False,no_response
+RFQ-0004-INV-V002,RFQ-0004,V002,Tanaka Electrical KK,2024-01-28,Electrical Components,0,True,bid
+RFQ-0004-INV-V016,RFQ-0004,V016,Precision Arc Systems,2024-01-28,Electrical Components,0,False,no_response
+RFQ-0004-INV-V013,RFQ-0004,V013,Vantage Sensors GmbH,2024-01-28,Electrical Components,0,True,bid
+RFQ-0004-INV-V006,RFQ-0004,V006,Bright Spark Electronics Ltd,2024-01-28,Electrical Components,0,True,bid
+RFQ-0004-INV-V018,RFQ-0004,V018,Guangzhou Mech & Elec Co.,2024-01-28,Electrical Components,0,True,bid
+RFQ-0004-INV-V011,RFQ-0004,V011,Solaris Power Components,2024-01-28,Electrical Components,0,True,bid
+RFQ-0004-INV-V021,RFQ-0004,V021,Helios Micro Systems,2024-01-28,Electrical Components,0,False,no_response
+RFQ-0005-INV-V016,RFQ-0005,V016,Precision Arc Systems,2024-01-11,Electrical Components,0,True,bid
+RFQ-0005-INV-V018,RFQ-0005,V018,Guangzhou Mech & Elec Co.,2024-01-11,Electrical Components,0,True,bid
+RFQ-0005-INV-V002,RFQ-0005,V002,Tanaka Electrical KK,2024-01-11,Electrical Components,0,True,bid
+RFQ-0005-INV-V011,RFQ-0005,V011,Solaris Power Components,2024-01-11,Electrical Components,0,True,bid
+RFQ-0005-INV-V006,RFQ-0005,V006,Bright Spark Electronics Ltd,2024-01-11,Electrical Components,0,False,no_response
+RFQ-0005-INV-V021,RFQ-0005,V021,Helios Micro Systems,2024-01-11,Electrical Components,0,False,no_response
+RFQ-0005-INV-V013,RFQ-0005,V013,Vantage Sensors GmbH,2024-01-11,Electrical Components,0,True,bid
+RFQ-0006-INV-V016,RFQ-0006,V016,Precision Arc Systems,2024-01-19,Electrical Components,0,True,bid
+RFQ-0006-INV-V006,RFQ-0006,V006,Bright Spark Electronics Ltd,2024-01-19,Electrical Components,0,True,bid
+RFQ-0006-INV-V021,RFQ-0006,V021,Helios Micro Systems,2024-01-19,Electrical Components,0,False,no_response
+RFQ-0006-INV-V018,RFQ-0006,V018,Guangzhou Mech & Elec Co.,2024-01-19,Electrical Components,0,True,bid
+RFQ-0006-INV-V002,RFQ-0006,V002,Tanaka Electrical KK,2024-01-19,Electrical Components,0,True,bid
+RFQ-0006-INV-V013,RFQ-0006,V013,Vantage Sensors GmbH,2024-01-19,Electrical Components,0,False,no_response
+RFQ-0006-INV-V011,RFQ-0006,V011,Solaris Power Components,2024-01-19,Electrical Components,0,True,bid
+RFQ-0007-INV-V018,RFQ-0007,V018,Guangzhou Mech & Elec Co.,2024-01-26,Electrical Components,0,True,bid
+RFQ-0007-INV-V011,RFQ-0007,V011,Solaris Power Components,2024-01-26,Electrical Components,0,True,bid
+RFQ-0007-INV-V006,RFQ-0007,V006,Bright Spark Electronics Ltd,2024-01-26,Electrical Components,0,True,bid
+RFQ-0007-INV-V002,RFQ-0007,V002,Tanaka Electrical KK,2024-01-26,Electrical Components,0,True,bid
+RFQ-0007-INV-V013,RFQ-0007,V013,Vantage Sensors GmbH,2024-01-26,Electrical Components,0,True,bid
+RFQ-0007-INV-V016,RFQ-0007,V016,Precision Arc Systems,2024-01-26,Electrical Components,0,True,bid
+RFQ-0007-INV-V021,RFQ-0007,V021,Helios Micro Systems,2024-01-26,Electrical Components,0,False,no_response
+RFQ-0008-INV-V002,RFQ-0008,V002,Tanaka Electrical KK,2024-01-30,Electrical Components,0,True,bid
+RFQ-0008-INV-V018,RFQ-0008,V018,Guangzhou Mech & Elec Co.,2024-01-30,Electrical Components,0,True,bid
+RFQ-0008-INV-V016,RFQ-0008,V016,Precision Arc Systems,2024-01-30,Electrical Components,0,False,no_response
+RFQ-0008-INV-V006,RFQ-0008,V006,Bright Spark Electronics Ltd,2024-01-30,Electrical Components,0,True,bid
+RFQ-0008-INV-V013,RFQ-0008,V013,Vantage Sensors GmbH,2024-01-30,Electrical Components,0,True,bid
+RFQ-0008-INV-V011,RFQ-0008,V011,Solaris Power Components,2024-01-30,Electrical Components,0,False,no_response
+RFQ-0008-INV-V021,RFQ-0008,V021,Helios Micro Systems,2024-01-30,Electrical Components,0,False,no_response
+RFQ-0009-INV-V011,RFQ-0009,V011,Solaris Power Components,2024-01-05,Electrical Components,0,True,bid
+RFQ-0009-INV-V018,RFQ-0009,V018,Guangzhou Mech & Elec Co.,2024-01-05,Electrical Components,0,True,bid
+RFQ-0009-INV-V013,RFQ-0009,V013,Vantage Sensors GmbH,2024-01-05,Electrical Components,0,False,no_response
+RFQ-0009-INV-V002,RFQ-0009,V002,Tanaka Electrical KK,2024-01-05,Electrical Components,0,True,bid
+RFQ-0009-INV-V006,RFQ-0009,V006,Bright Spark Electronics Ltd,2024-01-05,Electrical Components,0,True,bid
+RFQ-0009-INV-V016,RFQ-0009,V016,Precision Arc Systems,2024-01-05,Electrical Components,0,False,no_response
+RFQ-0009-INV-V021,RFQ-0009,V021,Helios Micro Systems,2024-01-05,Electrical Components,0,False,no_response
+RFQ-0010-INV-V019,RFQ-0010,V019,Emerald Isle Castings Ltd,2024-01-10,Mechanical Parts,0,True,bid
+RFQ-0010-INV-V004,RFQ-0010,V004,Strömberg Hydraulics AB,2024-01-10,Mechanical Parts,0,True,bid
+RFQ-0010-INV-V010,RFQ-0010,V010,Adriatic Fastenings d.o.o.,2024-01-10,Mechanical Parts,0,True,bid
+RFQ-0010-INV-V007,RFQ-0010,V007,Nakamura Tooling Co.,2024-01-10,Mechanical Parts,0,True,bid
+RFQ-0010-INV-V001,RFQ-0010,V001,Kovacs Precision GmbH,2024-01-10,Mechanical Parts,0,True,bid
+RFQ-0010-INV-V017,RFQ-0010,V017,Türk Makina A.Ş.,2024-01-10,Mechanical Parts,0,True,bid
+RFQ-0010-INV-V009,RFQ-0010,V009,Fischer & Söhne KG,2024-01-10,Mechanical Parts,0,True,bid
+RFQ-0010-INV-V022,RFQ-0010,V022,Andean Precision SRL,2024-01-10,Mechanical Parts,0,False,no_response
+RFQ-0011-INV-V003,RFQ-0011,V003,Patel Alloys Pvt Ltd,2024-02-22,Raw Materials,1,True,bid
+RFQ-0011-INV-V012,RFQ-0011,V012,Indra Copper Works,2024-02-22,Raw Materials,1,True,bid
+RFQ-0011-INV-V015,RFQ-0011,V015,Nordic Steel AS,2024-02-22,Raw Materials,1,False,no_response
+RFQ-0011-INV-V008,RFQ-0011,V008,Delta Composites Inc.,2024-02-22,Raw Materials,1,True,bid
+RFQ-0011-INV-V014,RFQ-0011,V014,Coastal Alloys Pty Ltd,2024-02-22,Raw Materials,1,False,no_response
+RFQ-0011-INV-V020,RFQ-0011,V020,Rajasthan Rare Earths Ltd,2024-02-22,Raw Materials,1,True,bid
+RFQ-0011-INV-V005,RFQ-0011,V005,Cerro Negro Metals SA,2024-02-22,Raw Materials,1,True,bid
+RFQ-0011-INV-V023,RFQ-0011,V023,Sahara Industrial FZE,2024-02-22,Raw Materials,1,False,no_response
+RFQ-0012-INV-V018,RFQ-0012,V018,Guangzhou Mech & Elec Co.,2024-03-03,Electrical Components,1,True,bid
+RFQ-0012-INV-V002,RFQ-0012,V002,Tanaka Electrical KK,2024-03-03,Electrical Components,1,False,no_response
+RFQ-0012-INV-V013,RFQ-0012,V013,Vantage Sensors GmbH,2024-03-03,Electrical Components,1,True,bid
+RFQ-0012-INV-V016,RFQ-0012,V016,Precision Arc Systems,2024-03-03,Electrical Components,1,True,bid
+RFQ-0012-INV-V006,RFQ-0012,V006,Bright Spark Electronics Ltd,2024-03-03,Electrical Components,1,False,no_response
+RFQ-0012-INV-V011,RFQ-0012,V011,Solaris Power Components,2024-03-03,Electrical Components,1,True,bid
+RFQ-0012-INV-V021,RFQ-0012,V021,Helios Micro Systems,2024-03-03,Electrical Components,1,False,no_response
+RFQ-0013-INV-V017,RFQ-0013,V017,Türk Makina A.Ş.,2024-02-22,Mechanical Parts,1,True,bid
+RFQ-0013-INV-V001,RFQ-0013,V001,Kovacs Precision GmbH,2024-02-22,Mechanical Parts,1,True,bid
+RFQ-0013-INV-V007,RFQ-0013,V007,Nakamura Tooling Co.,2024-02-22,Mechanical Parts,1,True,bid
+RFQ-0013-INV-V009,RFQ-0013,V009,Fischer & Söhne KG,2024-02-22,Mechanical Parts,1,False,no_response
+RFQ-0013-INV-V004,RFQ-0013,V004,Strömberg Hydraulics AB,2024-02-22,Mechanical Parts,1,True,bid
+RFQ-0013-INV-V019,RFQ-0013,V019,Emerald Isle Castings Ltd,2024-02-22,Mechanical Parts,1,True,bid
+RFQ-0013-INV-V010,RFQ-0013,V010,Adriatic Fastenings d.o.o.,2024-02-22,Mechanical Parts,1,True,bid
+RFQ-0013-INV-V022,RFQ-0013,V022,Andean Precision SRL,2024-02-22,Mechanical Parts,1,False,no_response
+RFQ-0014-INV-V006,RFQ-0014,V006,Bright Spark Electronics Ltd,2024-02-23,Electrical Components,1,True,bid
+RFQ-0014-INV-V002,RFQ-0014,V002,Tanaka Electrical KK,2024-02-23,Electrical Components,1,True,bid
+RFQ-0014-INV-V013,RFQ-0014,V013,Vantage Sensors GmbH,2024-02-23,Electrical Components,1,True,bid
+RFQ-0014-INV-V016,RFQ-0014,V016,Precision Arc Systems,2024-02-23,Electrical Components,1,True,bid
+RFQ-0014-INV-V018,RFQ-0014,V018,Guangzhou Mech & Elec Co.,2024-02-23,Electrical Components,1,True,bid
+RFQ-0014-INV-V011,RFQ-0014,V011,Solaris Power Components,2024-02-23,Electrical Components,1,True,bid
+RFQ-0014-INV-V021,RFQ-0014,V021,Helios Micro Systems,2024-02-23,Electrical Components,1,False,no_response
+RFQ-0015-INV-V016,RFQ-0015,V016,Precision Arc Systems,2024-02-23,Electrical Components,1,False,no_response
+RFQ-0015-INV-V018,RFQ-0015,V018,Guangzhou Mech & Elec Co.,2024-02-23,Electrical Components,1,True,bid
+RFQ-0015-INV-V006,RFQ-0015,V006,Bright Spark Electronics Ltd,2024-02-23,Electrical Components,1,True,bid
+RFQ-0015-INV-V013,RFQ-0015,V013,Vantage Sensors GmbH,2024-02-23,Electrical Components,1,True,bid
+RFQ-0015-INV-V011,RFQ-0015,V011,Solaris Power Components,2024-02-23,Electrical Components,1,False,no_response
+RFQ-0015-INV-V002,RFQ-0015,V002,Tanaka Electrical KK,2024-02-23,Electrical Components,1,True,bid
+RFQ-0015-INV-V021,RFQ-0015,V021,Helios Micro Systems,2024-02-23,Electrical Components,1,False,no_response
+RFQ-0016-INV-V016,RFQ-0016,V016,Precision Arc Systems,2024-02-10,Electrical Components,1,True,bid
+RFQ-0016-INV-V002,RFQ-0016,V002,Tanaka Electrical KK,2024-02-10,Electrical Components,1,True,bid
+RFQ-0016-INV-V013,RFQ-0016,V013,Vantage Sensors GmbH,2024-02-10,Electrical Components,1,False,no_response
+RFQ-0016-INV-V011,RFQ-0016,V011,Solaris Power Components,2024-02-10,Electrical Components,1,True,bid
+RFQ-0016-INV-V018,RFQ-0016,V018,Guangzhou Mech & Elec Co.,2024-02-10,Electrical Components,1,False,no_response
+RFQ-0016-INV-V006,RFQ-0016,V006,Bright Spark Electronics Ltd,2024-02-10,Electrical Components,1,False,no_response
+RFQ-0016-INV-V021,RFQ-0016,V021,Helios Micro Systems,2024-02-10,Electrical Components,1,False,no_response
+RFQ-0017-INV-V008,RFQ-0017,V008,Delta Composites Inc.,2024-02-27,Raw Materials,1,True,bid
+RFQ-0017-INV-V014,RFQ-0017,V014,Coastal Alloys Pty Ltd,2024-02-27,Raw Materials,1,True,bid
+RFQ-0017-INV-V005,RFQ-0017,V005,Cerro Negro Metals SA,2024-02-27,Raw Materials,1,True,bid
+RFQ-0017-INV-V003,RFQ-0017,V003,Patel Alloys Pvt Ltd,2024-02-27,Raw Materials,1,False,no_response
+RFQ-0017-INV-V020,RFQ-0017,V020,Rajasthan Rare Earths Ltd,2024-02-27,Raw Materials,1,True,bid
+RFQ-0017-INV-V012,RFQ-0017,V012,Indra Copper Works,2024-02-27,Raw Materials,1,True,bid
+RFQ-0017-INV-V015,RFQ-0017,V015,Nordic Steel AS,2024-02-27,Raw Materials,1,True,bid
+RFQ-0017-INV-V023,RFQ-0017,V023,Sahara Industrial FZE,2024-02-27,Raw Materials,1,False,no_response
+RFQ-0018-INV-V001,RFQ-0018,V001,Kovacs Precision GmbH,2024-02-05,Mechanical Parts,1,True,bid
+RFQ-0018-INV-V004,RFQ-0018,V004,Strömberg Hydraulics AB,2024-02-05,Mechanical Parts,1,True,bid
+RFQ-0018-INV-V019,RFQ-0018,V019,Emerald Isle Castings Ltd,2024-02-05,Mechanical Parts,1,True,bid
+RFQ-0018-INV-V009,RFQ-0018,V009,Fischer & Söhne KG,2024-02-05,Mechanical Parts,1,False,no_response
+RFQ-0018-INV-V017,RFQ-0018,V017,Türk Makina A.Ş.,2024-02-05,Mechanical Parts,1,False,no_response
+RFQ-0018-INV-V007,RFQ-0018,V007,Nakamura Tooling Co.,2024-02-05,Mechanical Parts,1,True,bid
+RFQ-0018-INV-V010,RFQ-0018,V010,Adriatic Fastenings d.o.o.,2024-02-05,Mechanical Parts,1,False,no_response
+RFQ-0018-INV-V022,RFQ-0018,V022,Andean Precision SRL,2024-02-05,Mechanical Parts,1,False,no_response
+RFQ-0019-INV-V018,RFQ-0019,V018,Guangzhou Mech & Elec Co.,2024-02-20,Electrical Components,1,True,bid
+RFQ-0019-INV-V006,RFQ-0019,V006,Bright Spark Electronics Ltd,2024-02-20,Electrical Components,1,True,bid
+RFQ-0019-INV-V013,RFQ-0019,V013,Vantage Sensors GmbH,2024-02-20,Electrical Components,1,True,bid
+RFQ-0019-INV-V016,RFQ-0019,V016,Precision Arc Systems,2024-02-20,Electrical Components,1,False,no_response
+RFQ-0019-INV-V011,RFQ-0019,V011,Solaris Power Components,2024-02-20,Electrical Components,1,True,bid
+RFQ-0019-INV-V002,RFQ-0019,V002,Tanaka Electrical KK,2024-02-20,Electrical Components,1,True,bid
+RFQ-0019-INV-V021,RFQ-0019,V021,Helios Micro Systems,2024-02-20,Electrical Components,1,False,no_response
+RFQ-0020-INV-V006,RFQ-0020,V006,Bright Spark Electronics Ltd,2024-02-24,Electrical Components,1,True,bid
+RFQ-0020-INV-V002,RFQ-0020,V002,Tanaka Electrical KK,2024-02-24,Electrical Components,1,True,bid
+RFQ-0020-INV-V016,RFQ-0020,V016,Precision Arc Systems,2024-02-24,Electrical Components,1,True,bid
+RFQ-0020-INV-V018,RFQ-0020,V018,Guangzhou Mech & Elec Co.,2024-02-24,Electrical Components,1,True,bid
+RFQ-0020-INV-V011,RFQ-0020,V011,Solaris Power Components,2024-02-24,Electrical Components,1,False,no_response
+RFQ-0020-INV-V013,RFQ-0020,V013,Vantage Sensors GmbH,2024-02-24,Electrical Components,1,True,bid
+RFQ-0020-INV-V021,RFQ-0020,V021,Helios Micro Systems,2024-02-24,Electrical Components,1,False,no_response
+RFQ-0021-INV-V019,RFQ-0021,V019,Emerald Isle Castings Ltd,2024-03-15,Mechanical Parts,2,True,bid
+RFQ-0021-INV-V004,RFQ-0021,V004,Strömberg Hydraulics AB,2024-03-15,Mechanical Parts,2,True,bid
+RFQ-0021-INV-V017,RFQ-0021,V017,Türk Makina A.Ş.,2024-03-15,Mechanical Parts,2,True,bid
+RFQ-0021-INV-V001,RFQ-0021,V001,Kovacs Precision GmbH,2024-03-15,Mechanical Parts,2,True,bid
+RFQ-0021-INV-V007,RFQ-0021,V007,Nakamura Tooling Co.,2024-03-15,Mechanical Parts,2,True,bid
+RFQ-0021-INV-V010,RFQ-0021,V010,Adriatic Fastenings d.o.o.,2024-03-15,Mechanical Parts,2,True,bid
+RFQ-0021-INV-V009,RFQ-0021,V009,Fischer & Söhne KG,2024-03-15,Mechanical Parts,2,True,bid
+RFQ-0021-INV-V024,RFQ-0021,V024,BalticTech UAB,2024-03-15,Mechanical Parts,2,False,no_response
+RFQ-0022-INV-V019,RFQ-0022,V019,Emerald Isle Castings Ltd,2024-03-29,Mechanical Parts,2,False,no_response
+RFQ-0022-INV-V007,RFQ-0022,V007,Nakamura Tooling Co.,2024-03-29,Mechanical Parts,2,True,bid
+RFQ-0022-INV-V009,RFQ-0022,V009,Fischer & Söhne KG,2024-03-29,Mechanical Parts,2,True,bid
+RFQ-0022-INV-V004,RFQ-0022,V004,Strömberg Hydraulics AB,2024-03-29,Mechanical Parts,2,True,bid
+RFQ-0022-INV-V010,RFQ-0022,V010,Adriatic Fastenings d.o.o.,2024-03-29,Mechanical Parts,2,True,bid
+RFQ-0022-INV-V001,RFQ-0022,V001,Kovacs Precision GmbH,2024-03-29,Mechanical Parts,2,False,no_response
+RFQ-0022-INV-V017,RFQ-0022,V017,Türk Makina A.Ş.,2024-03-29,Mechanical Parts,2,True,bid
+RFQ-0022-INV-V022,RFQ-0022,V022,Andean Precision SRL,2024-03-29,Mechanical Parts,2,False,no_response
+RFQ-0023-INV-V010,RFQ-0023,V010,Adriatic Fastenings d.o.o.,2024-03-25,Mechanical Parts,2,True,bid
+RFQ-0023-INV-V007,RFQ-0023,V007,Nakamura Tooling Co.,2024-03-25,Mechanical Parts,2,True,bid
+RFQ-0023-INV-V001,RFQ-0023,V001,Kovacs Precision GmbH,2024-03-25,Mechanical Parts,2,True,bid
+RFQ-0023-INV-V019,RFQ-0023,V019,Emerald Isle Castings Ltd,2024-03-25,Mechanical Parts,2,True,bid
+RFQ-0023-INV-V017,RFQ-0023,V017,Türk Makina A.Ş.,2024-03-25,Mechanical Parts,2,True,bid
+RFQ-0023-INV-V004,RFQ-0023,V004,Strömberg Hydraulics AB,2024-03-25,Mechanical Parts,2,True,bid
+RFQ-0023-INV-V009,RFQ-0023,V009,Fischer & Söhne KG,2024-03-25,Mechanical Parts,2,True,bid
+RFQ-0023-INV-V022,RFQ-0023,V022,Andean Precision SRL,2024-03-25,Mechanical Parts,2,False,no_response
+RFQ-0024-INV-V001,RFQ-0024,V001,Kovacs Precision GmbH,2024-03-20,Mechanical Parts,2,False,no_response
+RFQ-0024-INV-V017,RFQ-0024,V017,Türk Makina A.Ş.,2024-03-20,Mechanical Parts,2,True,bid
+RFQ-0024-INV-V009,RFQ-0024,V009,Fischer & Söhne KG,2024-03-20,Mechanical Parts,2,True,bid
+RFQ-0024-INV-V004,RFQ-0024,V004,Strömberg Hydraulics AB,2024-03-20,Mechanical Parts,2,True,bid
+RFQ-0024-INV-V019,RFQ-0024,V019,Emerald Isle Castings Ltd,2024-03-20,Mechanical Parts,2,True,bid
+RFQ-0024-INV-V007,RFQ-0024,V007,Nakamura Tooling Co.,2024-03-20,Mechanical Parts,2,False,no_response
+RFQ-0024-INV-V010,RFQ-0024,V010,Adriatic Fastenings d.o.o.,2024-03-20,Mechanical Parts,2,True,bid
+RFQ-0024-INV-V024,RFQ-0024,V024,BalticTech UAB,2024-03-20,Mechanical Parts,2,False,no_response
+RFQ-0025-INV-V002,RFQ-0025,V002,Tanaka Electrical KK,2024-03-22,Electrical Components,2,True,bid
+RFQ-0025-INV-V016,RFQ-0025,V016,Precision Arc Systems,2024-03-22,Electrical Components,2,True,bid
+RFQ-0025-INV-V006,RFQ-0025,V006,Bright Spark Electronics Ltd,2024-03-22,Electrical Components,2,True,bid
+RFQ-0025-INV-V018,RFQ-0025,V018,Guangzhou Mech & Elec Co.,2024-03-22,Electrical Components,2,True,bid
+RFQ-0025-INV-V011,RFQ-0025,V011,Solaris Power Components,2024-03-22,Electrical Components,2,False,no_response
+RFQ-0025-INV-V021,RFQ-0025,V021,Helios Micro Systems,2024-03-22,Electrical Components,2,False,no_response
+RFQ-0025-INV-V013,RFQ-0025,V013,Vantage Sensors GmbH,2024-03-22,Electrical Components,2,True,bid
+RFQ-0026-INV-V016,RFQ-0026,V016,Precision Arc Systems,2024-03-06,Electrical Components,2,False,no_response
+RFQ-0026-INV-V013,RFQ-0026,V013,Vantage Sensors GmbH,2024-03-06,Electrical Components,2,True,bid
+RFQ-0026-INV-V018,RFQ-0026,V018,Guangzhou Mech & Elec Co.,2024-03-06,Electrical Components,2,True,bid
+RFQ-0026-INV-V002,RFQ-0026,V002,Tanaka Electrical KK,2024-03-06,Electrical Components,2,True,bid
+RFQ-0026-INV-V006,RFQ-0026,V006,Bright Spark Electronics Ltd,2024-03-06,Electrical Components,2,True,bid
+RFQ-0026-INV-V011,RFQ-0026,V011,Solaris Power Components,2024-03-06,Electrical Components,2,True,bid
+RFQ-0026-INV-V021,RFQ-0026,V021,Helios Micro Systems,2024-03-06,Electrical Components,2,False,no_response
+RFQ-0027-INV-V010,RFQ-0027,V010,Adriatic Fastenings d.o.o.,2024-03-28,Mechanical Parts,2,True,bid
+RFQ-0027-INV-V001,RFQ-0027,V001,Kovacs Precision GmbH,2024-03-28,Mechanical Parts,2,True,bid
+RFQ-0027-INV-V017,RFQ-0027,V017,Türk Makina A.Ş.,2024-03-28,Mechanical Parts,2,True,bid
+RFQ-0027-INV-V007,RFQ-0027,V007,Nakamura Tooling Co.,2024-03-28,Mechanical Parts,2,True,bid
+RFQ-0027-INV-V009,RFQ-0027,V009,Fischer & Söhne KG,2024-03-28,Mechanical Parts,2,True,bid
+RFQ-0027-INV-V004,RFQ-0027,V004,Strömberg Hydraulics AB,2024-03-28,Mechanical Parts,2,True,bid
+RFQ-0027-INV-V019,RFQ-0027,V019,Emerald Isle Castings Ltd,2024-03-28,Mechanical Parts,2,True,bid
+RFQ-0027-INV-V024,RFQ-0027,V024,BalticTech UAB,2024-03-28,Mechanical Parts,2,False,no_response
+RFQ-0028-INV-V006,RFQ-0028,V006,Bright Spark Electronics Ltd,2024-04-03,Electrical Components,2,False,no_response
+RFQ-0028-INV-V013,RFQ-0028,V013,Vantage Sensors GmbH,2024-04-03,Electrical Components,2,True,bid
+RFQ-0028-INV-V011,RFQ-0028,V011,Solaris Power Components,2024-04-03,Electrical Components,2,True,bid
+RFQ-0028-INV-V016,RFQ-0028,V016,Precision Arc Systems,2024-04-03,Electrical Components,2,True,bid
+RFQ-0028-INV-V018,RFQ-0028,V018,Guangzhou Mech & Elec Co.,2024-04-03,Electrical Components,2,True,bid
+RFQ-0028-INV-V002,RFQ-0028,V002,Tanaka Electrical KK,2024-04-03,Electrical Components,2,True,bid
+RFQ-0028-INV-V021,RFQ-0028,V021,Helios Micro Systems,2024-04-03,Electrical Components,2,False,no_response
+RFQ-0029-INV-V020,RFQ-0029,V020,Rajasthan Rare Earths Ltd,2024-03-26,Raw Materials,2,True,bid
+RFQ-0029-INV-V015,RFQ-0029,V015,Nordic Steel AS,2024-03-26,Raw Materials,2,True,bid
+RFQ-0029-INV-V023,RFQ-0029,V023,Sahara Industrial FZE,2024-03-26,Raw Materials,2,False,no_response
+RFQ-0029-INV-V012,RFQ-0029,V012,Indra Copper Works,2024-03-26,Raw Materials,2,False,no_response
+RFQ-0029-INV-V003,RFQ-0029,V003,Patel Alloys Pvt Ltd,2024-03-26,Raw Materials,2,False,no_response
+RFQ-0029-INV-V008,RFQ-0029,V008,Delta Composites Inc.,2024-03-26,Raw Materials,2,True,bid
+RFQ-0029-INV-V005,RFQ-0029,V005,Cerro Negro Metals SA,2024-03-26,Raw Materials,2,True,bid
+RFQ-0029-INV-V014,RFQ-0029,V014,Coastal Alloys Pty Ltd,2024-03-26,Raw Materials,2,False,no_response
+RFQ-0030-INV-V009,RFQ-0030,V009,Fischer & Söhne KG,2024-03-08,Mechanical Parts,2,True,bid
+RFQ-0030-INV-V010,RFQ-0030,V010,Adriatic Fastenings d.o.o.,2024-03-08,Mechanical Parts,2,False,no_response
+RFQ-0030-INV-V001,RFQ-0030,V001,Kovacs Precision GmbH,2024-03-08,Mechanical Parts,2,True,bid
+RFQ-0030-INV-V019,RFQ-0030,V019,Emerald Isle Castings Ltd,2024-03-08,Mechanical Parts,2,True,bid
+RFQ-0030-INV-V004,RFQ-0030,V004,Strömberg Hydraulics AB,2024-03-08,Mechanical Parts,2,True,bid
+RFQ-0030-INV-V017,RFQ-0030,V017,Türk Makina A.Ş.,2024-03-08,Mechanical Parts,2,True,bid
+RFQ-0030-INV-V022,RFQ-0030,V022,Andean Precision SRL,2024-03-08,Mechanical Parts,2,False,no_response
+RFQ-0030-INV-V024,RFQ-0030,V024,BalticTech UAB,2024-03-08,Mechanical Parts,2,False,no_response
+RFQ-0031-INV-V013,RFQ-0031,V013,Vantage Sensors GmbH,2024-04-29,Electrical Components,3,True,bid
+RFQ-0031-INV-V006,RFQ-0031,V006,Bright Spark Electronics Ltd,2024-04-29,Electrical Components,3,True,bid
+RFQ-0031-INV-V018,RFQ-0031,V018,Guangzhou Mech & Elec Co.,2024-04-29,Electrical Components,3,True,bid
+RFQ-0031-INV-V002,RFQ-0031,V002,Tanaka Electrical KK,2024-04-29,Electrical Components,3,True,bid
+RFQ-0031-INV-V011,RFQ-0031,V011,Solaris Power Components,2024-04-29,Electrical Components,3,False,no_response
+RFQ-0031-INV-V016,RFQ-0031,V016,Precision Arc Systems,2024-04-29,Electrical Components,3,False,no_response
+RFQ-0031-INV-V021,RFQ-0031,V021,Helios Micro Systems,2024-04-29,Electrical Components,3,False,no_response
+RFQ-0032-INV-V001,RFQ-0032,V001,Kovacs Precision GmbH,2024-05-01,Mechanical Parts,3,True,bid
+RFQ-0032-INV-V017,RFQ-0032,V017,Türk Makina A.Ş.,2024-05-01,Mechanical Parts,3,True,bid
+RFQ-0032-INV-V007,RFQ-0032,V007,Nakamura Tooling Co.,2024-05-01,Mechanical Parts,3,False,no_response
+RFQ-0032-INV-V009,RFQ-0032,V009,Fischer & Söhne KG,2024-05-01,Mechanical Parts,3,True,bid
+RFQ-0032-INV-V019,RFQ-0032,V019,Emerald Isle Castings Ltd,2024-05-01,Mechanical Parts,3,True,bid
+RFQ-0032-INV-V004,RFQ-0032,V004,Strömberg Hydraulics AB,2024-05-01,Mechanical Parts,3,True,bid
+RFQ-0032-INV-V010,RFQ-0032,V010,Adriatic Fastenings d.o.o.,2024-05-01,Mechanical Parts,3,True,bid
+RFQ-0032-INV-V024,RFQ-0032,V024,BalticTech UAB,2024-05-01,Mechanical Parts,3,False,no_response
+RFQ-0033-INV-V013,RFQ-0033,V013,Vantage Sensors GmbH,2024-04-06,Electrical Components,3,True,bid
+RFQ-0033-INV-V011,RFQ-0033,V011,Solaris Power Components,2024-04-06,Electrical Components,3,False,no_response
+RFQ-0033-INV-V002,RFQ-0033,V002,Tanaka Electrical KK,2024-04-06,Electrical Components,3,True,bid
+RFQ-0033-INV-V016,RFQ-0033,V016,Precision Arc Systems,2024-04-06,Electrical Components,3,True,bid
+RFQ-0033-INV-V018,RFQ-0033,V018,Guangzhou Mech & Elec Co.,2024-04-06,Electrical Components,3,True,bid
+RFQ-0033-INV-V006,RFQ-0033,V006,Bright Spark Electronics Ltd,2024-04-06,Electrical Components,3,True,bid
+RFQ-0033-INV-V021,RFQ-0033,V021,Helios Micro Systems,2024-04-06,Electrical Components,3,False,no_response
+RFQ-0034-INV-V001,RFQ-0034,V001,Kovacs Precision GmbH,2024-04-25,Mechanical Parts,3,True,bid
+RFQ-0034-INV-V007,RFQ-0034,V007,Nakamura Tooling Co.,2024-04-25,Mechanical Parts,3,True,bid
+RFQ-0034-INV-V019,RFQ-0034,V019,Emerald Isle Castings Ltd,2024-04-25,Mechanical Parts,3,False,no_response
+RFQ-0034-INV-V010,RFQ-0034,V010,Adriatic Fastenings d.o.o.,2024-04-25,Mechanical Parts,3,True,bid
+RFQ-0034-INV-V004,RFQ-0034,V004,Strömberg Hydraulics AB,2024-04-25,Mechanical Parts,3,True,bid
+RFQ-0034-INV-V017,RFQ-0034,V017,Türk Makina A.Ş.,2024-04-25,Mechanical Parts,3,True,bid
+RFQ-0034-INV-V009,RFQ-0034,V009,Fischer & Söhne KG,2024-04-25,Mechanical Parts,3,True,bid
+RFQ-0034-INV-V022,RFQ-0034,V022,Andean Precision SRL,2024-04-25,Mechanical Parts,3,False,no_response
+RFQ-0035-INV-V009,RFQ-0035,V009,Fischer & Söhne KG,2024-04-21,Mechanical Parts,3,True,bid
+RFQ-0035-INV-V019,RFQ-0035,V019,Emerald Isle Castings Ltd,2024-04-21,Mechanical Parts,3,True,bid
+RFQ-0035-INV-V007,RFQ-0035,V007,Nakamura Tooling Co.,2024-04-21,Mechanical Parts,3,True,bid
+RFQ-0035-INV-V017,RFQ-0035,V017,Türk Makina A.Ş.,2024-04-21,Mechanical Parts,3,True,bid
+RFQ-0035-INV-V004,RFQ-0035,V004,Strömberg Hydraulics AB,2024-04-21,Mechanical Parts,3,True,bid
+RFQ-0035-INV-V010,RFQ-0035,V010,Adriatic Fastenings d.o.o.,2024-04-21,Mechanical Parts,3,True,bid
+RFQ-0035-INV-V001,RFQ-0035,V001,Kovacs Precision GmbH,2024-04-21,Mechanical Parts,3,True,bid
+RFQ-0035-INV-V022,RFQ-0035,V022,Andean Precision SRL,2024-04-21,Mechanical Parts,3,False,no_response
+RFQ-0036-INV-V002,RFQ-0036,V002,Tanaka Electrical KK,2024-04-16,Electrical Components,3,True,bid
+RFQ-0036-INV-V018,RFQ-0036,V018,Guangzhou Mech & Elec Co.,2024-04-16,Electrical Components,3,True,bid
+RFQ-0036-INV-V006,RFQ-0036,V006,Bright Spark Electronics Ltd,2024-04-16,Electrical Components,3,True,bid
+RFQ-0036-INV-V011,RFQ-0036,V011,Solaris Power Components,2024-04-16,Electrical Components,3,False,no_response
+RFQ-0036-INV-V013,RFQ-0036,V013,Vantage Sensors GmbH,2024-04-16,Electrical Components,3,True,bid
+RFQ-0036-INV-V016,RFQ-0036,V016,Precision Arc Systems,2024-04-16,Electrical Components,3,True,bid
+RFQ-0036-INV-V021,RFQ-0036,V021,Helios Micro Systems,2024-04-16,Electrical Components,3,False,no_response
+RFQ-0037-INV-V013,RFQ-0037,V013,Vantage Sensors GmbH,2024-04-30,Electrical Components,3,True,bid
+RFQ-0037-INV-V002,RFQ-0037,V002,Tanaka Electrical KK,2024-04-30,Electrical Components,3,True,bid
+RFQ-0037-INV-V016,RFQ-0037,V016,Precision Arc Systems,2024-04-30,Electrical Components,3,True,bid
+RFQ-0037-INV-V006,RFQ-0037,V006,Bright Spark Electronics Ltd,2024-04-30,Electrical Components,3,False,no_response
+RFQ-0037-INV-V011,RFQ-0037,V011,Solaris Power Components,2024-04-30,Electrical Components,3,False,no_response
+RFQ-0037-INV-V018,RFQ-0037,V018,Guangzhou Mech & Elec Co.,2024-04-30,Electrical Components,3,True,bid
+RFQ-0037-INV-V021,RFQ-0037,V021,Helios Micro Systems,2024-04-30,Electrical Components,3,False,no_response
+RFQ-0038-INV-V006,RFQ-0038,V006,Bright Spark Electronics Ltd,2024-05-02,Electrical Components,3,False,no_response
+RFQ-0038-INV-V013,RFQ-0038,V013,Vantage Sensors GmbH,2024-05-02,Electrical Components,3,True,bid
+RFQ-0038-INV-V011,RFQ-0038,V011,Solaris Power Components,2024-05-02,Electrical Components,3,True,bid
+RFQ-0038-INV-V002,RFQ-0038,V002,Tanaka Electrical KK,2024-05-02,Electrical Components,3,False,no_response
+RFQ-0038-INV-V016,RFQ-0038,V016,Precision Arc Systems,2024-05-02,Electrical Components,3,False,no_response
+RFQ-0038-INV-V018,RFQ-0038,V018,Guangzhou Mech & Elec Co.,2024-05-02,Electrical Components,3,True,bid
+RFQ-0038-INV-V021,RFQ-0038,V021,Helios Micro Systems,2024-05-02,Electrical Components,3,False,no_response
+RFQ-0039-INV-V007,RFQ-0039,V007,Nakamura Tooling Co.,2024-04-29,Mechanical Parts,3,True,bid
+RFQ-0039-INV-V009,RFQ-0039,V009,Fischer & Söhne KG,2024-04-29,Mechanical Parts,3,True,bid
+RFQ-0039-INV-V017,RFQ-0039,V017,Türk Makina A.Ş.,2024-04-29,Mechanical Parts,3,True,bid
+RFQ-0039-INV-V010,RFQ-0039,V010,Adriatic Fastenings d.o.o.,2024-04-29,Mechanical Parts,3,False,no_response
+RFQ-0039-INV-V001,RFQ-0039,V001,Kovacs Precision GmbH,2024-04-29,Mechanical Parts,3,True,bid
+RFQ-0039-INV-V004,RFQ-0039,V004,Strömberg Hydraulics AB,2024-04-29,Mechanical Parts,3,True,bid
+RFQ-0039-INV-V019,RFQ-0039,V019,Emerald Isle Castings Ltd,2024-04-29,Mechanical Parts,3,True,bid
+RFQ-0039-INV-V024,RFQ-0039,V024,BalticTech UAB,2024-04-29,Mechanical Parts,3,False,no_response
+RFQ-0040-INV-V013,RFQ-0040,V013,Vantage Sensors GmbH,2024-04-12,Electrical Components,3,True,bid
+RFQ-0040-INV-V006,RFQ-0040,V006,Bright Spark Electronics Ltd,2024-04-12,Electrical Components,3,True,bid
+RFQ-0040-INV-V016,RFQ-0040,V016,Precision Arc Systems,2024-04-12,Electrical Components,3,False,no_response
+RFQ-0040-INV-V002,RFQ-0040,V002,Tanaka Electrical KK,2024-04-12,Electrical Components,3,False,no_response
+RFQ-0040-INV-V018,RFQ-0040,V018,Guangzhou Mech & Elec Co.,2024-04-12,Electrical Components,3,True,bid
+RFQ-0040-INV-V011,RFQ-0040,V011,Solaris Power Components,2024-04-12,Electrical Components,3,False,no_response
+RFQ-0040-INV-V021,RFQ-0040,V021,Helios Micro Systems,2024-04-12,Electrical Components,3,False,no_response
+RFQ-0041-INV-V001,RFQ-0041,V001,Kovacs Precision GmbH,2024-05-25,Mechanical Parts,4,True,bid
+RFQ-0041-INV-V022,RFQ-0041,V022,Andean Precision SRL,2024-05-25,Mechanical Parts,4,True,bid
+RFQ-0041-INV-V017,RFQ-0041,V017,Türk Makina A.Ş.,2024-05-25,Mechanical Parts,4,False,no_response
+RFQ-0041-INV-V010,RFQ-0041,V010,Adriatic Fastenings d.o.o.,2024-05-25,Mechanical Parts,4,True,bid
+RFQ-0041-INV-V024,RFQ-0041,V024,BalticTech UAB,2024-05-25,Mechanical Parts,4,True,bid
+RFQ-0041-INV-V019,RFQ-0041,V019,Emerald Isle Castings Ltd,2024-05-25,Mechanical Parts,4,True,bid
+RFQ-0041-INV-V009,RFQ-0041,V009,Fischer & Söhne KG,2024-05-25,Mechanical Parts,4,True,bid
+RFQ-0041-INV-V004,RFQ-0041,V004,Strömberg Hydraulics AB,2024-05-25,Mechanical Parts,4,True,bid
+RFQ-0042-INV-V024,RFQ-0042,V024,BalticTech UAB,2024-05-26,Mechanical Parts,4,True,bid
+RFQ-0042-INV-V001,RFQ-0042,V001,Kovacs Precision GmbH,2024-05-26,Mechanical Parts,4,True,bid
+RFQ-0042-INV-V017,RFQ-0042,V017,Türk Makina A.Ş.,2024-05-26,Mechanical Parts,4,True,bid
+RFQ-0042-INV-V010,RFQ-0042,V010,Adriatic Fastenings d.o.o.,2024-05-26,Mechanical Parts,4,True,bid
+RFQ-0042-INV-V022,RFQ-0042,V022,Andean Precision SRL,2024-05-26,Mechanical Parts,4,True,bid
+RFQ-0042-INV-V007,RFQ-0042,V007,Nakamura Tooling Co.,2024-05-26,Mechanical Parts,4,True,bid
+RFQ-0042-INV-V004,RFQ-0042,V004,Strömberg Hydraulics AB,2024-05-26,Mechanical Parts,4,True,bid
+RFQ-0042-INV-V019,RFQ-0042,V019,Emerald Isle Castings Ltd,2024-05-26,Mechanical Parts,4,True,bid
+RFQ-0043-INV-V007,RFQ-0043,V007,Nakamura Tooling Co.,2024-05-23,Mechanical Parts,4,False,no_response
+RFQ-0043-INV-V009,RFQ-0043,V009,Fischer & Söhne KG,2024-05-23,Mechanical Parts,4,True,bid
+RFQ-0043-INV-V019,RFQ-0043,V019,Emerald Isle Castings Ltd,2024-05-23,Mechanical Parts,4,True,bid
+RFQ-0043-INV-V004,RFQ-0043,V004,Strömberg Hydraulics AB,2024-05-23,Mechanical Parts,4,True,bid
+RFQ-0043-INV-V024,RFQ-0043,V024,BalticTech UAB,2024-05-23,Mechanical Parts,4,False,no_response
+RFQ-0043-INV-V017,RFQ-0043,V017,Türk Makina A.Ş.,2024-05-23,Mechanical Parts,4,True,bid
+RFQ-0043-INV-V010,RFQ-0043,V010,Adriatic Fastenings d.o.o.,2024-05-23,Mechanical Parts,4,True,bid
+RFQ-0043-INV-V022,RFQ-0043,V022,Andean Precision SRL,2024-05-23,Mechanical Parts,4,True,bid
+RFQ-0044-INV-V016,RFQ-0044,V016,Precision Arc Systems,2024-05-05,Electrical Components,4,False,no_response
+RFQ-0044-INV-V021,RFQ-0044,V021,Helios Micro Systems,2024-05-05,Electrical Components,4,True,bid
+RFQ-0044-INV-V018,RFQ-0044,V018,Guangzhou Mech & Elec Co.,2024-05-05,Electrical Components,4,False,no_response
+RFQ-0044-INV-V011,RFQ-0044,V011,Solaris Power Components,2024-05-05,Electrical Components,4,True,bid
+RFQ-0044-INV-V006,RFQ-0044,V006,Bright Spark Electronics Ltd,2024-05-05,Electrical Components,4,True,bid
+RFQ-0044-INV-V002,RFQ-0044,V002,Tanaka Electrical KK,2024-05-05,Electrical Components,4,True,bid
+RFQ-0044-INV-V013,RFQ-0044,V013,Vantage Sensors GmbH,2024-05-05,Electrical Components,4,True,bid
+RFQ-0045-INV-V007,RFQ-0045,V007,Nakamura Tooling Co.,2024-06-03,Mechanical Parts,4,False,no_response
+RFQ-0045-INV-V022,RFQ-0045,V022,Andean Precision SRL,2024-06-03,Mechanical Parts,4,True,bid
+RFQ-0045-INV-V024,RFQ-0045,V024,BalticTech UAB,2024-06-03,Mechanical Parts,4,True,bid
+RFQ-0045-INV-V019,RFQ-0045,V019,Emerald Isle Castings Ltd,2024-06-03,Mechanical Parts,4,True,bid
+RFQ-0045-INV-V001,RFQ-0045,V001,Kovacs Precision GmbH,2024-06-03,Mechanical Parts,4,True,bid
+RFQ-0045-INV-V010,RFQ-0045,V010,Adriatic Fastenings d.o.o.,2024-06-03,Mechanical Parts,4,True,bid
+RFQ-0045-INV-V017,RFQ-0045,V017,Türk Makina A.Ş.,2024-06-03,Mechanical Parts,4,True,bid
+RFQ-0045-INV-V004,RFQ-0045,V004,Strömberg Hydraulics AB,2024-06-03,Mechanical Parts,4,True,bid
+RFQ-0046-INV-V002,RFQ-0046,V002,Tanaka Electrical KK,2024-05-20,Electrical Components,4,True,bid
+RFQ-0046-INV-V018,RFQ-0046,V018,Guangzhou Mech & Elec Co.,2024-05-20,Electrical Components,4,True,bid
+RFQ-0046-INV-V013,RFQ-0046,V013,Vantage Sensors GmbH,2024-05-20,Electrical Components,4,True,bid
+RFQ-0046-INV-V021,RFQ-0046,V021,Helios Micro Systems,2024-05-20,Electrical Components,4,True,bid
+RFQ-0046-INV-V006,RFQ-0046,V006,Bright Spark Electronics Ltd,2024-05-20,Electrical Components,4,True,bid
+RFQ-0046-INV-V016,RFQ-0046,V016,Precision Arc Systems,2024-05-20,Electrical Components,4,False,no_response
+RFQ-0046-INV-V011,RFQ-0046,V011,Solaris Power Components,2024-05-20,Electrical Components,4,True,bid
+RFQ-0047-INV-V009,RFQ-0047,V009,Fischer & Söhne KG,2024-05-09,Mechanical Parts,4,True,bid
+RFQ-0047-INV-V001,RFQ-0047,V001,Kovacs Precision GmbH,2024-05-09,Mechanical Parts,4,True,bid
+RFQ-0047-INV-V017,RFQ-0047,V017,Türk Makina A.Ş.,2024-05-09,Mechanical Parts,4,True,bid
+RFQ-0047-INV-V024,RFQ-0047,V024,BalticTech UAB,2024-05-09,Mechanical Parts,4,True,bid
+RFQ-0047-INV-V010,RFQ-0047,V010,Adriatic Fastenings d.o.o.,2024-05-09,Mechanical Parts,4,True,bid
+RFQ-0047-INV-V007,RFQ-0047,V007,Nakamura Tooling Co.,2024-05-09,Mechanical Parts,4,True,bid
+RFQ-0047-INV-V022,RFQ-0047,V022,Andean Precision SRL,2024-05-09,Mechanical Parts,4,False,no_response
+RFQ-0047-INV-V019,RFQ-0047,V019,Emerald Isle Castings Ltd,2024-05-09,Mechanical Parts,4,True,bid
+RFQ-0048-INV-V024,RFQ-0048,V024,BalticTech UAB,2024-05-26,Mechanical Parts,4,True,bid
+RFQ-0048-INV-V001,RFQ-0048,V001,Kovacs Precision GmbH,2024-05-26,Mechanical Parts,4,True,bid
+RFQ-0048-INV-V017,RFQ-0048,V017,Türk Makina A.Ş.,2024-05-26,Mechanical Parts,4,True,bid
+RFQ-0048-INV-V019,RFQ-0048,V019,Emerald Isle Castings Ltd,2024-05-26,Mechanical Parts,4,True,bid
+RFQ-0048-INV-V004,RFQ-0048,V004,Strömberg Hydraulics AB,2024-05-26,Mechanical Parts,4,True,bid
+RFQ-0048-INV-V010,RFQ-0048,V010,Adriatic Fastenings d.o.o.,2024-05-26,Mechanical Parts,4,False,no_response
+RFQ-0048-INV-V007,RFQ-0048,V007,Nakamura Tooling Co.,2024-05-26,Mechanical Parts,4,True,bid
+RFQ-0048-INV-V009,RFQ-0048,V009,Fischer & Söhne KG,2024-05-26,Mechanical Parts,4,True,bid
+RFQ-0049-INV-V006,RFQ-0049,V006,Bright Spark Electronics Ltd,2024-05-15,Electrical Components,4,False,no_response
+RFQ-0049-INV-V013,RFQ-0049,V013,Vantage Sensors GmbH,2024-05-15,Electrical Components,4,True,bid
+RFQ-0049-INV-V018,RFQ-0049,V018,Guangzhou Mech & Elec Co.,2024-05-15,Electrical Components,4,False,no_response
+RFQ-0049-INV-V002,RFQ-0049,V002,Tanaka Electrical KK,2024-05-15,Electrical Components,4,True,bid
+RFQ-0049-INV-V016,RFQ-0049,V016,Precision Arc Systems,2024-05-15,Electrical Components,4,True,bid
+RFQ-0049-INV-V021,RFQ-0049,V021,Helios Micro Systems,2024-05-15,Electrical Components,4,False,no_response
+RFQ-0049-INV-V011,RFQ-0049,V011,Solaris Power Components,2024-05-15,Electrical Components,4,True,bid
+RFQ-0050-INV-V019,RFQ-0050,V019,Emerald Isle Castings Ltd,2024-05-24,Mechanical Parts,4,True,bid
+RFQ-0050-INV-V001,RFQ-0050,V001,Kovacs Precision GmbH,2024-05-24,Mechanical Parts,4,True,bid
+RFQ-0050-INV-V022,RFQ-0050,V022,Andean Precision SRL,2024-05-24,Mechanical Parts,4,True,bid
+RFQ-0050-INV-V024,RFQ-0050,V024,BalticTech UAB,2024-05-24,Mechanical Parts,4,False,no_response
+RFQ-0050-INV-V007,RFQ-0050,V007,Nakamura Tooling Co.,2024-05-24,Mechanical Parts,4,True,bid
+RFQ-0050-INV-V004,RFQ-0050,V004,Strömberg Hydraulics AB,2024-05-24,Mechanical Parts,4,True,bid
+RFQ-0050-INV-V017,RFQ-0050,V017,Türk Makina A.Ş.,2024-05-24,Mechanical Parts,4,True,bid
+RFQ-0050-INV-V009,RFQ-0050,V009,Fischer & Söhne KG,2024-05-24,Mechanical Parts,4,True,bid
+RFQ-0051-INV-V017,RFQ-0051,V017,Türk Makina A.Ş.,2024-05-18,Mechanical Parts,4,True,bid
+RFQ-0051-INV-V001,RFQ-0051,V001,Kovacs Precision GmbH,2024-05-18,Mechanical Parts,4,True,bid
+RFQ-0051-INV-V019,RFQ-0051,V019,Emerald Isle Castings Ltd,2024-05-18,Mechanical Parts,4,True,bid
+RFQ-0051-INV-V007,RFQ-0051,V007,Nakamura Tooling Co.,2024-05-18,Mechanical Parts,4,False,no_response
+RFQ-0051-INV-V010,RFQ-0051,V010,Adriatic Fastenings d.o.o.,2024-05-18,Mechanical Parts,4,False,no_response
+RFQ-0051-INV-V004,RFQ-0051,V004,Strömberg Hydraulics AB,2024-05-18,Mechanical Parts,4,True,bid
+RFQ-0051-INV-V009,RFQ-0051,V009,Fischer & Söhne KG,2024-05-18,Mechanical Parts,4,False,no_response
+RFQ-0051-INV-V024,RFQ-0051,V024,BalticTech UAB,2024-05-18,Mechanical Parts,4,True,bid
+RFQ-0052-INV-V013,RFQ-0052,V013,Vantage Sensors GmbH,2024-06-28,Electrical Components,5,True,bid
+RFQ-0052-INV-V018,RFQ-0052,V018,Guangzhou Mech & Elec Co.,2024-06-28,Electrical Components,5,False,no_response
+RFQ-0052-INV-V016,RFQ-0052,V016,Precision Arc Systems,2024-06-28,Electrical Components,5,True,bid
+RFQ-0052-INV-V006,RFQ-0052,V006,Bright Spark Electronics Ltd,2024-06-28,Electrical Components,5,True,bid
+RFQ-0052-INV-V002,RFQ-0052,V002,Tanaka Electrical KK,2024-06-28,Electrical Components,5,True,bid
+RFQ-0052-INV-V021,RFQ-0052,V021,Helios Micro Systems,2024-06-28,Electrical Components,5,True,bid
+RFQ-0052-INV-V011,RFQ-0052,V011,Solaris Power Components,2024-06-28,Electrical Components,5,True,bid
+RFQ-0053-INV-V001,RFQ-0053,V001,Kovacs Precision GmbH,2024-06-04,Mechanical Parts,5,True,bid
+RFQ-0053-INV-V022,RFQ-0053,V022,Andean Precision SRL,2024-06-04,Mechanical Parts,5,True,bid
+RFQ-0053-INV-V009,RFQ-0053,V009,Fischer & Söhne KG,2024-06-04,Mechanical Parts,5,True,bid
+RFQ-0053-INV-V017,RFQ-0053,V017,Türk Makina A.Ş.,2024-06-04,Mechanical Parts,5,True,bid
+RFQ-0053-INV-V024,RFQ-0053,V024,BalticTech UAB,2024-06-04,Mechanical Parts,5,True,bid
+RFQ-0053-INV-V019,RFQ-0053,V019,Emerald Isle Castings Ltd,2024-06-04,Mechanical Parts,5,True,bid
+RFQ-0053-INV-V004,RFQ-0053,V004,Strömberg Hydraulics AB,2024-06-04,Mechanical Parts,5,True,bid
+RFQ-0053-INV-V007,RFQ-0053,V007,Nakamura Tooling Co.,2024-06-04,Mechanical Parts,5,False,no_response
+RFQ-0054-INV-V018,RFQ-0054,V018,Guangzhou Mech & Elec Co.,2024-06-09,Electrical Components,5,True,bid
+RFQ-0054-INV-V013,RFQ-0054,V013,Vantage Sensors GmbH,2024-06-09,Electrical Components,5,True,bid
+RFQ-0054-INV-V011,RFQ-0054,V011,Solaris Power Components,2024-06-09,Electrical Components,5,False,no_response
+RFQ-0054-INV-V016,RFQ-0054,V016,Precision Arc Systems,2024-06-09,Electrical Components,5,True,bid
+RFQ-0054-INV-V021,RFQ-0054,V021,Helios Micro Systems,2024-06-09,Electrical Components,5,True,bid
+RFQ-0054-INV-V006,RFQ-0054,V006,Bright Spark Electronics Ltd,2024-06-09,Electrical Components,5,False,no_response
+RFQ-0054-INV-V002,RFQ-0054,V002,Tanaka Electrical KK,2024-06-09,Electrical Components,5,True,bid
+RFQ-0055-INV-V006,RFQ-0055,V006,Bright Spark Electronics Ltd,2024-06-08,Electrical Components,5,True,bid
+RFQ-0055-INV-V011,RFQ-0055,V011,Solaris Power Components,2024-06-08,Electrical Components,5,True,bid
+RFQ-0055-INV-V021,RFQ-0055,V021,Helios Micro Systems,2024-06-08,Electrical Components,5,True,bid
+RFQ-0055-INV-V016,RFQ-0055,V016,Precision Arc Systems,2024-06-08,Electrical Components,5,True,bid
+RFQ-0055-INV-V002,RFQ-0055,V002,Tanaka Electrical KK,2024-06-08,Electrical Components,5,True,bid
+RFQ-0055-INV-V018,RFQ-0055,V018,Guangzhou Mech & Elec Co.,2024-06-08,Electrical Components,5,True,bid
+RFQ-0055-INV-V013,RFQ-0055,V013,Vantage Sensors GmbH,2024-06-08,Electrical Components,5,True,bid
+RFQ-0056-INV-V013,RFQ-0056,V013,Vantage Sensors GmbH,2024-06-08,Electrical Components,5,False,no_response
+RFQ-0056-INV-V006,RFQ-0056,V006,Bright Spark Electronics Ltd,2024-06-08,Electrical Components,5,True,bid
+RFQ-0056-INV-V018,RFQ-0056,V018,Guangzhou Mech & Elec Co.,2024-06-08,Electrical Components,5,True,bid
+RFQ-0056-INV-V002,RFQ-0056,V002,Tanaka Electrical KK,2024-06-08,Electrical Components,5,False,no_response
+RFQ-0056-INV-V011,RFQ-0056,V011,Solaris Power Components,2024-06-08,Electrical Components,5,True,bid
+RFQ-0056-INV-V021,RFQ-0056,V021,Helios Micro Systems,2024-06-08,Electrical Components,5,False,no_response
+RFQ-0056-INV-V016,RFQ-0056,V016,Precision Arc Systems,2024-06-08,Electrical Components,5,True,bid
+RFQ-0057-INV-V007,RFQ-0057,V007,Nakamura Tooling Co.,2024-06-17,Mechanical Parts,5,True,bid
+RFQ-0057-INV-V010,RFQ-0057,V010,Adriatic Fastenings d.o.o.,2024-06-17,Mechanical Parts,5,False,no_response
+RFQ-0057-INV-V017,RFQ-0057,V017,Türk Makina A.Ş.,2024-06-17,Mechanical Parts,5,True,bid
+RFQ-0057-INV-V009,RFQ-0057,V009,Fischer & Söhne KG,2024-06-17,Mechanical Parts,5,False,no_response
+RFQ-0057-INV-V001,RFQ-0057,V001,Kovacs Precision GmbH,2024-06-17,Mechanical Parts,5,True,bid
+RFQ-0057-INV-V004,RFQ-0057,V004,Strömberg Hydraulics AB,2024-06-17,Mechanical Parts,5,True,bid
+RFQ-0057-INV-V019,RFQ-0057,V019,Emerald Isle Castings Ltd,2024-06-17,Mechanical Parts,5,True,bid
+RFQ-0057-INV-V022,RFQ-0057,V022,Andean Precision SRL,2024-06-17,Mechanical Parts,5,True,bid
+RFQ-0058-INV-V015,RFQ-0058,V015,Nordic Steel AS,2024-06-20,Raw Materials,5,True,bid
+RFQ-0058-INV-V023,RFQ-0058,V023,Sahara Industrial FZE,2024-06-20,Raw Materials,5,False,no_response
+RFQ-0058-INV-V020,RFQ-0058,V020,Rajasthan Rare Earths Ltd,2024-06-20,Raw Materials,5,True,bid
+RFQ-0058-INV-V005,RFQ-0058,V005,Cerro Negro Metals SA,2024-06-20,Raw Materials,5,True,bid
+RFQ-0058-INV-V008,RFQ-0058,V008,Delta Composites Inc.,2024-06-20,Raw Materials,5,True,bid
+RFQ-0058-INV-V003,RFQ-0058,V003,Patel Alloys Pvt Ltd,2024-06-20,Raw Materials,5,True,bid
+RFQ-0058-INV-V012,RFQ-0058,V012,Indra Copper Works,2024-06-20,Raw Materials,5,True,bid
+RFQ-0058-INV-V014,RFQ-0058,V014,Coastal Alloys Pty Ltd,2024-06-20,Raw Materials,5,True,bid
+RFQ-0059-INV-V002,RFQ-0059,V002,Tanaka Electrical KK,2024-06-12,Electrical Components,5,False,no_response
+RFQ-0059-INV-V011,RFQ-0059,V011,Solaris Power Components,2024-06-12,Electrical Components,5,True,bid
+RFQ-0059-INV-V021,RFQ-0059,V021,Helios Micro Systems,2024-06-12,Electrical Components,5,True,bid
+RFQ-0059-INV-V016,RFQ-0059,V016,Precision Arc Systems,2024-06-12,Electrical Components,5,False,no_response
+RFQ-0059-INV-V006,RFQ-0059,V006,Bright Spark Electronics Ltd,2024-06-12,Electrical Components,5,True,bid
+RFQ-0059-INV-V018,RFQ-0059,V018,Guangzhou Mech & Elec Co.,2024-06-12,Electrical Components,5,True,bid
+RFQ-0059-INV-V013,RFQ-0059,V013,Vantage Sensors GmbH,2024-06-12,Electrical Components,5,True,bid
+RFQ-0060-INV-V009,RFQ-0060,V009,Fischer & Söhne KG,2024-06-22,Mechanical Parts,5,True,bid
+RFQ-0060-INV-V017,RFQ-0060,V017,Türk Makina A.Ş.,2024-06-22,Mechanical Parts,5,True,bid
+RFQ-0060-INV-V019,RFQ-0060,V019,Emerald Isle Castings Ltd,2024-06-22,Mechanical Parts,5,True,bid
+RFQ-0060-INV-V001,RFQ-0060,V001,Kovacs Precision GmbH,2024-06-22,Mechanical Parts,5,True,bid
+RFQ-0060-INV-V024,RFQ-0060,V024,BalticTech UAB,2024-06-22,Mechanical Parts,5,False,no_response
+RFQ-0060-INV-V004,RFQ-0060,V004,Strömberg Hydraulics AB,2024-06-22,Mechanical Parts,5,True,bid
+RFQ-0060-INV-V007,RFQ-0060,V007,Nakamura Tooling Co.,2024-06-22,Mechanical Parts,5,False,no_response
+RFQ-0060-INV-V010,RFQ-0060,V010,Adriatic Fastenings d.o.o.,2024-06-22,Mechanical Parts,5,True,bid
+RFQ-0061-INV-V023,RFQ-0061,V023,Sahara Industrial FZE,2024-06-19,Raw Materials,5,True,bid
+RFQ-0061-INV-V020,RFQ-0061,V020,Rajasthan Rare Earths Ltd,2024-06-19,Raw Materials,5,True,bid
+RFQ-0061-INV-V005,RFQ-0061,V005,Cerro Negro Metals SA,2024-06-19,Raw Materials,5,True,bid
+RFQ-0061-INV-V008,RFQ-0061,V008,Delta Composites Inc.,2024-06-19,Raw Materials,5,True,bid
+RFQ-0061-INV-V012,RFQ-0061,V012,Indra Copper Works,2024-06-19,Raw Materials,5,False,no_response
+RFQ-0061-INV-V014,RFQ-0061,V014,Coastal Alloys Pty Ltd,2024-06-19,Raw Materials,5,True,bid
+RFQ-0061-INV-V003,RFQ-0061,V003,Patel Alloys Pvt Ltd,2024-06-19,Raw Materials,5,True,bid
+RFQ-0061-INV-V015,RFQ-0061,V015,Nordic Steel AS,2024-06-19,Raw Materials,5,True,bid
+RFQ-0062-INV-V009,RFQ-0062,V009,Fischer & Söhne KG,2024-07-16,Mechanical Parts,6,True,bid
+RFQ-0062-INV-V001,RFQ-0062,V001,Kovacs Precision GmbH,2024-07-16,Mechanical Parts,6,True,bid
+RFQ-0062-INV-V004,RFQ-0062,V004,Strömberg Hydraulics AB,2024-07-16,Mechanical Parts,6,True,bid
+RFQ-0062-INV-V007,RFQ-0062,V007,Nakamura Tooling Co.,2024-07-16,Mechanical Parts,6,False,no_response
+RFQ-0062-INV-V024,RFQ-0062,V024,BalticTech UAB,2024-07-16,Mechanical Parts,6,True,bid
+RFQ-0062-INV-V010,RFQ-0062,V010,Adriatic Fastenings d.o.o.,2024-07-16,Mechanical Parts,6,True,bid
+RFQ-0062-INV-V017,RFQ-0062,V017,Türk Makina A.Ş.,2024-07-16,Mechanical Parts,6,True,bid
+RFQ-0062-INV-V022,RFQ-0062,V022,Andean Precision SRL,2024-07-16,Mechanical Parts,6,True,bid
+RFQ-0063-INV-V018,RFQ-0063,V018,Guangzhou Mech & Elec Co.,2024-07-05,Electrical Components,6,True,bid
+RFQ-0063-INV-V013,RFQ-0063,V013,Vantage Sensors GmbH,2024-07-05,Electrical Components,6,True,bid
+RFQ-0063-INV-V006,RFQ-0063,V006,Bright Spark Electronics Ltd,2024-07-05,Electrical Components,6,True,bid
+RFQ-0063-INV-V011,RFQ-0063,V011,Solaris Power Components,2024-07-05,Electrical Components,6,False,no_response
+RFQ-0063-INV-V021,RFQ-0063,V021,Helios Micro Systems,2024-07-05,Electrical Components,6,True,bid
+RFQ-0063-INV-V002,RFQ-0063,V002,Tanaka Electrical KK,2024-07-05,Electrical Components,6,True,bid
+RFQ-0063-INV-V016,RFQ-0063,V016,Precision Arc Systems,2024-07-05,Electrical Components,6,False,no_response
+RFQ-0064-INV-V013,RFQ-0064,V013,Vantage Sensors GmbH,2024-07-12,Electrical Components,6,True,bid
+RFQ-0064-INV-V021,RFQ-0064,V021,Helios Micro Systems,2024-07-12,Electrical Components,6,False,no_response
+RFQ-0064-INV-V016,RFQ-0064,V016,Precision Arc Systems,2024-07-12,Electrical Components,6,True,bid
+RFQ-0064-INV-V011,RFQ-0064,V011,Solaris Power Components,2024-07-12,Electrical Components,6,False,no_response
+RFQ-0064-INV-V018,RFQ-0064,V018,Guangzhou Mech & Elec Co.,2024-07-12,Electrical Components,6,False,no_response
+RFQ-0064-INV-V006,RFQ-0064,V006,Bright Spark Electronics Ltd,2024-07-12,Electrical Components,6,True,bid
+RFQ-0064-INV-V002,RFQ-0064,V002,Tanaka Electrical KK,2024-07-12,Electrical Components,6,False,no_response
+RFQ-0065-INV-V007,RFQ-0065,V007,Nakamura Tooling Co.,2024-07-17,Mechanical Parts,6,True,bid
+RFQ-0065-INV-V019,RFQ-0065,V019,Emerald Isle Castings Ltd,2024-07-17,Mechanical Parts,6,True,bid
+RFQ-0065-INV-V001,RFQ-0065,V001,Kovacs Precision GmbH,2024-07-17,Mechanical Parts,6,True,bid
+RFQ-0065-INV-V010,RFQ-0065,V010,Adriatic Fastenings d.o.o.,2024-07-17,Mechanical Parts,6,True,bid
+RFQ-0065-INV-V024,RFQ-0065,V024,BalticTech UAB,2024-07-17,Mechanical Parts,6,True,bid
+RFQ-0065-INV-V017,RFQ-0065,V017,Türk Makina A.Ş.,2024-07-17,Mechanical Parts,6,False,no_response
+RFQ-0065-INV-V009,RFQ-0065,V009,Fischer & Söhne KG,2024-07-17,Mechanical Parts,6,True,bid
+RFQ-0065-INV-V004,RFQ-0065,V004,Strömberg Hydraulics AB,2024-07-17,Mechanical Parts,6,True,bid
+RFQ-0066-INV-V016,RFQ-0066,V016,Precision Arc Systems,2024-07-08,Electrical Components,6,True,bid
+RFQ-0066-INV-V021,RFQ-0066,V021,Helios Micro Systems,2024-07-08,Electrical Components,6,True,bid
+RFQ-0066-INV-V013,RFQ-0066,V013,Vantage Sensors GmbH,2024-07-08,Electrical Components,6,False,no_response
+RFQ-0066-INV-V002,RFQ-0066,V002,Tanaka Electrical KK,2024-07-08,Electrical Components,6,True,bid
+RFQ-0066-INV-V018,RFQ-0066,V018,Guangzhou Mech & Elec Co.,2024-07-08,Electrical Components,6,True,bid
+RFQ-0066-INV-V011,RFQ-0066,V011,Solaris Power Components,2024-07-08,Electrical Components,6,False,no_response
+RFQ-0066-INV-V006,RFQ-0066,V006,Bright Spark Electronics Ltd,2024-07-08,Electrical Components,6,True,bid
+RFQ-0067-INV-V018,RFQ-0067,V018,Guangzhou Mech & Elec Co.,2024-07-06,Electrical Components,6,False,no_response
+RFQ-0067-INV-V002,RFQ-0067,V002,Tanaka Electrical KK,2024-07-06,Electrical Components,6,False,no_response
+RFQ-0067-INV-V011,RFQ-0067,V011,Solaris Power Components,2024-07-06,Electrical Components,6,True,bid
+RFQ-0067-INV-V006,RFQ-0067,V006,Bright Spark Electronics Ltd,2024-07-06,Electrical Components,6,True,bid
+RFQ-0067-INV-V021,RFQ-0067,V021,Helios Micro Systems,2024-07-06,Electrical Components,6,True,bid
+RFQ-0067-INV-V016,RFQ-0067,V016,Precision Arc Systems,2024-07-06,Electrical Components,6,True,bid
+RFQ-0067-INV-V013,RFQ-0067,V013,Vantage Sensors GmbH,2024-07-06,Electrical Components,6,True,bid
+RFQ-0068-INV-V013,RFQ-0068,V013,Vantage Sensors GmbH,2024-07-27,Electrical Components,6,True,bid
+RFQ-0068-INV-V011,RFQ-0068,V011,Solaris Power Components,2024-07-27,Electrical Components,6,True,bid
+RFQ-0068-INV-V021,RFQ-0068,V021,Helios Micro Systems,2024-07-27,Electrical Components,6,True,bid
+RFQ-0068-INV-V016,RFQ-0068,V016,Precision Arc Systems,2024-07-27,Electrical Components,6,True,bid
+RFQ-0068-INV-V002,RFQ-0068,V002,Tanaka Electrical KK,2024-07-27,Electrical Components,6,True,bid
+RFQ-0068-INV-V006,RFQ-0068,V006,Bright Spark Electronics Ltd,2024-07-27,Electrical Components,6,False,no_response
+RFQ-0068-INV-V018,RFQ-0068,V018,Guangzhou Mech & Elec Co.,2024-07-27,Electrical Components,6,True,bid
+RFQ-0069-INV-V021,RFQ-0069,V021,Helios Micro Systems,2024-07-17,Electrical Components,6,True,bid
+RFQ-0069-INV-V013,RFQ-0069,V013,Vantage Sensors GmbH,2024-07-17,Electrical Components,6,True,bid
+RFQ-0069-INV-V006,RFQ-0069,V006,Bright Spark Electronics Ltd,2024-07-17,Electrical Components,6,True,bid
+RFQ-0069-INV-V002,RFQ-0069,V002,Tanaka Electrical KK,2024-07-17,Electrical Components,6,False,no_response
+RFQ-0069-INV-V016,RFQ-0069,V016,Precision Arc Systems,2024-07-17,Electrical Components,6,True,bid
+RFQ-0069-INV-V011,RFQ-0069,V011,Solaris Power Components,2024-07-17,Electrical Components,6,True,bid
+RFQ-0069-INV-V018,RFQ-0069,V018,Guangzhou Mech & Elec Co.,2024-07-17,Electrical Components,6,False,no_response
+RFQ-0070-INV-V005,RFQ-0070,V005,Cerro Negro Metals SA,2024-07-09,Raw Materials,6,True,bid
+RFQ-0070-INV-V014,RFQ-0070,V014,Coastal Alloys Pty Ltd,2024-07-09,Raw Materials,6,True,bid
+RFQ-0070-INV-V008,RFQ-0070,V008,Delta Composites Inc.,2024-07-09,Raw Materials,6,True,bid
+RFQ-0070-INV-V003,RFQ-0070,V003,Patel Alloys Pvt Ltd,2024-07-09,Raw Materials,6,True,bid
+RFQ-0070-INV-V015,RFQ-0070,V015,Nordic Steel AS,2024-07-09,Raw Materials,6,True,bid
+RFQ-0070-INV-V012,RFQ-0070,V012,Indra Copper Works,2024-07-09,Raw Materials,6,False,no_response
+RFQ-0070-INV-V023,RFQ-0070,V023,Sahara Industrial FZE,2024-07-09,Raw Materials,6,True,bid
+RFQ-0070-INV-V020,RFQ-0070,V020,Rajasthan Rare Earths Ltd,2024-07-09,Raw Materials,6,True,bid
+RFQ-0071-INV-V009,RFQ-0071,V009,Fischer & Söhne KG,2024-08-05,Mechanical Parts,7,True,bid
+RFQ-0071-INV-V024,RFQ-0071,V024,BalticTech UAB,2024-08-05,Mechanical Parts,7,False,no_response
+RFQ-0071-INV-V022,RFQ-0071,V022,Andean Precision SRL,2024-08-05,Mechanical Parts,7,False,no_response
+RFQ-0071-INV-V007,RFQ-0071,V007,Nakamura Tooling Co.,2024-08-05,Mechanical Parts,7,True,bid
+RFQ-0071-INV-V001,RFQ-0071,V001,Kovacs Precision GmbH,2024-08-05,Mechanical Parts,7,True,bid
+RFQ-0071-INV-V010,RFQ-0071,V010,Adriatic Fastenings d.o.o.,2024-08-05,Mechanical Parts,7,True,bid
+RFQ-0071-INV-V017,RFQ-0071,V017,Türk Makina A.Ş.,2024-08-05,Mechanical Parts,7,True,bid
+RFQ-0071-INV-V019,RFQ-0071,V019,Emerald Isle Castings Ltd,2024-08-05,Mechanical Parts,7,False,no_response
+RFQ-0072-INV-V020,RFQ-0072,V020,Rajasthan Rare Earths Ltd,2024-08-24,Raw Materials,7,False,no_response
+RFQ-0072-INV-V003,RFQ-0072,V003,Patel Alloys Pvt Ltd,2024-08-24,Raw Materials,7,True,bid
+RFQ-0072-INV-V015,RFQ-0072,V015,Nordic Steel AS,2024-08-24,Raw Materials,7,True,bid
+RFQ-0072-INV-V014,RFQ-0072,V014,Coastal Alloys Pty Ltd,2024-08-24,Raw Materials,7,True,bid
+RFQ-0072-INV-V012,RFQ-0072,V012,Indra Copper Works,2024-08-24,Raw Materials,7,True,bid
+RFQ-0072-INV-V005,RFQ-0072,V005,Cerro Negro Metals SA,2024-08-24,Raw Materials,7,True,bid
+RFQ-0072-INV-V008,RFQ-0072,V008,Delta Composites Inc.,2024-08-24,Raw Materials,7,True,bid
+RFQ-0072-INV-V023,RFQ-0072,V023,Sahara Industrial FZE,2024-08-24,Raw Materials,7,True,bid
+RFQ-0073-INV-V013,RFQ-0073,V013,Vantage Sensors GmbH,2024-08-23,Electrical Components,7,True,bid
+RFQ-0073-INV-V011,RFQ-0073,V011,Solaris Power Components,2024-08-23,Electrical Components,7,True,bid
+RFQ-0073-INV-V016,RFQ-0073,V016,Precision Arc Systems,2024-08-23,Electrical Components,7,False,no_response
+RFQ-0073-INV-V018,RFQ-0073,V018,Guangzhou Mech & Elec Co.,2024-08-23,Electrical Components,7,True,bid
+RFQ-0073-INV-V006,RFQ-0073,V006,Bright Spark Electronics Ltd,2024-08-23,Electrical Components,7,True,bid
+RFQ-0073-INV-V002,RFQ-0073,V002,Tanaka Electrical KK,2024-08-23,Electrical Components,7,True,bid
+RFQ-0073-INV-V021,RFQ-0073,V021,Helios Micro Systems,2024-08-23,Electrical Components,7,True,bid
+RFQ-0074-INV-V016,RFQ-0074,V016,Precision Arc Systems,2024-08-13,Electrical Components,7,True,bid
+RFQ-0074-INV-V018,RFQ-0074,V018,Guangzhou Mech & Elec Co.,2024-08-13,Electrical Components,7,True,bid
+RFQ-0074-INV-V002,RFQ-0074,V002,Tanaka Electrical KK,2024-08-13,Electrical Components,7,True,bid
+RFQ-0074-INV-V021,RFQ-0074,V021,Helios Micro Systems,2024-08-13,Electrical Components,7,False,no_response
+RFQ-0074-INV-V006,RFQ-0074,V006,Bright Spark Electronics Ltd,2024-08-13,Electrical Components,7,False,no_response
+RFQ-0074-INV-V013,RFQ-0074,V013,Vantage Sensors GmbH,2024-08-13,Electrical Components,7,True,bid
+RFQ-0074-INV-V011,RFQ-0074,V011,Solaris Power Components,2024-08-13,Electrical Components,7,False,no_response
+RFQ-0075-INV-V021,RFQ-0075,V021,Helios Micro Systems,2024-09-01,Electrical Components,7,True,bid
+RFQ-0075-INV-V016,RFQ-0075,V016,Precision Arc Systems,2024-09-01,Electrical Components,7,True,bid
+RFQ-0075-INV-V011,RFQ-0075,V011,Solaris Power Components,2024-09-01,Electrical Components,7,True,bid
+RFQ-0075-INV-V006,RFQ-0075,V006,Bright Spark Electronics Ltd,2024-09-01,Electrical Components,7,True,bid
+RFQ-0075-INV-V002,RFQ-0075,V002,Tanaka Electrical KK,2024-09-01,Electrical Components,7,True,bid
+RFQ-0075-INV-V013,RFQ-0075,V013,Vantage Sensors GmbH,2024-09-01,Electrical Components,7,True,bid
+RFQ-0075-INV-V018,RFQ-0075,V018,Guangzhou Mech & Elec Co.,2024-09-01,Electrical Components,7,False,no_response
+RFQ-0076-INV-V002,RFQ-0076,V002,Tanaka Electrical KK,2024-08-21,Electrical Components,7,True,bid
+RFQ-0076-INV-V021,RFQ-0076,V021,Helios Micro Systems,2024-08-21,Electrical Components,7,True,bid
+RFQ-0076-INV-V006,RFQ-0076,V006,Bright Spark Electronics Ltd,2024-08-21,Electrical Components,7,True,bid
+RFQ-0076-INV-V018,RFQ-0076,V018,Guangzhou Mech & Elec Co.,2024-08-21,Electrical Components,7,False,no_response
+RFQ-0076-INV-V011,RFQ-0076,V011,Solaris Power Components,2024-08-21,Electrical Components,7,False,no_response
+RFQ-0076-INV-V013,RFQ-0076,V013,Vantage Sensors GmbH,2024-08-21,Electrical Components,7,True,bid
+RFQ-0076-INV-V016,RFQ-0076,V016,Precision Arc Systems,2024-08-21,Electrical Components,7,True,bid
+RFQ-0077-INV-V016,RFQ-0077,V016,Precision Arc Systems,2024-08-22,Electrical Components,7,False,no_response
+RFQ-0077-INV-V011,RFQ-0077,V011,Solaris Power Components,2024-08-22,Electrical Components,7,False,no_response
+RFQ-0077-INV-V002,RFQ-0077,V002,Tanaka Electrical KK,2024-08-22,Electrical Components,7,True,bid
+RFQ-0077-INV-V021,RFQ-0077,V021,Helios Micro Systems,2024-08-22,Electrical Components,7,True,bid
+RFQ-0077-INV-V006,RFQ-0077,V006,Bright Spark Electronics Ltd,2024-08-22,Electrical Components,7,True,bid
+RFQ-0077-INV-V013,RFQ-0077,V013,Vantage Sensors GmbH,2024-08-22,Electrical Components,7,True,bid
+RFQ-0077-INV-V018,RFQ-0077,V018,Guangzhou Mech & Elec Co.,2024-08-22,Electrical Components,7,False,no_response
+RFQ-0078-INV-V015,RFQ-0078,V015,Nordic Steel AS,2024-08-19,Raw Materials,7,True,bid
+RFQ-0078-INV-V014,RFQ-0078,V014,Coastal Alloys Pty Ltd,2024-08-19,Raw Materials,7,False,no_response
+RFQ-0078-INV-V005,RFQ-0078,V005,Cerro Negro Metals SA,2024-08-19,Raw Materials,7,True,bid
+RFQ-0078-INV-V012,RFQ-0078,V012,Indra Copper Works,2024-08-19,Raw Materials,7,True,bid
+RFQ-0078-INV-V023,RFQ-0078,V023,Sahara Industrial FZE,2024-08-19,Raw Materials,7,True,bid
+RFQ-0078-INV-V008,RFQ-0078,V008,Delta Composites Inc.,2024-08-19,Raw Materials,7,True,bid
+RFQ-0078-INV-V020,RFQ-0078,V020,Rajasthan Rare Earths Ltd,2024-08-19,Raw Materials,7,True,bid
+RFQ-0078-INV-V003,RFQ-0078,V003,Patel Alloys Pvt Ltd,2024-08-19,Raw Materials,7,True,bid
+RFQ-0079-INV-V021,RFQ-0079,V021,Helios Micro Systems,2024-08-08,Electrical Components,7,True,bid
+RFQ-0079-INV-V002,RFQ-0079,V002,Tanaka Electrical KK,2024-08-08,Electrical Components,7,True,bid
+RFQ-0079-INV-V018,RFQ-0079,V018,Guangzhou Mech & Elec Co.,2024-08-08,Electrical Components,7,True,bid
+RFQ-0079-INV-V006,RFQ-0079,V006,Bright Spark Electronics Ltd,2024-08-08,Electrical Components,7,True,bid
+RFQ-0079-INV-V016,RFQ-0079,V016,Precision Arc Systems,2024-08-08,Electrical Components,7,True,bid
+RFQ-0079-INV-V011,RFQ-0079,V011,Solaris Power Components,2024-08-08,Electrical Components,7,True,bid
+RFQ-0079-INV-V013,RFQ-0079,V013,Vantage Sensors GmbH,2024-08-08,Electrical Components,7,True,bid
+RFQ-0080-INV-V019,RFQ-0080,V019,Emerald Isle Castings Ltd,2024-08-13,Mechanical Parts,7,True,bid
+RFQ-0080-INV-V001,RFQ-0080,V001,Kovacs Precision GmbH,2024-08-13,Mechanical Parts,7,True,bid
+RFQ-0080-INV-V010,RFQ-0080,V010,Adriatic Fastenings d.o.o.,2024-08-13,Mechanical Parts,7,False,no_response
+RFQ-0080-INV-V022,RFQ-0080,V022,Andean Precision SRL,2024-08-13,Mechanical Parts,7,True,bid
+RFQ-0080-INV-V024,RFQ-0080,V024,BalticTech UAB,2024-08-13,Mechanical Parts,7,True,bid
+RFQ-0080-INV-V009,RFQ-0080,V009,Fischer & Söhne KG,2024-08-13,Mechanical Parts,7,True,bid
+RFQ-0080-INV-V007,RFQ-0080,V007,Nakamura Tooling Co.,2024-08-13,Mechanical Parts,7,True,bid
+RFQ-0080-INV-V017,RFQ-0080,V017,Türk Makina A.Ş.,2024-08-13,Mechanical Parts,7,True,bid
+RFQ-0081-INV-V024,RFQ-0081,V024,BalticTech UAB,2024-08-21,Mechanical Parts,7,True,bid
+RFQ-0081-INV-V007,RFQ-0081,V007,Nakamura Tooling Co.,2024-08-21,Mechanical Parts,7,True,bid
+RFQ-0081-INV-V017,RFQ-0081,V017,Türk Makina A.Ş.,2024-08-21,Mechanical Parts,7,True,bid
+RFQ-0081-INV-V001,RFQ-0081,V001,Kovacs Precision GmbH,2024-08-21,Mechanical Parts,7,True,bid
+RFQ-0081-INV-V022,RFQ-0081,V022,Andean Precision SRL,2024-08-21,Mechanical Parts,7,False,no_response
+RFQ-0081-INV-V019,RFQ-0081,V019,Emerald Isle Castings Ltd,2024-08-21,Mechanical Parts,7,True,bid
+RFQ-0081-INV-V009,RFQ-0081,V009,Fischer & Söhne KG,2024-08-21,Mechanical Parts,7,True,bid
+RFQ-0081-INV-V004,RFQ-0081,V004,Strömberg Hydraulics AB,2024-08-21,Mechanical Parts,7,True,bid
+RFQ-0082-INV-V015,RFQ-0082,V015,Nordic Steel AS,2024-09-11,Raw Materials,8,False,no_response
+RFQ-0082-INV-V020,RFQ-0082,V020,Rajasthan Rare Earths Ltd,2024-09-11,Raw Materials,8,True,bid
+RFQ-0082-INV-V023,RFQ-0082,V023,Sahara Industrial FZE,2024-09-11,Raw Materials,8,False,no_response
+RFQ-0082-INV-V005,RFQ-0082,V005,Cerro Negro Metals SA,2024-09-11,Raw Materials,8,True,bid
+RFQ-0082-INV-V003,RFQ-0082,V003,Patel Alloys Pvt Ltd,2024-09-11,Raw Materials,8,True,bid
+RFQ-0082-INV-V012,RFQ-0082,V012,Indra Copper Works,2024-09-11,Raw Materials,8,False,no_response
+RFQ-0082-INV-V008,RFQ-0082,V008,Delta Composites Inc.,2024-09-11,Raw Materials,8,False,no_response
+RFQ-0082-INV-V014,RFQ-0082,V014,Coastal Alloys Pty Ltd,2024-09-11,Raw Materials,8,True,bid
+RFQ-0083-INV-V016,RFQ-0083,V016,Precision Arc Systems,2024-09-25,Electrical Components,8,False,no_response
+RFQ-0083-INV-V006,RFQ-0083,V006,Bright Spark Electronics Ltd,2024-09-25,Electrical Components,8,False,no_response
+RFQ-0083-INV-V018,RFQ-0083,V018,Guangzhou Mech & Elec Co.,2024-09-25,Electrical Components,8,True,bid
+RFQ-0083-INV-V002,RFQ-0083,V002,Tanaka Electrical KK,2024-09-25,Electrical Components,8,True,bid
+RFQ-0083-INV-V013,RFQ-0083,V013,Vantage Sensors GmbH,2024-09-25,Electrical Components,8,False,no_response
+RFQ-0083-INV-V011,RFQ-0083,V011,Solaris Power Components,2024-09-25,Electrical Components,8,False,no_response
+RFQ-0083-INV-V021,RFQ-0083,V021,Helios Micro Systems,2024-09-25,Electrical Components,8,True,bid
+RFQ-0084-INV-V011,RFQ-0084,V011,Solaris Power Components,2024-09-14,Electrical Components,8,True,bid
+RFQ-0084-INV-V021,RFQ-0084,V021,Helios Micro Systems,2024-09-14,Electrical Components,8,True,bid
+RFQ-0084-INV-V013,RFQ-0084,V013,Vantage Sensors GmbH,2024-09-14,Electrical Components,8,True,bid
+RFQ-0084-INV-V002,RFQ-0084,V002,Tanaka Electrical KK,2024-09-14,Electrical Components,8,True,bid
+RFQ-0084-INV-V018,RFQ-0084,V018,Guangzhou Mech & Elec Co.,2024-09-14,Electrical Components,8,False,no_response
+RFQ-0084-INV-V006,RFQ-0084,V006,Bright Spark Electronics Ltd,2024-09-14,Electrical Components,8,True,bid
+RFQ-0084-INV-V016,RFQ-0084,V016,Precision Arc Systems,2024-09-14,Electrical Components,8,True,bid
+RFQ-0085-INV-V003,RFQ-0085,V003,Patel Alloys Pvt Ltd,2024-09-20,Raw Materials,8,False,no_response
+RFQ-0085-INV-V014,RFQ-0085,V014,Coastal Alloys Pty Ltd,2024-09-20,Raw Materials,8,False,no_response
+RFQ-0085-INV-V023,RFQ-0085,V023,Sahara Industrial FZE,2024-09-20,Raw Materials,8,False,no_response
+RFQ-0085-INV-V012,RFQ-0085,V012,Indra Copper Works,2024-09-20,Raw Materials,8,True,bid
+RFQ-0085-INV-V020,RFQ-0085,V020,Rajasthan Rare Earths Ltd,2024-09-20,Raw Materials,8,True,bid
+RFQ-0085-INV-V015,RFQ-0085,V015,Nordic Steel AS,2024-09-20,Raw Materials,8,True,bid
+RFQ-0085-INV-V005,RFQ-0085,V005,Cerro Negro Metals SA,2024-09-20,Raw Materials,8,True,bid
+RFQ-0085-INV-V008,RFQ-0085,V008,Delta Composites Inc.,2024-09-20,Raw Materials,8,False,no_response
+RFQ-0086-INV-V001,RFQ-0086,V001,Kovacs Precision GmbH,2024-09-10,Mechanical Parts,8,True,bid
+RFQ-0086-INV-V009,RFQ-0086,V009,Fischer & Söhne KG,2024-09-10,Mechanical Parts,8,True,bid
+RFQ-0086-INV-V022,RFQ-0086,V022,Andean Precision SRL,2024-09-10,Mechanical Parts,8,True,bid
+RFQ-0086-INV-V004,RFQ-0086,V004,Strömberg Hydraulics AB,2024-09-10,Mechanical Parts,8,True,bid
+RFQ-0086-INV-V024,RFQ-0086,V024,BalticTech UAB,2024-09-10,Mechanical Parts,8,True,bid
+RFQ-0086-INV-V019,RFQ-0086,V019,Emerald Isle Castings Ltd,2024-09-10,Mechanical Parts,8,False,no_response
+RFQ-0086-INV-V010,RFQ-0086,V010,Adriatic Fastenings d.o.o.,2024-09-10,Mechanical Parts,8,True,bid
+RFQ-0086-INV-V007,RFQ-0086,V007,Nakamura Tooling Co.,2024-09-10,Mechanical Parts,8,True,bid
+RFQ-0087-INV-V024,RFQ-0087,V024,BalticTech UAB,2024-10-05,Mechanical Parts,8,True,bid
+RFQ-0087-INV-V004,RFQ-0087,V004,Strömberg Hydraulics AB,2024-10-05,Mechanical Parts,8,True,bid
+RFQ-0087-INV-V009,RFQ-0087,V009,Fischer & Söhne KG,2024-10-05,Mechanical Parts,8,False,no_response
+RFQ-0087-INV-V001,RFQ-0087,V001,Kovacs Precision GmbH,2024-10-05,Mechanical Parts,8,True,bid
+RFQ-0087-INV-V019,RFQ-0087,V019,Emerald Isle Castings Ltd,2024-10-05,Mechanical Parts,8,True,bid
+RFQ-0087-INV-V010,RFQ-0087,V010,Adriatic Fastenings d.o.o.,2024-10-05,Mechanical Parts,8,True,bid
+RFQ-0087-INV-V007,RFQ-0087,V007,Nakamura Tooling Co.,2024-10-05,Mechanical Parts,8,True,bid
+RFQ-0087-INV-V022,RFQ-0087,V022,Andean Precision SRL,2024-10-05,Mechanical Parts,8,False,no_response
+RFQ-0088-INV-V015,RFQ-0088,V015,Nordic Steel AS,2024-09-16,Raw Materials,8,True,bid
+RFQ-0088-INV-V014,RFQ-0088,V014,Coastal Alloys Pty Ltd,2024-09-16,Raw Materials,8,False,no_response
+RFQ-0088-INV-V012,RFQ-0088,V012,Indra Copper Works,2024-09-16,Raw Materials,8,False,no_response
+RFQ-0088-INV-V003,RFQ-0088,V003,Patel Alloys Pvt Ltd,2024-09-16,Raw Materials,8,True,bid
+RFQ-0088-INV-V020,RFQ-0088,V020,Rajasthan Rare Earths Ltd,2024-09-16,Raw Materials,8,True,bid
+RFQ-0088-INV-V005,RFQ-0088,V005,Cerro Negro Metals SA,2024-09-16,Raw Materials,8,True,bid
+RFQ-0088-INV-V023,RFQ-0088,V023,Sahara Industrial FZE,2024-09-16,Raw Materials,8,True,bid
+RFQ-0088-INV-V008,RFQ-0088,V008,Delta Composites Inc.,2024-09-16,Raw Materials,8,False,no_response
+RFQ-0089-INV-V020,RFQ-0089,V020,Rajasthan Rare Earths Ltd,2024-09-30,Raw Materials,8,True,bid
+RFQ-0089-INV-V005,RFQ-0089,V005,Cerro Negro Metals SA,2024-09-30,Raw Materials,8,True,bid
+RFQ-0089-INV-V015,RFQ-0089,V015,Nordic Steel AS,2024-09-30,Raw Materials,8,True,bid
+RFQ-0089-INV-V014,RFQ-0089,V014,Coastal Alloys Pty Ltd,2024-09-30,Raw Materials,8,False,no_response
+RFQ-0089-INV-V012,RFQ-0089,V012,Indra Copper Works,2024-09-30,Raw Materials,8,False,no_response
+RFQ-0089-INV-V023,RFQ-0089,V023,Sahara Industrial FZE,2024-09-30,Raw Materials,8,False,no_response
+RFQ-0089-INV-V008,RFQ-0089,V008,Delta Composites Inc.,2024-09-30,Raw Materials,8,False,no_response
+RFQ-0089-INV-V003,RFQ-0089,V003,Patel Alloys Pvt Ltd,2024-09-30,Raw Materials,8,True,bid
+RFQ-0090-INV-V020,RFQ-0090,V020,Rajasthan Rare Earths Ltd,2024-09-10,Raw Materials,8,True,bid
+RFQ-0090-INV-V008,RFQ-0090,V008,Delta Composites Inc.,2024-09-10,Raw Materials,8,True,bid
+RFQ-0090-INV-V015,RFQ-0090,V015,Nordic Steel AS,2024-09-10,Raw Materials,8,True,bid
+RFQ-0090-INV-V003,RFQ-0090,V003,Patel Alloys Pvt Ltd,2024-09-10,Raw Materials,8,True,bid
+RFQ-0090-INV-V014,RFQ-0090,V014,Coastal Alloys Pty Ltd,2024-09-10,Raw Materials,8,False,no_response
+RFQ-0090-INV-V023,RFQ-0090,V023,Sahara Industrial FZE,2024-09-10,Raw Materials,8,False,no_response
+RFQ-0090-INV-V005,RFQ-0090,V005,Cerro Negro Metals SA,2024-09-10,Raw Materials,8,True,bid
+RFQ-0090-INV-V012,RFQ-0090,V012,Indra Copper Works,2024-09-10,Raw Materials,8,True,bid
+RFQ-0091-INV-V013,RFQ-0091,V013,Vantage Sensors GmbH,2024-09-06,Electrical Components,8,False,no_response
+RFQ-0091-INV-V021,RFQ-0091,V021,Helios Micro Systems,2024-09-06,Electrical Components,8,True,bid
+RFQ-0091-INV-V006,RFQ-0091,V006,Bright Spark Electronics Ltd,2024-09-06,Electrical Components,8,True,bid
+RFQ-0091-INV-V002,RFQ-0091,V002,Tanaka Electrical KK,2024-09-06,Electrical Components,8,False,no_response
+RFQ-0091-INV-V018,RFQ-0091,V018,Guangzhou Mech & Elec Co.,2024-09-06,Electrical Components,8,True,bid
+RFQ-0091-INV-V011,RFQ-0091,V011,Solaris Power Components,2024-09-06,Electrical Components,8,False,no_response
+RFQ-0091-INV-V016,RFQ-0091,V016,Precision Arc Systems,2024-09-06,Electrical Components,8,False,no_response
+RFQ-0092-INV-V022,RFQ-0092,V022,Andean Precision SRL,2024-09-22,Mechanical Parts,8,True,bid
+RFQ-0092-INV-V019,RFQ-0092,V019,Emerald Isle Castings Ltd,2024-09-22,Mechanical Parts,8,True,bid
+RFQ-0092-INV-V009,RFQ-0092,V009,Fischer & Söhne KG,2024-09-22,Mechanical Parts,8,True,bid
+RFQ-0092-INV-V007,RFQ-0092,V007,Nakamura Tooling Co.,2024-09-22,Mechanical Parts,8,False,no_response
+RFQ-0092-INV-V001,RFQ-0092,V001,Kovacs Precision GmbH,2024-09-22,Mechanical Parts,8,True,bid
+RFQ-0092-INV-V024,RFQ-0092,V024,BalticTech UAB,2024-09-22,Mechanical Parts,8,True,bid
+RFQ-0092-INV-V010,RFQ-0092,V010,Adriatic Fastenings d.o.o.,2024-09-22,Mechanical Parts,8,True,bid
+RFQ-0092-INV-V004,RFQ-0092,V004,Strömberg Hydraulics AB,2024-09-22,Mechanical Parts,8,True,bid
+RFQ-0093-INV-V023,RFQ-0093,V023,Sahara Industrial FZE,2024-10-24,Raw Materials,9,True,bid
+RFQ-0093-INV-V012,RFQ-0093,V012,Indra Copper Works,2024-10-24,Raw Materials,9,True,bid
+RFQ-0093-INV-V020,RFQ-0093,V020,Rajasthan Rare Earths Ltd,2024-10-24,Raw Materials,9,True,bid
+RFQ-0093-INV-V003,RFQ-0093,V003,Patel Alloys Pvt Ltd,2024-10-24,Raw Materials,9,True,bid
+RFQ-0093-INV-V008,RFQ-0093,V008,Delta Composites Inc.,2024-10-24,Raw Materials,9,False,no_response
+RFQ-0093-INV-V005,RFQ-0093,V005,Cerro Negro Metals SA,2024-10-24,Raw Materials,9,True,bid
+RFQ-0093-INV-V015,RFQ-0093,V015,Nordic Steel AS,2024-10-24,Raw Materials,9,True,bid
+RFQ-0093-INV-V014,RFQ-0093,V014,Coastal Alloys Pty Ltd,2024-10-24,Raw Materials,9,True,bid
+RFQ-0094-INV-V014,RFQ-0094,V014,Coastal Alloys Pty Ltd,2024-10-11,Raw Materials,9,True,bid
+RFQ-0094-INV-V003,RFQ-0094,V003,Patel Alloys Pvt Ltd,2024-10-11,Raw Materials,9,True,bid
+RFQ-0094-INV-V012,RFQ-0094,V012,Indra Copper Works,2024-10-11,Raw Materials,9,True,bid
+RFQ-0094-INV-V015,RFQ-0094,V015,Nordic Steel AS,2024-10-11,Raw Materials,9,True,bid
+RFQ-0094-INV-V020,RFQ-0094,V020,Rajasthan Rare Earths Ltd,2024-10-11,Raw Materials,9,True,bid
+RFQ-0094-INV-V005,RFQ-0094,V005,Cerro Negro Metals SA,2024-10-11,Raw Materials,9,True,bid
+RFQ-0094-INV-V008,RFQ-0094,V008,Delta Composites Inc.,2024-10-11,Raw Materials,9,True,bid
+RFQ-0094-INV-V023,RFQ-0094,V023,Sahara Industrial FZE,2024-10-11,Raw Materials,9,True,bid
+RFQ-0095-INV-V002,RFQ-0095,V002,Tanaka Electrical KK,2024-10-28,Electrical Components,9,False,no_response
+RFQ-0095-INV-V006,RFQ-0095,V006,Bright Spark Electronics Ltd,2024-10-28,Electrical Components,9,False,no_response
+RFQ-0095-INV-V013,RFQ-0095,V013,Vantage Sensors GmbH,2024-10-28,Electrical Components,9,True,bid
+RFQ-0095-INV-V021,RFQ-0095,V021,Helios Micro Systems,2024-10-28,Electrical Components,9,False,no_response
+RFQ-0095-INV-V016,RFQ-0095,V016,Precision Arc Systems,2024-10-28,Electrical Components,9,True,bid
+RFQ-0095-INV-V011,RFQ-0095,V011,Solaris Power Components,2024-10-28,Electrical Components,9,False,no_response
+RFQ-0095-INV-V018,RFQ-0095,V018,Guangzhou Mech & Elec Co.,2024-10-28,Electrical Components,9,False,no_response
+RFQ-0096-INV-V001,RFQ-0096,V001,Kovacs Precision GmbH,2024-10-21,Mechanical Parts,9,True,bid
+RFQ-0096-INV-V017,RFQ-0096,V017,Türk Makina A.Ş.,2024-10-21,Mechanical Parts,9,False,no_response
+RFQ-0096-INV-V007,RFQ-0096,V007,Nakamura Tooling Co.,2024-10-21,Mechanical Parts,9,True,bid
+RFQ-0096-INV-V024,RFQ-0096,V024,BalticTech UAB,2024-10-21,Mechanical Parts,9,True,bid
+RFQ-0096-INV-V019,RFQ-0096,V019,Emerald Isle Castings Ltd,2024-10-21,Mechanical Parts,9,True,bid
+RFQ-0096-INV-V004,RFQ-0096,V004,Strömberg Hydraulics AB,2024-10-21,Mechanical Parts,9,True,bid
+RFQ-0096-INV-V009,RFQ-0096,V009,Fischer & Söhne KG,2024-10-21,Mechanical Parts,9,True,bid
+RFQ-0096-INV-V010,RFQ-0096,V010,Adriatic Fastenings d.o.o.,2024-10-21,Mechanical Parts,9,True,bid
+RFQ-0097-INV-V017,RFQ-0097,V017,Türk Makina A.Ş.,2024-10-31,Mechanical Parts,9,True,bid
+RFQ-0097-INV-V019,RFQ-0097,V019,Emerald Isle Castings Ltd,2024-10-31,Mechanical Parts,9,False,no_response
+RFQ-0097-INV-V001,RFQ-0097,V001,Kovacs Precision GmbH,2024-10-31,Mechanical Parts,9,True,bid
+RFQ-0097-INV-V022,RFQ-0097,V022,Andean Precision SRL,2024-10-31,Mechanical Parts,9,False,no_response
+RFQ-0097-INV-V010,RFQ-0097,V010,Adriatic Fastenings d.o.o.,2024-10-31,Mechanical Parts,9,True,bid
+RFQ-0097-INV-V007,RFQ-0097,V007,Nakamura Tooling Co.,2024-10-31,Mechanical Parts,9,True,bid
+RFQ-0097-INV-V009,RFQ-0097,V009,Fischer & Söhne KG,2024-10-31,Mechanical Parts,9,False,no_response
+RFQ-0097-INV-V024,RFQ-0097,V024,BalticTech UAB,2024-10-31,Mechanical Parts,9,False,no_response
+RFQ-0098-INV-V013,RFQ-0098,V013,Vantage Sensors GmbH,2024-10-11,Electrical Components,9,True,bid
+RFQ-0098-INV-V016,RFQ-0098,V016,Precision Arc Systems,2024-10-11,Electrical Components,9,True,bid
+RFQ-0098-INV-V021,RFQ-0098,V021,Helios Micro Systems,2024-10-11,Electrical Components,9,True,bid
+RFQ-0098-INV-V006,RFQ-0098,V006,Bright Spark Electronics Ltd,2024-10-11,Electrical Components,9,True,bid
+RFQ-0098-INV-V002,RFQ-0098,V002,Tanaka Electrical KK,2024-10-11,Electrical Components,9,True,bid
+RFQ-0098-INV-V011,RFQ-0098,V011,Solaris Power Components,2024-10-11,Electrical Components,9,True,bid
+RFQ-0098-INV-V018,RFQ-0098,V018,Guangzhou Mech & Elec Co.,2024-10-11,Electrical Components,9,True,bid
+RFQ-0099-INV-V006,RFQ-0099,V006,Bright Spark Electronics Ltd,2024-10-11,Electrical Components,9,True,bid
+RFQ-0099-INV-V021,RFQ-0099,V021,Helios Micro Systems,2024-10-11,Electrical Components,9,False,no_response
+RFQ-0099-INV-V018,RFQ-0099,V018,Guangzhou Mech & Elec Co.,2024-10-11,Electrical Components,9,True,bid
+RFQ-0099-INV-V002,RFQ-0099,V002,Tanaka Electrical KK,2024-10-11,Electrical Components,9,True,bid
+RFQ-0099-INV-V013,RFQ-0099,V013,Vantage Sensors GmbH,2024-10-11,Electrical Components,9,True,bid
+RFQ-0099-INV-V011,RFQ-0099,V011,Solaris Power Components,2024-10-11,Electrical Components,9,True,bid
+RFQ-0099-INV-V016,RFQ-0099,V016,Precision Arc Systems,2024-10-11,Electrical Components,9,False,no_response
+RFQ-0100-INV-V012,RFQ-0100,V012,Indra Copper Works,2024-10-22,Raw Materials,9,True,bid
+RFQ-0100-INV-V015,RFQ-0100,V015,Nordic Steel AS,2024-10-22,Raw Materials,9,True,bid
+RFQ-0100-INV-V023,RFQ-0100,V023,Sahara Industrial FZE,2024-10-22,Raw Materials,9,False,no_response
+RFQ-0100-INV-V008,RFQ-0100,V008,Delta Composites Inc.,2024-10-22,Raw Materials,9,False,no_response
+RFQ-0100-INV-V003,RFQ-0100,V003,Patel Alloys Pvt Ltd,2024-10-22,Raw Materials,9,True,bid
+RFQ-0100-INV-V014,RFQ-0100,V014,Coastal Alloys Pty Ltd,2024-10-22,Raw Materials,9,False,no_response
+RFQ-0100-INV-V005,RFQ-0100,V005,Cerro Negro Metals SA,2024-10-22,Raw Materials,9,True,bid
+RFQ-0100-INV-V020,RFQ-0100,V020,Rajasthan Rare Earths Ltd,2024-10-22,Raw Materials,9,True,bid
+RFQ-0101-INV-V009,RFQ-0101,V009,Fischer & Söhne KG,2024-10-18,Mechanical Parts,9,True,bid
+RFQ-0101-INV-V007,RFQ-0101,V007,Nakamura Tooling Co.,2024-10-18,Mechanical Parts,9,True,bid
+RFQ-0101-INV-V022,RFQ-0101,V022,Andean Precision SRL,2024-10-18,Mechanical Parts,9,True,bid
+RFQ-0101-INV-V010,RFQ-0101,V010,Adriatic Fastenings d.o.o.,2024-10-18,Mechanical Parts,9,True,bid
+RFQ-0101-INV-V004,RFQ-0101,V004,Strömberg Hydraulics AB,2024-10-18,Mechanical Parts,9,True,bid
+RFQ-0101-INV-V001,RFQ-0101,V001,Kovacs Precision GmbH,2024-10-18,Mechanical Parts,9,True,bid
+RFQ-0101-INV-V019,RFQ-0101,V019,Emerald Isle Castings Ltd,2024-10-18,Mechanical Parts,9,True,bid
+RFQ-0101-INV-V024,RFQ-0101,V024,BalticTech UAB,2024-10-18,Mechanical Parts,9,False,no_response
+RFQ-0102-INV-V009,RFQ-0102,V009,Fischer & Söhne KG,2024-10-14,Mechanical Parts,9,True,bid
+RFQ-0102-INV-V010,RFQ-0102,V010,Adriatic Fastenings d.o.o.,2024-10-14,Mechanical Parts,9,True,bid
+RFQ-0102-INV-V019,RFQ-0102,V019,Emerald Isle Castings Ltd,2024-10-14,Mechanical Parts,9,True,bid
+RFQ-0102-INV-V024,RFQ-0102,V024,BalticTech UAB,2024-10-14,Mechanical Parts,9,False,no_response
+RFQ-0102-INV-V017,RFQ-0102,V017,Türk Makina A.Ş.,2024-10-14,Mechanical Parts,9,True,bid
+RFQ-0102-INV-V022,RFQ-0102,V022,Andean Precision SRL,2024-10-14,Mechanical Parts,9,True,bid
+RFQ-0102-INV-V001,RFQ-0102,V001,Kovacs Precision GmbH,2024-10-14,Mechanical Parts,9,True,bid
+RFQ-0102-INV-V004,RFQ-0102,V004,Strömberg Hydraulics AB,2024-10-14,Mechanical Parts,9,True,bid
+RFQ-0103-INV-V003,RFQ-0103,V003,Patel Alloys Pvt Ltd,2024-10-29,Raw Materials,9,True,bid
+RFQ-0103-INV-V015,RFQ-0103,V015,Nordic Steel AS,2024-10-29,Raw Materials,9,True,bid
+RFQ-0103-INV-V012,RFQ-0103,V012,Indra Copper Works,2024-10-29,Raw Materials,9,True,bid
+RFQ-0103-INV-V023,RFQ-0103,V023,Sahara Industrial FZE,2024-10-29,Raw Materials,9,True,bid
+RFQ-0103-INV-V020,RFQ-0103,V020,Rajasthan Rare Earths Ltd,2024-10-29,Raw Materials,9,True,bid
+RFQ-0103-INV-V008,RFQ-0103,V008,Delta Composites Inc.,2024-10-29,Raw Materials,9,True,bid
+RFQ-0103-INV-V005,RFQ-0103,V005,Cerro Negro Metals SA,2024-10-29,Raw Materials,9,True,bid
+RFQ-0103-INV-V014,RFQ-0103,V014,Coastal Alloys Pty Ltd,2024-10-29,Raw Materials,9,True,bid
+RFQ-0104-INV-V004,RFQ-0104,V004,Strömberg Hydraulics AB,2024-11-08,Mechanical Parts,10,True,bid
+RFQ-0104-INV-V019,RFQ-0104,V019,Emerald Isle Castings Ltd,2024-11-08,Mechanical Parts,10,True,bid
+RFQ-0104-INV-V010,RFQ-0104,V010,Adriatic Fastenings d.o.o.,2024-11-08,Mechanical Parts,10,True,bid
+RFQ-0104-INV-V007,RFQ-0104,V007,Nakamura Tooling Co.,2024-11-08,Mechanical Parts,10,True,bid
+RFQ-0104-INV-V017,RFQ-0104,V017,Türk Makina A.Ş.,2024-11-08,Mechanical Parts,10,False,no_response
+RFQ-0104-INV-V001,RFQ-0104,V001,Kovacs Precision GmbH,2024-11-08,Mechanical Parts,10,False,no_response
+RFQ-0104-INV-V009,RFQ-0104,V009,Fischer & Söhne KG,2024-11-08,Mechanical Parts,10,True,bid
+RFQ-0104-INV-V024,RFQ-0104,V024,BalticTech UAB,2024-11-08,Mechanical Parts,10,False,no_response
+RFQ-0105-INV-V021,RFQ-0105,V021,Helios Micro Systems,2024-11-10,Electrical Components,10,True,bid
+RFQ-0105-INV-V018,RFQ-0105,V018,Guangzhou Mech & Elec Co.,2024-11-10,Electrical Components,10,True,bid
+RFQ-0105-INV-V016,RFQ-0105,V016,Precision Arc Systems,2024-11-10,Electrical Components,10,False,no_response
+RFQ-0105-INV-V011,RFQ-0105,V011,Solaris Power Components,2024-11-10,Electrical Components,10,False,no_response
+RFQ-0105-INV-V002,RFQ-0105,V002,Tanaka Electrical KK,2024-11-10,Electrical Components,10,True,bid
+RFQ-0105-INV-V013,RFQ-0105,V013,Vantage Sensors GmbH,2024-11-10,Electrical Components,10,False,no_response
+RFQ-0105-INV-V006,RFQ-0105,V006,Bright Spark Electronics Ltd,2024-11-10,Electrical Components,10,True,bid
+RFQ-0106-INV-V007,RFQ-0106,V007,Nakamura Tooling Co.,2024-11-15,Mechanical Parts,10,True,bid
+RFQ-0106-INV-V022,RFQ-0106,V022,Andean Precision SRL,2024-11-15,Mechanical Parts,10,True,bid
+RFQ-0106-INV-V024,RFQ-0106,V024,BalticTech UAB,2024-11-15,Mechanical Parts,10,True,bid
+RFQ-0106-INV-V004,RFQ-0106,V004,Strömberg Hydraulics AB,2024-11-15,Mechanical Parts,10,True,bid
+RFQ-0106-INV-V017,RFQ-0106,V017,Türk Makina A.Ş.,2024-11-15,Mechanical Parts,10,True,bid
+RFQ-0106-INV-V001,RFQ-0106,V001,Kovacs Precision GmbH,2024-11-15,Mechanical Parts,10,True,bid
+RFQ-0106-INV-V009,RFQ-0106,V009,Fischer & Söhne KG,2024-11-15,Mechanical Parts,10,True,bid
+RFQ-0106-INV-V019,RFQ-0106,V019,Emerald Isle Castings Ltd,2024-11-15,Mechanical Parts,10,True,bid
+RFQ-0107-INV-V001,RFQ-0107,V001,Kovacs Precision GmbH,2024-11-19,Mechanical Parts,10,True,bid
+RFQ-0107-INV-V010,RFQ-0107,V010,Adriatic Fastenings d.o.o.,2024-11-19,Mechanical Parts,10,True,bid
+RFQ-0107-INV-V022,RFQ-0107,V022,Andean Precision SRL,2024-11-19,Mechanical Parts,10,True,bid
+RFQ-0107-INV-V017,RFQ-0107,V017,Türk Makina A.Ş.,2024-11-19,Mechanical Parts,10,True,bid
+RFQ-0107-INV-V004,RFQ-0107,V004,Strömberg Hydraulics AB,2024-11-19,Mechanical Parts,10,True,bid
+RFQ-0107-INV-V009,RFQ-0107,V009,Fischer & Söhne KG,2024-11-19,Mechanical Parts,10,True,bid
+RFQ-0107-INV-V019,RFQ-0107,V019,Emerald Isle Castings Ltd,2024-11-19,Mechanical Parts,10,True,bid
+RFQ-0107-INV-V024,RFQ-0107,V024,BalticTech UAB,2024-11-19,Mechanical Parts,10,True,bid
+RFQ-0108-INV-V008,RFQ-0108,V008,Delta Composites Inc.,2024-12-03,Raw Materials,10,True,bid
+RFQ-0108-INV-V003,RFQ-0108,V003,Patel Alloys Pvt Ltd,2024-12-03,Raw Materials,10,True,bid
+RFQ-0108-INV-V014,RFQ-0108,V014,Coastal Alloys Pty Ltd,2024-12-03,Raw Materials,10,True,bid
+RFQ-0108-INV-V012,RFQ-0108,V012,Indra Copper Works,2024-12-03,Raw Materials,10,True,bid
+RFQ-0108-INV-V020,RFQ-0108,V020,Rajasthan Rare Earths Ltd,2024-12-03,Raw Materials,10,True,bid
+RFQ-0108-INV-V023,RFQ-0108,V023,Sahara Industrial FZE,2024-12-03,Raw Materials,10,True,bid
+RFQ-0108-INV-V005,RFQ-0108,V005,Cerro Negro Metals SA,2024-12-03,Raw Materials,10,False,no_response
+RFQ-0108-INV-V015,RFQ-0108,V015,Nordic Steel AS,2024-12-03,Raw Materials,10,True,bid
+RFQ-0109-INV-V006,RFQ-0109,V006,Bright Spark Electronics Ltd,2024-11-08,Electrical Components,10,False,no_response
+RFQ-0109-INV-V016,RFQ-0109,V016,Precision Arc Systems,2024-11-08,Electrical Components,10,False,no_response
+RFQ-0109-INV-V002,RFQ-0109,V002,Tanaka Electrical KK,2024-11-08,Electrical Components,10,True,bid
+RFQ-0109-INV-V021,RFQ-0109,V021,Helios Micro Systems,2024-11-08,Electrical Components,10,True,bid
+RFQ-0109-INV-V013,RFQ-0109,V013,Vantage Sensors GmbH,2024-11-08,Electrical Components,10,True,bid
+RFQ-0109-INV-V018,RFQ-0109,V018,Guangzhou Mech & Elec Co.,2024-11-08,Electrical Components,10,True,bid
+RFQ-0109-INV-V011,RFQ-0109,V011,Solaris Power Components,2024-11-08,Electrical Components,10,False,no_response
+RFQ-0110-INV-V006,RFQ-0110,V006,Bright Spark Electronics Ltd,2024-11-07,Electrical Components,10,False,no_response
+RFQ-0110-INV-V021,RFQ-0110,V021,Helios Micro Systems,2024-11-07,Electrical Components,10,True,bid
+RFQ-0110-INV-V002,RFQ-0110,V002,Tanaka Electrical KK,2024-11-07,Electrical Components,10,False,no_response
+RFQ-0110-INV-V013,RFQ-0110,V013,Vantage Sensors GmbH,2024-11-07,Electrical Components,10,True,bid
+RFQ-0110-INV-V011,RFQ-0110,V011,Solaris Power Components,2024-11-07,Electrical Components,10,False,no_response
+RFQ-0110-INV-V016,RFQ-0110,V016,Precision Arc Systems,2024-11-07,Electrical Components,10,True,bid
+RFQ-0110-INV-V018,RFQ-0110,V018,Guangzhou Mech & Elec Co.,2024-11-07,Electrical Components,10,True,bid
+RFQ-0111-INV-V023,RFQ-0111,V023,Sahara Industrial FZE,2024-11-21,Raw Materials,10,True,bid
+RFQ-0111-INV-V015,RFQ-0111,V015,Nordic Steel AS,2024-11-21,Raw Materials,10,True,bid
+RFQ-0111-INV-V012,RFQ-0111,V012,Indra Copper Works,2024-11-21,Raw Materials,10,True,bid
+RFQ-0111-INV-V008,RFQ-0111,V008,Delta Composites Inc.,2024-11-21,Raw Materials,10,False,no_response
+RFQ-0111-INV-V005,RFQ-0111,V005,Cerro Negro Metals SA,2024-11-21,Raw Materials,10,True,bid
+RFQ-0111-INV-V014,RFQ-0111,V014,Coastal Alloys Pty Ltd,2024-11-21,Raw Materials,10,True,bid
+RFQ-0111-INV-V003,RFQ-0111,V003,Patel Alloys Pvt Ltd,2024-11-21,Raw Materials,10,True,bid
+RFQ-0111-INV-V020,RFQ-0111,V020,Rajasthan Rare Earths Ltd,2024-11-21,Raw Materials,10,True,bid
+RFQ-0112-INV-V008,RFQ-0112,V008,Delta Composites Inc.,2024-11-22,Raw Materials,10,True,bid
+RFQ-0112-INV-V005,RFQ-0112,V005,Cerro Negro Metals SA,2024-11-22,Raw Materials,10,True,bid
+RFQ-0112-INV-V015,RFQ-0112,V015,Nordic Steel AS,2024-11-22,Raw Materials,10,True,bid
+RFQ-0112-INV-V014,RFQ-0112,V014,Coastal Alloys Pty Ltd,2024-11-22,Raw Materials,10,False,no_response
+RFQ-0112-INV-V003,RFQ-0112,V003,Patel Alloys Pvt Ltd,2024-11-22,Raw Materials,10,True,bid
+RFQ-0112-INV-V012,RFQ-0112,V012,Indra Copper Works,2024-11-22,Raw Materials,10,True,bid
+RFQ-0112-INV-V020,RFQ-0112,V020,Rajasthan Rare Earths Ltd,2024-11-22,Raw Materials,10,True,bid
+RFQ-0112-INV-V023,RFQ-0112,V023,Sahara Industrial FZE,2024-11-22,Raw Materials,10,True,bid
+RFQ-0113-INV-V016,RFQ-0113,V016,Precision Arc Systems,2024-11-25,Electrical Components,10,True,bid
+RFQ-0113-INV-V011,RFQ-0113,V011,Solaris Power Components,2024-11-25,Electrical Components,10,True,bid
+RFQ-0113-INV-V002,RFQ-0113,V002,Tanaka Electrical KK,2024-11-25,Electrical Components,10,True,bid
+RFQ-0113-INV-V013,RFQ-0113,V013,Vantage Sensors GmbH,2024-11-25,Electrical Components,10,False,no_response
+RFQ-0113-INV-V018,RFQ-0113,V018,Guangzhou Mech & Elec Co.,2024-11-25,Electrical Components,10,False,no_response
+RFQ-0113-INV-V021,RFQ-0113,V021,Helios Micro Systems,2024-11-25,Electrical Components,10,False,no_response
+RFQ-0113-INV-V006,RFQ-0113,V006,Bright Spark Electronics Ltd,2024-11-25,Electrical Components,10,True,bid
+RFQ-0114-INV-V006,RFQ-0114,V006,Bright Spark Electronics Ltd,2024-11-14,Electrical Components,10,True,bid
+RFQ-0114-INV-V013,RFQ-0114,V013,Vantage Sensors GmbH,2024-11-14,Electrical Components,10,True,bid
+RFQ-0114-INV-V002,RFQ-0114,V002,Tanaka Electrical KK,2024-11-14,Electrical Components,10,True,bid
+RFQ-0114-INV-V018,RFQ-0114,V018,Guangzhou Mech & Elec Co.,2024-11-14,Electrical Components,10,False,no_response
+RFQ-0114-INV-V021,RFQ-0114,V021,Helios Micro Systems,2024-11-14,Electrical Components,10,True,bid
+RFQ-0114-INV-V011,RFQ-0114,V011,Solaris Power Components,2024-11-14,Electrical Components,10,True,bid
+RFQ-0114-INV-V016,RFQ-0114,V016,Precision Arc Systems,2024-11-14,Electrical Components,10,True,bid
+RFQ-0115-INV-V012,RFQ-0115,V012,Indra Copper Works,2024-11-15,Raw Materials,10,True,bid
+RFQ-0115-INV-V014,RFQ-0115,V014,Coastal Alloys Pty Ltd,2024-11-15,Raw Materials,10,False,no_response
+RFQ-0115-INV-V005,RFQ-0115,V005,Cerro Negro Metals SA,2024-11-15,Raw Materials,10,True,bid
+RFQ-0115-INV-V015,RFQ-0115,V015,Nordic Steel AS,2024-11-15,Raw Materials,10,True,bid
+RFQ-0115-INV-V020,RFQ-0115,V020,Rajasthan Rare Earths Ltd,2024-11-15,Raw Materials,10,False,no_response
+RFQ-0115-INV-V008,RFQ-0115,V008,Delta Composites Inc.,2024-11-15,Raw Materials,10,True,bid
+RFQ-0115-INV-V023,RFQ-0115,V023,Sahara Industrial FZE,2024-11-15,Raw Materials,10,True,bid
+RFQ-0115-INV-V003,RFQ-0115,V003,Patel Alloys Pvt Ltd,2024-11-15,Raw Materials,10,True,bid
+RFQ-0116-INV-V019,RFQ-0116,V019,Emerald Isle Castings Ltd,2024-12-18,Mechanical Parts,11,True,bid
+RFQ-0116-INV-V009,RFQ-0116,V009,Fischer & Söhne KG,2024-12-18,Mechanical Parts,11,True,bid
+RFQ-0116-INV-V024,RFQ-0116,V024,BalticTech UAB,2024-12-18,Mechanical Parts,11,True,bid
+RFQ-0116-INV-V004,RFQ-0116,V004,Strömberg Hydraulics AB,2024-12-18,Mechanical Parts,11,True,bid
+RFQ-0116-INV-V017,RFQ-0116,V017,Türk Makina A.Ş.,2024-12-18,Mechanical Parts,11,False,no_response
+RFQ-0116-INV-V007,RFQ-0116,V007,Nakamura Tooling Co.,2024-12-18,Mechanical Parts,11,True,bid
+RFQ-0116-INV-V022,RFQ-0116,V022,Andean Precision SRL,2024-12-18,Mechanical Parts,11,True,bid
+RFQ-0116-INV-V001,RFQ-0116,V001,Kovacs Precision GmbH,2024-12-18,Mechanical Parts,11,False,no_response
+RFQ-0117-INV-V011,RFQ-0117,V011,Solaris Power Components,2025-01-02,Electrical Components,11,True,bid
+RFQ-0117-INV-V013,RFQ-0117,V013,Vantage Sensors GmbH,2025-01-02,Electrical Components,11,True,bid
+RFQ-0117-INV-V002,RFQ-0117,V002,Tanaka Electrical KK,2025-01-02,Electrical Components,11,True,bid
+RFQ-0117-INV-V018,RFQ-0117,V018,Guangzhou Mech & Elec Co.,2025-01-02,Electrical Components,11,True,bid
+RFQ-0117-INV-V016,RFQ-0117,V016,Precision Arc Systems,2025-01-02,Electrical Components,11,True,bid
+RFQ-0117-INV-V021,RFQ-0117,V021,Helios Micro Systems,2025-01-02,Electrical Components,11,True,bid
+RFQ-0117-INV-V006,RFQ-0117,V006,Bright Spark Electronics Ltd,2025-01-02,Electrical Components,11,False,no_response
+RFQ-0118-INV-V021,RFQ-0118,V021,Helios Micro Systems,2025-01-02,Electrical Components,11,True,bid
+RFQ-0118-INV-V018,RFQ-0118,V018,Guangzhou Mech & Elec Co.,2025-01-02,Electrical Components,11,True,bid
+RFQ-0118-INV-V013,RFQ-0118,V013,Vantage Sensors GmbH,2025-01-02,Electrical Components,11,True,bid
+RFQ-0118-INV-V016,RFQ-0118,V016,Precision Arc Systems,2025-01-02,Electrical Components,11,True,bid
+RFQ-0118-INV-V002,RFQ-0118,V002,Tanaka Electrical KK,2025-01-02,Electrical Components,11,False,no_response
+RFQ-0118-INV-V011,RFQ-0118,V011,Solaris Power Components,2025-01-02,Electrical Components,11,False,no_response
+RFQ-0118-INV-V006,RFQ-0118,V006,Bright Spark Electronics Ltd,2025-01-02,Electrical Components,11,True,bid
+RFQ-0119-INV-V013,RFQ-0119,V013,Vantage Sensors GmbH,2024-12-25,Electrical Components,11,True,bid
+RFQ-0119-INV-V011,RFQ-0119,V011,Solaris Power Components,2024-12-25,Electrical Components,11,False,no_response
+RFQ-0119-INV-V002,RFQ-0119,V002,Tanaka Electrical KK,2024-12-25,Electrical Components,11,True,bid
+RFQ-0119-INV-V016,RFQ-0119,V016,Precision Arc Systems,2024-12-25,Electrical Components,11,False,no_response
+RFQ-0119-INV-V006,RFQ-0119,V006,Bright Spark Electronics Ltd,2024-12-25,Electrical Components,11,False,no_response
+RFQ-0119-INV-V018,RFQ-0119,V018,Guangzhou Mech & Elec Co.,2024-12-25,Electrical Components,11,True,bid
+RFQ-0119-INV-V021,RFQ-0119,V021,Helios Micro Systems,2024-12-25,Electrical Components,11,False,no_response
+RFQ-0120-INV-V009,RFQ-0120,V009,Fischer & Söhne KG,2024-12-21,Mechanical Parts,11,False,no_response
+RFQ-0120-INV-V017,RFQ-0120,V017,Türk Makina A.Ş.,2024-12-21,Mechanical Parts,11,True,bid
+RFQ-0120-INV-V007,RFQ-0120,V007,Nakamura Tooling Co.,2024-12-21,Mechanical Parts,11,True,bid
+RFQ-0120-INV-V001,RFQ-0120,V001,Kovacs Precision GmbH,2024-12-21,Mechanical Parts,11,True,bid
+RFQ-0120-INV-V010,RFQ-0120,V010,Adriatic Fastenings d.o.o.,2024-12-21,Mechanical Parts,11,True,bid
+RFQ-0120-INV-V024,RFQ-0120,V024,BalticTech UAB,2024-12-21,Mechanical Parts,11,True,bid
+RFQ-0120-INV-V019,RFQ-0120,V019,Emerald Isle Castings Ltd,2024-12-21,Mechanical Parts,11,True,bid
+RFQ-0120-INV-V022,RFQ-0120,V022,Andean Precision SRL,2024-12-21,Mechanical Parts,11,True,bid
+RFQ-0121-INV-V011,RFQ-0121,V011,Solaris Power Components,2024-12-20,Electrical Components,11,True,bid
+RFQ-0121-INV-V006,RFQ-0121,V006,Bright Spark Electronics Ltd,2024-12-20,Electrical Components,11,True,bid
+RFQ-0121-INV-V013,RFQ-0121,V013,Vantage Sensors GmbH,2024-12-20,Electrical Components,11,False,no_response
+RFQ-0121-INV-V002,RFQ-0121,V002,Tanaka Electrical KK,2024-12-20,Electrical Components,11,False,no_response
+RFQ-0121-INV-V016,RFQ-0121,V016,Precision Arc Systems,2024-12-20,Electrical Components,11,True,bid
+RFQ-0121-INV-V021,RFQ-0121,V021,Helios Micro Systems,2024-12-20,Electrical Components,11,True,bid
+RFQ-0121-INV-V018,RFQ-0121,V018,Guangzhou Mech & Elec Co.,2024-12-20,Electrical Components,11,True,bid
+RFQ-0122-INV-V011,RFQ-0122,V011,Solaris Power Components,2024-12-13,Electrical Components,11,False,no_response
+RFQ-0122-INV-V016,RFQ-0122,V016,Precision Arc Systems,2024-12-13,Electrical Components,11,True,bid
+RFQ-0122-INV-V013,RFQ-0122,V013,Vantage Sensors GmbH,2024-12-13,Electrical Components,11,True,bid
+RFQ-0122-INV-V002,RFQ-0122,V002,Tanaka Electrical KK,2024-12-13,Electrical Components,11,True,bid
+RFQ-0122-INV-V021,RFQ-0122,V021,Helios Micro Systems,2024-12-13,Electrical Components,11,True,bid
+RFQ-0122-INV-V018,RFQ-0122,V018,Guangzhou Mech & Elec Co.,2024-12-13,Electrical Components,11,False,no_response
+RFQ-0122-INV-V006,RFQ-0122,V006,Bright Spark Electronics Ltd,2024-12-13,Electrical Components,11,True,bid
+RFQ-0123-INV-V002,RFQ-0123,V002,Tanaka Electrical KK,2024-12-24,Electrical Components,11,True,bid
+RFQ-0123-INV-V011,RFQ-0123,V011,Solaris Power Components,2024-12-24,Electrical Components,11,True,bid
+RFQ-0123-INV-V018,RFQ-0123,V018,Guangzhou Mech & Elec Co.,2024-12-24,Electrical Components,11,False,no_response
+RFQ-0123-INV-V016,RFQ-0123,V016,Precision Arc Systems,2024-12-24,Electrical Components,11,True,bid
+RFQ-0123-INV-V006,RFQ-0123,V006,Bright Spark Electronics Ltd,2024-12-24,Electrical Components,11,True,bid
+RFQ-0123-INV-V013,RFQ-0123,V013,Vantage Sensors GmbH,2024-12-24,Electrical Components,11,True,bid
+RFQ-0123-INV-V021,RFQ-0123,V021,Helios Micro Systems,2024-12-24,Electrical Components,11,False,no_response
+RFQ-0124-INV-V012,RFQ-0124,V012,Indra Copper Works,2024-12-04,Raw Materials,11,True,bid
+RFQ-0124-INV-V020,RFQ-0124,V020,Rajasthan Rare Earths Ltd,2024-12-04,Raw Materials,11,True,bid
+RFQ-0124-INV-V023,RFQ-0124,V023,Sahara Industrial FZE,2024-12-04,Raw Materials,11,False,no_response
+RFQ-0124-INV-V008,RFQ-0124,V008,Delta Composites Inc.,2024-12-04,Raw Materials,11,True,bid
+RFQ-0124-INV-V005,RFQ-0124,V005,Cerro Negro Metals SA,2024-12-04,Raw Materials,11,True,bid
+RFQ-0124-INV-V014,RFQ-0124,V014,Coastal Alloys Pty Ltd,2024-12-04,Raw Materials,11,True,bid
+RFQ-0124-INV-V015,RFQ-0124,V015,Nordic Steel AS,2024-12-04,Raw Materials,11,True,bid
+RFQ-0124-INV-V003,RFQ-0124,V003,Patel Alloys Pvt Ltd,2024-12-04,Raw Materials,11,True,bid
+RFQ-0125-INV-V011,RFQ-0125,V011,Solaris Power Components,2024-12-10,Electrical Components,11,True,bid
+RFQ-0125-INV-V002,RFQ-0125,V002,Tanaka Electrical KK,2024-12-10,Electrical Components,11,True,bid
+RFQ-0125-INV-V006,RFQ-0125,V006,Bright Spark Electronics Ltd,2024-12-10,Electrical Components,11,True,bid
+RFQ-0125-INV-V018,RFQ-0125,V018,Guangzhou Mech & Elec Co.,2024-12-10,Electrical Components,11,False,no_response
+RFQ-0125-INV-V013,RFQ-0125,V013,Vantage Sensors GmbH,2024-12-10,Electrical Components,11,False,no_response
+RFQ-0125-INV-V021,RFQ-0125,V021,Helios Micro Systems,2024-12-10,Electrical Components,11,True,bid
+RFQ-0125-INV-V016,RFQ-0125,V016,Precision Arc Systems,2024-12-10,Electrical Components,11,False,no_response
+RFQ-0126-INV-V013,RFQ-0126,V013,Vantage Sensors GmbH,2024-12-28,Electrical Components,11,True,bid
+RFQ-0126-INV-V006,RFQ-0126,V006,Bright Spark Electronics Ltd,2024-12-28,Electrical Components,11,False,no_response
+RFQ-0126-INV-V002,RFQ-0126,V002,Tanaka Electrical KK,2024-12-28,Electrical Components,11,True,bid
+RFQ-0126-INV-V021,RFQ-0126,V021,Helios Micro Systems,2024-12-28,Electrical Components,11,True,bid
+RFQ-0126-INV-V018,RFQ-0126,V018,Guangzhou Mech & Elec Co.,2024-12-28,Electrical Components,11,True,bid
+RFQ-0126-INV-V016,RFQ-0126,V016,Precision Arc Systems,2024-12-28,Electrical Components,11,True,bid
+RFQ-0126-INV-V011,RFQ-0126,V011,Solaris Power Components,2024-12-28,Electrical Components,11,True,bid
+RFQ-0127-INV-V016,RFQ-0127,V016,Precision Arc Systems,2024-12-25,Electrical Components,11,True,bid
+RFQ-0127-INV-V021,RFQ-0127,V021,Helios Micro Systems,2024-12-25,Electrical Components,11,True,bid
+RFQ-0127-INV-V006,RFQ-0127,V006,Bright Spark Electronics Ltd,2024-12-25,Electrical Components,11,True,bid
+RFQ-0127-INV-V018,RFQ-0127,V018,Guangzhou Mech & Elec Co.,2024-12-25,Electrical Components,11,True,bid
+RFQ-0127-INV-V013,RFQ-0127,V013,Vantage Sensors GmbH,2024-12-25,Electrical Components,11,True,bid
+RFQ-0127-INV-V011,RFQ-0127,V011,Solaris Power Components,2024-12-25,Electrical Components,11,True,bid
+RFQ-0127-INV-V002,RFQ-0127,V002,Tanaka Electrical KK,2024-12-25,Electrical Components,11,True,bid
+RFQ-0128-INV-V013,RFQ-0128,V013,Vantage Sensors GmbH,2024-12-25,Electrical Components,11,True,bid
+RFQ-0128-INV-V021,RFQ-0128,V021,Helios Micro Systems,2024-12-25,Electrical Components,11,True,bid
+RFQ-0128-INV-V011,RFQ-0128,V011,Solaris Power Components,2024-12-25,Electrical Components,11,True,bid
+RFQ-0128-INV-V002,RFQ-0128,V002,Tanaka Electrical KK,2024-12-25,Electrical Components,11,True,bid
+RFQ-0128-INV-V016,RFQ-0128,V016,Precision Arc Systems,2024-12-25,Electrical Components,11,False,no_response
+RFQ-0128-INV-V018,RFQ-0128,V018,Guangzhou Mech & Elec Co.,2024-12-25,Electrical Components,11,True,bid
+RFQ-0128-INV-V006,RFQ-0128,V006,Bright Spark Electronics Ltd,2024-12-25,Electrical Components,11,True,bid
+RFQ-0129-INV-V004,RFQ-0129,V004,Strömberg Hydraulics AB,2025-01-17,Mechanical Parts,12,True,bid
+RFQ-0129-INV-V007,RFQ-0129,V007,Nakamura Tooling Co.,2025-01-17,Mechanical Parts,12,True,bid
+RFQ-0129-INV-V010,RFQ-0129,V010,Adriatic Fastenings d.o.o.,2025-01-17,Mechanical Parts,12,True,bid
+RFQ-0129-INV-V019,RFQ-0129,V019,Emerald Isle Castings Ltd,2025-01-17,Mechanical Parts,12,True,bid
+RFQ-0129-INV-V009,RFQ-0129,V009,Fischer & Söhne KG,2025-01-17,Mechanical Parts,12,True,bid
+RFQ-0129-INV-V017,RFQ-0129,V017,Türk Makina A.Ş.,2025-01-17,Mechanical Parts,12,False,no_response
+RFQ-0129-INV-V022,RFQ-0129,V022,Andean Precision SRL,2025-01-17,Mechanical Parts,12,True,bid
+RFQ-0129-INV-V001,RFQ-0129,V001,Kovacs Precision GmbH,2025-01-17,Mechanical Parts,12,True,bid
+RFQ-0130-INV-V019,RFQ-0130,V019,Emerald Isle Castings Ltd,2025-01-05,Mechanical Parts,12,True,bid
+RFQ-0130-INV-V001,RFQ-0130,V001,Kovacs Precision GmbH,2025-01-05,Mechanical Parts,12,True,bid
+RFQ-0130-INV-V024,RFQ-0130,V024,BalticTech UAB,2025-01-05,Mechanical Parts,12,True,bid
+RFQ-0130-INV-V022,RFQ-0130,V022,Andean Precision SRL,2025-01-05,Mechanical Parts,12,True,bid
+RFQ-0130-INV-V017,RFQ-0130,V017,Türk Makina A.Ş.,2025-01-05,Mechanical Parts,12,True,bid
+RFQ-0130-INV-V004,RFQ-0130,V004,Strömberg Hydraulics AB,2025-01-05,Mechanical Parts,12,True,bid
+RFQ-0130-INV-V009,RFQ-0130,V009,Fischer & Söhne KG,2025-01-05,Mechanical Parts,12,False,no_response
+RFQ-0130-INV-V010,RFQ-0130,V010,Adriatic Fastenings d.o.o.,2025-01-05,Mechanical Parts,12,True,bid
+RFQ-0131-INV-V013,RFQ-0131,V013,Vantage Sensors GmbH,2025-01-23,Electrical Components,12,False,no_response
+RFQ-0131-INV-V021,RFQ-0131,V021,Helios Micro Systems,2025-01-23,Electrical Components,12,True,bid
+RFQ-0131-INV-V011,RFQ-0131,V011,Solaris Power Components,2025-01-23,Electrical Components,12,True,bid
+RFQ-0131-INV-V018,RFQ-0131,V018,Guangzhou Mech & Elec Co.,2025-01-23,Electrical Components,12,True,bid
+RFQ-0131-INV-V002,RFQ-0131,V002,Tanaka Electrical KK,2025-01-23,Electrical Components,12,True,bid
+RFQ-0131-INV-V016,RFQ-0131,V016,Precision Arc Systems,2025-01-23,Electrical Components,12,True,bid
+RFQ-0131-INV-V006,RFQ-0131,V006,Bright Spark Electronics Ltd,2025-01-23,Electrical Components,12,True,bid
+RFQ-0132-INV-V006,RFQ-0132,V006,Bright Spark Electronics Ltd,2025-01-25,Electrical Components,12,False,no_response
+RFQ-0132-INV-V016,RFQ-0132,V016,Precision Arc Systems,2025-01-25,Electrical Components,12,True,bid
+RFQ-0132-INV-V013,RFQ-0132,V013,Vantage Sensors GmbH,2025-01-25,Electrical Components,12,True,bid
+RFQ-0132-INV-V011,RFQ-0132,V011,Solaris Power Components,2025-01-25,Electrical Components,12,True,bid
+RFQ-0132-INV-V021,RFQ-0132,V021,Helios Micro Systems,2025-01-25,Electrical Components,12,True,bid
+RFQ-0132-INV-V002,RFQ-0132,V002,Tanaka Electrical KK,2025-01-25,Electrical Components,12,True,bid
+RFQ-0132-INV-V018,RFQ-0132,V018,Guangzhou Mech & Elec Co.,2025-01-25,Electrical Components,12,True,bid
+RFQ-0133-INV-V002,RFQ-0133,V002,Tanaka Electrical KK,2025-02-01,Electrical Components,12,True,bid
+RFQ-0133-INV-V013,RFQ-0133,V013,Vantage Sensors GmbH,2025-02-01,Electrical Components,12,True,bid
+RFQ-0133-INV-V016,RFQ-0133,V016,Precision Arc Systems,2025-02-01,Electrical Components,12,True,bid
+RFQ-0133-INV-V021,RFQ-0133,V021,Helios Micro Systems,2025-02-01,Electrical Components,12,True,bid
+RFQ-0133-INV-V011,RFQ-0133,V011,Solaris Power Components,2025-02-01,Electrical Components,12,True,bid
+RFQ-0133-INV-V006,RFQ-0133,V006,Bright Spark Electronics Ltd,2025-02-01,Electrical Components,12,False,no_response
+RFQ-0133-INV-V018,RFQ-0133,V018,Guangzhou Mech & Elec Co.,2025-02-01,Electrical Components,12,True,bid
+RFQ-0134-INV-V001,RFQ-0134,V001,Kovacs Precision GmbH,2025-01-26,Mechanical Parts,12,False,no_response
+RFQ-0134-INV-V009,RFQ-0134,V009,Fischer & Söhne KG,2025-01-26,Mechanical Parts,12,False,no_response
+RFQ-0134-INV-V019,RFQ-0134,V019,Emerald Isle Castings Ltd,2025-01-26,Mechanical Parts,12,True,bid
+RFQ-0134-INV-V007,RFQ-0134,V007,Nakamura Tooling Co.,2025-01-26,Mechanical Parts,12,True,bid
+RFQ-0134-INV-V017,RFQ-0134,V017,Türk Makina A.Ş.,2025-01-26,Mechanical Parts,12,True,bid
+RFQ-0134-INV-V022,RFQ-0134,V022,Andean Precision SRL,2025-01-26,Mechanical Parts,12,True,bid
+RFQ-0134-INV-V010,RFQ-0134,V010,Adriatic Fastenings d.o.o.,2025-01-26,Mechanical Parts,12,True,bid
+RFQ-0134-INV-V004,RFQ-0134,V004,Strömberg Hydraulics AB,2025-01-26,Mechanical Parts,12,True,bid
+RFQ-0135-INV-V002,RFQ-0135,V002,Tanaka Electrical KK,2025-01-27,Electrical Components,12,True,bid
+RFQ-0135-INV-V011,RFQ-0135,V011,Solaris Power Components,2025-01-27,Electrical Components,12,True,bid
+RFQ-0135-INV-V018,RFQ-0135,V018,Guangzhou Mech & Elec Co.,2025-01-27,Electrical Components,12,False,no_response
+RFQ-0135-INV-V013,RFQ-0135,V013,Vantage Sensors GmbH,2025-01-27,Electrical Components,12,False,no_response
+RFQ-0135-INV-V006,RFQ-0135,V006,Bright Spark Electronics Ltd,2025-01-27,Electrical Components,12,True,bid
+RFQ-0135-INV-V016,RFQ-0135,V016,Precision Arc Systems,2025-01-27,Electrical Components,12,False,no_response
+RFQ-0135-INV-V021,RFQ-0135,V021,Helios Micro Systems,2025-01-27,Electrical Components,12,True,bid
+RFQ-0136-INV-V005,RFQ-0136,V005,Cerro Negro Metals SA,2025-01-29,Raw Materials,12,True,bid
+RFQ-0136-INV-V015,RFQ-0136,V015,Nordic Steel AS,2025-01-29,Raw Materials,12,True,bid
+RFQ-0136-INV-V012,RFQ-0136,V012,Indra Copper Works,2025-01-29,Raw Materials,12,True,bid
+RFQ-0136-INV-V020,RFQ-0136,V020,Rajasthan Rare Earths Ltd,2025-01-29,Raw Materials,12,True,bid
+RFQ-0136-INV-V014,RFQ-0136,V014,Coastal Alloys Pty Ltd,2025-01-29,Raw Materials,12,True,bid
+RFQ-0136-INV-V023,RFQ-0136,V023,Sahara Industrial FZE,2025-01-29,Raw Materials,12,True,bid
+RFQ-0136-INV-V003,RFQ-0136,V003,Patel Alloys Pvt Ltd,2025-01-29,Raw Materials,12,True,bid
+RFQ-0136-INV-V008,RFQ-0136,V008,Delta Composites Inc.,2025-01-29,Raw Materials,12,True,bid
+RFQ-0137-INV-V002,RFQ-0137,V002,Tanaka Electrical KK,2025-02-01,Electrical Components,12,True,bid
+RFQ-0137-INV-V018,RFQ-0137,V018,Guangzhou Mech & Elec Co.,2025-02-01,Electrical Components,12,False,no_response
+RFQ-0137-INV-V006,RFQ-0137,V006,Bright Spark Electronics Ltd,2025-02-01,Electrical Components,12,True,bid
+RFQ-0137-INV-V021,RFQ-0137,V021,Helios Micro Systems,2025-02-01,Electrical Components,12,True,bid
+RFQ-0137-INV-V016,RFQ-0137,V016,Precision Arc Systems,2025-02-01,Electrical Components,12,True,bid
+RFQ-0137-INV-V013,RFQ-0137,V013,Vantage Sensors GmbH,2025-02-01,Electrical Components,12,True,bid
+RFQ-0137-INV-V011,RFQ-0137,V011,Solaris Power Components,2025-02-01,Electrical Components,12,True,bid
+RFQ-0138-INV-V003,RFQ-0138,V003,Patel Alloys Pvt Ltd,2025-01-04,Raw Materials,12,True,bid
+RFQ-0138-INV-V008,RFQ-0138,V008,Delta Composites Inc.,2025-01-04,Raw Materials,12,True,bid
+RFQ-0138-INV-V015,RFQ-0138,V015,Nordic Steel AS,2025-01-04,Raw Materials,12,True,bid
+RFQ-0138-INV-V014,RFQ-0138,V014,Coastal Alloys Pty Ltd,2025-01-04,Raw Materials,12,True,bid
+RFQ-0138-INV-V012,RFQ-0138,V012,Indra Copper Works,2025-01-04,Raw Materials,12,True,bid
+RFQ-0138-INV-V023,RFQ-0138,V023,Sahara Industrial FZE,2025-01-04,Raw Materials,12,True,bid
+RFQ-0138-INV-V005,RFQ-0138,V005,Cerro Negro Metals SA,2025-01-04,Raw Materials,12,True,bid
+RFQ-0138-INV-V020,RFQ-0138,V020,Rajasthan Rare Earths Ltd,2025-01-04,Raw Materials,12,True,bid
+RFQ-0139-INV-V016,RFQ-0139,V016,Precision Arc Systems,2025-01-06,Electrical Components,12,False,no_response
+RFQ-0139-INV-V006,RFQ-0139,V006,Bright Spark Electronics Ltd,2025-01-06,Electrical Components,12,False,no_response
+RFQ-0139-INV-V013,RFQ-0139,V013,Vantage Sensors GmbH,2025-01-06,Electrical Components,12,True,bid
+RFQ-0139-INV-V018,RFQ-0139,V018,Guangzhou Mech & Elec Co.,2025-01-06,Electrical Components,12,False,no_response
+RFQ-0139-INV-V021,RFQ-0139,V021,Helios Micro Systems,2025-01-06,Electrical Components,12,True,bid
+RFQ-0139-INV-V002,RFQ-0139,V002,Tanaka Electrical KK,2025-01-06,Electrical Components,12,True,bid
+RFQ-0139-INV-V011,RFQ-0139,V011,Solaris Power Components,2025-01-06,Electrical Components,12,True,bid
+RFQ-0140-INV-V013,RFQ-0140,V013,Vantage Sensors GmbH,2025-01-17,Electrical Components,12,True,bid
+RFQ-0140-INV-V002,RFQ-0140,V002,Tanaka Electrical KK,2025-01-17,Electrical Components,12,True,bid
+RFQ-0140-INV-V006,RFQ-0140,V006,Bright Spark Electronics Ltd,2025-01-17,Electrical Components,12,True,bid
+RFQ-0140-INV-V011,RFQ-0140,V011,Solaris Power Components,2025-01-17,Electrical Components,12,True,bid
+RFQ-0140-INV-V021,RFQ-0140,V021,Helios Micro Systems,2025-01-17,Electrical Components,12,True,bid
+RFQ-0140-INV-V016,RFQ-0140,V016,Precision Arc Systems,2025-01-17,Electrical Components,12,False,no_response
+RFQ-0140-INV-V018,RFQ-0140,V018,Guangzhou Mech & Elec Co.,2025-01-17,Electrical Components,12,False,no_response
+RFQ-0141-INV-V013,RFQ-0141,V013,Vantage Sensors GmbH,2025-01-12,Electrical Components,12,True,bid
+RFQ-0141-INV-V016,RFQ-0141,V016,Precision Arc Systems,2025-01-12,Electrical Components,12,True,bid
+RFQ-0141-INV-V002,RFQ-0141,V002,Tanaka Electrical KK,2025-01-12,Electrical Components,12,True,bid
+RFQ-0141-INV-V011,RFQ-0141,V011,Solaris Power Components,2025-01-12,Electrical Components,12,True,bid
+RFQ-0141-INV-V021,RFQ-0141,V021,Helios Micro Systems,2025-01-12,Electrical Components,12,True,bid
+RFQ-0141-INV-V006,RFQ-0141,V006,Bright Spark Electronics Ltd,2025-01-12,Electrical Components,12,False,no_response
+RFQ-0141-INV-V018,RFQ-0141,V018,Guangzhou Mech & Elec Co.,2025-01-12,Electrical Components,12,False,no_response
+RFQ-0142-INV-V022,RFQ-0142,V022,Andean Precision SRL,2025-01-14,Mechanical Parts,12,True,bid
+RFQ-0142-INV-V010,RFQ-0142,V010,Adriatic Fastenings d.o.o.,2025-01-14,Mechanical Parts,12,True,bid
+RFQ-0142-INV-V009,RFQ-0142,V009,Fischer & Söhne KG,2025-01-14,Mechanical Parts,12,True,bid
+RFQ-0142-INV-V024,RFQ-0142,V024,BalticTech UAB,2025-01-14,Mechanical Parts,12,True,bid
+RFQ-0142-INV-V007,RFQ-0142,V007,Nakamura Tooling Co.,2025-01-14,Mechanical Parts,12,False,no_response
+RFQ-0142-INV-V001,RFQ-0142,V001,Kovacs Precision GmbH,2025-01-14,Mechanical Parts,12,True,bid
+RFQ-0142-INV-V019,RFQ-0142,V019,Emerald Isle Castings Ltd,2025-01-14,Mechanical Parts,12,True,bid
+RFQ-0142-INV-V017,RFQ-0142,V017,Türk Makina A.Ş.,2025-01-14,Mechanical Parts,12,True,bid
+RFQ-0143-INV-V016,RFQ-0143,V016,Precision Arc Systems,2025-02-05,Electrical Components,13,True,bid
+RFQ-0143-INV-V021,RFQ-0143,V021,Helios Micro Systems,2025-02-05,Electrical Components,13,True,bid
+RFQ-0143-INV-V006,RFQ-0143,V006,Bright Spark Electronics Ltd,2025-02-05,Electrical Components,13,True,bid
+RFQ-0143-INV-V002,RFQ-0143,V002,Tanaka Electrical KK,2025-02-05,Electrical Components,13,False,no_response
+RFQ-0143-INV-V013,RFQ-0143,V013,Vantage Sensors GmbH,2025-02-05,Electrical Components,13,True,bid
+RFQ-0143-INV-V011,RFQ-0143,V011,Solaris Power Components,2025-02-05,Electrical Components,13,False,no_response
+RFQ-0143-INV-V018,RFQ-0143,V018,Guangzhou Mech & Elec Co.,2025-02-05,Electrical Components,13,False,no_response
+RFQ-0144-INV-V013,RFQ-0144,V013,Vantage Sensors GmbH,2025-02-22,Electrical Components,13,True,bid
+RFQ-0144-INV-V021,RFQ-0144,V021,Helios Micro Systems,2025-02-22,Electrical Components,13,True,bid
+RFQ-0144-INV-V011,RFQ-0144,V011,Solaris Power Components,2025-02-22,Electrical Components,13,True,bid
+RFQ-0144-INV-V016,RFQ-0144,V016,Precision Arc Systems,2025-02-22,Electrical Components,13,False,no_response
+RFQ-0144-INV-V002,RFQ-0144,V002,Tanaka Electrical KK,2025-02-22,Electrical Components,13,False,no_response
+RFQ-0144-INV-V006,RFQ-0144,V006,Bright Spark Electronics Ltd,2025-02-22,Electrical Components,13,False,no_response
+RFQ-0144-INV-V018,RFQ-0144,V018,Guangzhou Mech & Elec Co.,2025-02-22,Electrical Components,13,False,no_response
+RFQ-0145-INV-V001,RFQ-0145,V001,Kovacs Precision GmbH,2025-02-14,Mechanical Parts,13,True,bid
+RFQ-0145-INV-V019,RFQ-0145,V019,Emerald Isle Castings Ltd,2025-02-14,Mechanical Parts,13,False,no_response
+RFQ-0145-INV-V004,RFQ-0145,V004,Strömberg Hydraulics AB,2025-02-14,Mechanical Parts,13,True,bid
+RFQ-0145-INV-V022,RFQ-0145,V022,Andean Precision SRL,2025-02-14,Mechanical Parts,13,True,bid
+RFQ-0145-INV-V007,RFQ-0145,V007,Nakamura Tooling Co.,2025-02-14,Mechanical Parts,13,True,bid
+RFQ-0145-INV-V009,RFQ-0145,V009,Fischer & Söhne KG,2025-02-14,Mechanical Parts,13,True,bid
+RFQ-0145-INV-V010,RFQ-0145,V010,Adriatic Fastenings d.o.o.,2025-02-14,Mechanical Parts,13,True,bid
+RFQ-0145-INV-V017,RFQ-0145,V017,Türk Makina A.Ş.,2025-02-14,Mechanical Parts,13,True,bid
+RFQ-0146-INV-V013,RFQ-0146,V013,Vantage Sensors GmbH,2025-02-26,Electrical Components,13,True,bid
+RFQ-0146-INV-V006,RFQ-0146,V006,Bright Spark Electronics Ltd,2025-02-26,Electrical Components,13,True,bid
+RFQ-0146-INV-V018,RFQ-0146,V018,Guangzhou Mech & Elec Co.,2025-02-26,Electrical Components,13,False,no_response
+RFQ-0146-INV-V021,RFQ-0146,V021,Helios Micro Systems,2025-02-26,Electrical Components,13,True,bid
+RFQ-0146-INV-V016,RFQ-0146,V016,Precision Arc Systems,2025-02-26,Electrical Components,13,True,bid
+RFQ-0146-INV-V002,RFQ-0146,V002,Tanaka Electrical KK,2025-02-26,Electrical Components,13,True,bid
+RFQ-0146-INV-V011,RFQ-0146,V011,Solaris Power Components,2025-02-26,Electrical Components,13,True,bid
+RFQ-0147-INV-V011,RFQ-0147,V011,Solaris Power Components,2025-03-03,Electrical Components,13,True,bid
+RFQ-0147-INV-V006,RFQ-0147,V006,Bright Spark Electronics Ltd,2025-03-03,Electrical Components,13,True,bid
+RFQ-0147-INV-V002,RFQ-0147,V002,Tanaka Electrical KK,2025-03-03,Electrical Components,13,True,bid
+RFQ-0147-INV-V013,RFQ-0147,V013,Vantage Sensors GmbH,2025-03-03,Electrical Components,13,True,bid
+RFQ-0147-INV-V016,RFQ-0147,V016,Precision Arc Systems,2025-03-03,Electrical Components,13,True,bid
+RFQ-0147-INV-V021,RFQ-0147,V021,Helios Micro Systems,2025-03-03,Electrical Components,13,True,bid
+RFQ-0147-INV-V018,RFQ-0147,V018,Guangzhou Mech & Elec Co.,2025-03-03,Electrical Components,13,False,no_response
+RFQ-0148-INV-V016,RFQ-0148,V016,Precision Arc Systems,2025-02-18,Electrical Components,13,True,bid
+RFQ-0148-INV-V021,RFQ-0148,V021,Helios Micro Systems,2025-02-18,Electrical Components,13,True,bid
+RFQ-0148-INV-V011,RFQ-0148,V011,Solaris Power Components,2025-02-18,Electrical Components,13,True,bid
+RFQ-0148-INV-V006,RFQ-0148,V006,Bright Spark Electronics Ltd,2025-02-18,Electrical Components,13,True,bid
+RFQ-0148-INV-V002,RFQ-0148,V002,Tanaka Electrical KK,2025-02-18,Electrical Components,13,True,bid
+RFQ-0148-INV-V013,RFQ-0148,V013,Vantage Sensors GmbH,2025-02-18,Electrical Components,13,True,bid
+RFQ-0148-INV-V018,RFQ-0148,V018,Guangzhou Mech & Elec Co.,2025-02-18,Electrical Components,13,True,bid
+RFQ-0149-INV-V016,RFQ-0149,V016,Precision Arc Systems,2025-02-24,Electrical Components,13,True,bid
+RFQ-0149-INV-V002,RFQ-0149,V002,Tanaka Electrical KK,2025-02-24,Electrical Components,13,False,no_response
+RFQ-0149-INV-V011,RFQ-0149,V011,Solaris Power Components,2025-02-24,Electrical Components,13,False,no_response
+RFQ-0149-INV-V013,RFQ-0149,V013,Vantage Sensors GmbH,2025-02-24,Electrical Components,13,True,bid
+RFQ-0149-INV-V021,RFQ-0149,V021,Helios Micro Systems,2025-02-24,Electrical Components,13,True,bid
+RFQ-0149-INV-V006,RFQ-0149,V006,Bright Spark Electronics Ltd,2025-02-24,Electrical Components,13,False,no_response
+RFQ-0149-INV-V018,RFQ-0149,V018,Guangzhou Mech & Elec Co.,2025-02-24,Electrical Components,13,False,no_response
+RFQ-0150-INV-V013,RFQ-0150,V013,Vantage Sensors GmbH,2025-02-19,Electrical Components,13,True,bid
+RFQ-0150-INV-V002,RFQ-0150,V002,Tanaka Electrical KK,2025-02-19,Electrical Components,13,True,bid
+RFQ-0150-INV-V021,RFQ-0150,V021,Helios Micro Systems,2025-02-19,Electrical Components,13,True,bid
+RFQ-0150-INV-V011,RFQ-0150,V011,Solaris Power Components,2025-02-19,Electrical Components,13,False,no_response
+RFQ-0150-INV-V006,RFQ-0150,V006,Bright Spark Electronics Ltd,2025-02-19,Electrical Components,13,False,no_response
+RFQ-0150-INV-V016,RFQ-0150,V016,Precision Arc Systems,2025-02-19,Electrical Components,13,False,no_response
+RFQ-0150-INV-V018,RFQ-0150,V018,Guangzhou Mech & Elec Co.,2025-02-19,Electrical Components,13,True,bid
+RFQ-0151-INV-V013,RFQ-0151,V013,Vantage Sensors GmbH,2025-02-22,Electrical Components,13,True,bid
+RFQ-0151-INV-V006,RFQ-0151,V006,Bright Spark Electronics Ltd,2025-02-22,Electrical Components,13,False,no_response
+RFQ-0151-INV-V021,RFQ-0151,V021,Helios Micro Systems,2025-02-22,Electrical Components,13,True,bid
+RFQ-0151-INV-V016,RFQ-0151,V016,Precision Arc Systems,2025-02-22,Electrical Components,13,False,no_response
+RFQ-0151-INV-V002,RFQ-0151,V002,Tanaka Electrical KK,2025-02-22,Electrical Components,13,True,bid
+RFQ-0151-INV-V011,RFQ-0151,V011,Solaris Power Components,2025-02-22,Electrical Components,13,False,no_response
+RFQ-0151-INV-V018,RFQ-0151,V018,Guangzhou Mech & Elec Co.,2025-02-22,Electrical Components,13,True,bid
+RFQ-0152-INV-V009,RFQ-0152,V009,Fischer & Söhne KG,2025-03-02,Mechanical Parts,13,True,bid
+RFQ-0152-INV-V019,RFQ-0152,V019,Emerald Isle Castings Ltd,2025-03-02,Mechanical Parts,13,True,bid
+RFQ-0152-INV-V001,RFQ-0152,V001,Kovacs Precision GmbH,2025-03-02,Mechanical Parts,13,True,bid
+RFQ-0152-INV-V007,RFQ-0152,V007,Nakamura Tooling Co.,2025-03-02,Mechanical Parts,13,True,bid
+RFQ-0152-INV-V022,RFQ-0152,V022,Andean Precision SRL,2025-03-02,Mechanical Parts,13,True,bid
+RFQ-0152-INV-V017,RFQ-0152,V017,Türk Makina A.Ş.,2025-03-02,Mechanical Parts,13,True,bid
+RFQ-0152-INV-V010,RFQ-0152,V010,Adriatic Fastenings d.o.o.,2025-03-02,Mechanical Parts,13,True,bid
+RFQ-0152-INV-V024,RFQ-0152,V024,BalticTech UAB,2025-03-02,Mechanical Parts,13,True,bid
+RFQ-0153-INV-V013,RFQ-0153,V013,Vantage Sensors GmbH,2025-03-13,Electrical Components,14,False,no_response
+RFQ-0153-INV-V021,RFQ-0153,V021,Helios Micro Systems,2025-03-13,Electrical Components,14,True,bid
+RFQ-0153-INV-V006,RFQ-0153,V006,Bright Spark Electronics Ltd,2025-03-13,Electrical Components,14,False,no_response
+RFQ-0153-INV-V002,RFQ-0153,V002,Tanaka Electrical KK,2025-03-13,Electrical Components,14,True,bid
+RFQ-0153-INV-V016,RFQ-0153,V016,Precision Arc Systems,2025-03-13,Electrical Components,14,True,bid
+RFQ-0153-INV-V018,RFQ-0153,V018,Guangzhou Mech & Elec Co.,2025-03-13,Electrical Components,14,False,no_response
+RFQ-0153-INV-V011,RFQ-0153,V011,Solaris Power Components,2025-03-13,Electrical Components,14,False,no_response
+RFQ-0154-INV-V002,RFQ-0154,V002,Tanaka Electrical KK,2025-03-06,Electrical Components,14,True,bid
+RFQ-0154-INV-V006,RFQ-0154,V006,Bright Spark Electronics Ltd,2025-03-06,Electrical Components,14,True,bid
+RFQ-0154-INV-V021,RFQ-0154,V021,Helios Micro Systems,2025-03-06,Electrical Components,14,False,no_response
+RFQ-0154-INV-V013,RFQ-0154,V013,Vantage Sensors GmbH,2025-03-06,Electrical Components,14,True,bid
+RFQ-0154-INV-V011,RFQ-0154,V011,Solaris Power Components,2025-03-06,Electrical Components,14,False,no_response
+RFQ-0154-INV-V016,RFQ-0154,V016,Precision Arc Systems,2025-03-06,Electrical Components,14,True,bid
+RFQ-0154-INV-V018,RFQ-0154,V018,Guangzhou Mech & Elec Co.,2025-03-06,Electrical Components,14,False,no_response
+RFQ-0155-INV-V011,RFQ-0155,V011,Solaris Power Components,2025-03-20,Electrical Components,14,True,bid
+RFQ-0155-INV-V016,RFQ-0155,V016,Precision Arc Systems,2025-03-20,Electrical Components,14,True,bid
+RFQ-0155-INV-V002,RFQ-0155,V002,Tanaka Electrical KK,2025-03-20,Electrical Components,14,False,no_response
+RFQ-0155-INV-V021,RFQ-0155,V021,Helios Micro Systems,2025-03-20,Electrical Components,14,True,bid
+RFQ-0155-INV-V006,RFQ-0155,V006,Bright Spark Electronics Ltd,2025-03-20,Electrical Components,14,False,no_response
+RFQ-0155-INV-V013,RFQ-0155,V013,Vantage Sensors GmbH,2025-03-20,Electrical Components,14,True,bid
+RFQ-0155-INV-V018,RFQ-0155,V018,Guangzhou Mech & Elec Co.,2025-03-20,Electrical Components,14,False,no_response
+RFQ-0156-INV-V024,RFQ-0156,V024,BalticTech UAB,2025-03-12,Mechanical Parts,14,True,bid
+RFQ-0156-INV-V019,RFQ-0156,V019,Emerald Isle Castings Ltd,2025-03-12,Mechanical Parts,14,False,no_response
+RFQ-0156-INV-V007,RFQ-0156,V007,Nakamura Tooling Co.,2025-03-12,Mechanical Parts,14,True,bid
+RFQ-0156-INV-V017,RFQ-0156,V017,Türk Makina A.Ş.,2025-03-12,Mechanical Parts,14,True,bid
+RFQ-0156-INV-V010,RFQ-0156,V010,Adriatic Fastenings d.o.o.,2025-03-12,Mechanical Parts,14,False,no_response
+RFQ-0156-INV-V004,RFQ-0156,V004,Strömberg Hydraulics AB,2025-03-12,Mechanical Parts,14,True,bid
+RFQ-0156-INV-V001,RFQ-0156,V001,Kovacs Precision GmbH,2025-03-12,Mechanical Parts,14,True,bid
+RFQ-0156-INV-V022,RFQ-0156,V022,Andean Precision SRL,2025-03-12,Mechanical Parts,14,True,bid
+RFQ-0157-INV-V006,RFQ-0157,V006,Bright Spark Electronics Ltd,2025-03-29,Electrical Components,14,True,bid
+RFQ-0157-INV-V021,RFQ-0157,V021,Helios Micro Systems,2025-03-29,Electrical Components,14,True,bid
+RFQ-0157-INV-V011,RFQ-0157,V011,Solaris Power Components,2025-03-29,Electrical Components,14,True,bid
+RFQ-0157-INV-V002,RFQ-0157,V002,Tanaka Electrical KK,2025-03-29,Electrical Components,14,True,bid
+RFQ-0157-INV-V013,RFQ-0157,V013,Vantage Sensors GmbH,2025-03-29,Electrical Components,14,True,bid
+RFQ-0157-INV-V016,RFQ-0157,V016,Precision Arc Systems,2025-03-29,Electrical Components,14,True,bid
+RFQ-0157-INV-V018,RFQ-0157,V018,Guangzhou Mech & Elec Co.,2025-03-29,Electrical Components,14,True,bid
+RFQ-0158-INV-V001,RFQ-0158,V001,Kovacs Precision GmbH,2025-03-28,Mechanical Parts,14,True,bid
+RFQ-0158-INV-V019,RFQ-0158,V019,Emerald Isle Castings Ltd,2025-03-28,Mechanical Parts,14,True,bid
+RFQ-0158-INV-V010,RFQ-0158,V010,Adriatic Fastenings d.o.o.,2025-03-28,Mechanical Parts,14,True,bid
+RFQ-0158-INV-V009,RFQ-0158,V009,Fischer & Söhne KG,2025-03-28,Mechanical Parts,14,True,bid
+RFQ-0158-INV-V022,RFQ-0158,V022,Andean Precision SRL,2025-03-28,Mechanical Parts,14,True,bid
+RFQ-0158-INV-V017,RFQ-0158,V017,Türk Makina A.Ş.,2025-03-28,Mechanical Parts,14,True,bid
+RFQ-0158-INV-V007,RFQ-0158,V007,Nakamura Tooling Co.,2025-03-28,Mechanical Parts,14,True,bid
+RFQ-0158-INV-V024,RFQ-0158,V024,BalticTech UAB,2025-03-28,Mechanical Parts,14,True,bid
+RFQ-0159-INV-V009,RFQ-0159,V009,Fischer & Söhne KG,2025-03-14,Mechanical Parts,14,True,bid
+RFQ-0159-INV-V019,RFQ-0159,V019,Emerald Isle Castings Ltd,2025-03-14,Mechanical Parts,14,True,bid
+RFQ-0159-INV-V024,RFQ-0159,V024,BalticTech UAB,2025-03-14,Mechanical Parts,14,True,bid
+RFQ-0159-INV-V007,RFQ-0159,V007,Nakamura Tooling Co.,2025-03-14,Mechanical Parts,14,True,bid
+RFQ-0159-INV-V010,RFQ-0159,V010,Adriatic Fastenings d.o.o.,2025-03-14,Mechanical Parts,14,True,bid
+RFQ-0159-INV-V022,RFQ-0159,V022,Andean Precision SRL,2025-03-14,Mechanical Parts,14,True,bid
+RFQ-0159-INV-V017,RFQ-0159,V017,Türk Makina A.Ş.,2025-03-14,Mechanical Parts,14,False,no_response
+RFQ-0159-INV-V004,RFQ-0159,V004,Strömberg Hydraulics AB,2025-03-14,Mechanical Parts,14,True,bid
+RFQ-0160-INV-V005,RFQ-0160,V005,Cerro Negro Metals SA,2025-03-16,Raw Materials,14,True,bid
+RFQ-0160-INV-V012,RFQ-0160,V012,Indra Copper Works,2025-03-16,Raw Materials,14,True,bid
+RFQ-0160-INV-V014,RFQ-0160,V014,Coastal Alloys Pty Ltd,2025-03-16,Raw Materials,14,True,bid
+RFQ-0160-INV-V003,RFQ-0160,V003,Patel Alloys Pvt Ltd,2025-03-16,Raw Materials,14,True,bid
+RFQ-0160-INV-V023,RFQ-0160,V023,Sahara Industrial FZE,2025-03-16,Raw Materials,14,True,bid
+RFQ-0160-INV-V008,RFQ-0160,V008,Delta Composites Inc.,2025-03-16,Raw Materials,14,True,bid
+RFQ-0160-INV-V020,RFQ-0160,V020,Rajasthan Rare Earths Ltd,2025-03-16,Raw Materials,14,True,bid
+RFQ-0160-INV-V015,RFQ-0160,V015,Nordic Steel AS,2025-03-16,Raw Materials,14,True,bid
+RFQ-0161-INV-V013,RFQ-0161,V013,Vantage Sensors GmbH,2025-03-22,Electrical Components,14,True,bid
+RFQ-0161-INV-V002,RFQ-0161,V002,Tanaka Electrical KK,2025-03-22,Electrical Components,14,False,no_response
+RFQ-0161-INV-V021,RFQ-0161,V021,Helios Micro Systems,2025-03-22,Electrical Components,14,True,bid
+RFQ-0161-INV-V011,RFQ-0161,V011,Solaris Power Components,2025-03-22,Electrical Components,14,False,no_response
+RFQ-0161-INV-V016,RFQ-0161,V016,Precision Arc Systems,2025-03-22,Electrical Components,14,False,no_response
+RFQ-0161-INV-V006,RFQ-0161,V006,Bright Spark Electronics Ltd,2025-03-22,Electrical Components,14,True,bid
+RFQ-0161-INV-V018,RFQ-0161,V018,Guangzhou Mech & Elec Co.,2025-03-22,Electrical Components,14,True,bid
+RFQ-0162-INV-V021,RFQ-0162,V021,Helios Micro Systems,2025-03-12,Electrical Components,14,True,bid
+RFQ-0162-INV-V013,RFQ-0162,V013,Vantage Sensors GmbH,2025-03-12,Electrical Components,14,True,bid
+RFQ-0162-INV-V018,RFQ-0162,V018,Guangzhou Mech & Elec Co.,2025-03-12,Electrical Components,14,True,bid
+RFQ-0162-INV-V006,RFQ-0162,V006,Bright Spark Electronics Ltd,2025-03-12,Electrical Components,14,True,bid
+RFQ-0162-INV-V011,RFQ-0162,V011,Solaris Power Components,2025-03-12,Electrical Components,14,True,bid
+RFQ-0162-INV-V002,RFQ-0162,V002,Tanaka Electrical KK,2025-03-12,Electrical Components,14,True,bid
+RFQ-0162-INV-V016,RFQ-0162,V016,Precision Arc Systems,2025-03-12,Electrical Components,14,True,bid
+RFQ-0163-INV-V009,RFQ-0163,V009,Fischer & Söhne KG,2025-03-05,Mechanical Parts,14,True,bid
+RFQ-0163-INV-V001,RFQ-0163,V001,Kovacs Precision GmbH,2025-03-05,Mechanical Parts,14,True,bid
+RFQ-0163-INV-V017,RFQ-0163,V017,Türk Makina A.Ş.,2025-03-05,Mechanical Parts,14,True,bid
+RFQ-0163-INV-V022,RFQ-0163,V022,Andean Precision SRL,2025-03-05,Mechanical Parts,14,True,bid
+RFQ-0163-INV-V019,RFQ-0163,V019,Emerald Isle Castings Ltd,2025-03-05,Mechanical Parts,14,True,bid
+RFQ-0163-INV-V004,RFQ-0163,V004,Strömberg Hydraulics AB,2025-03-05,Mechanical Parts,14,True,bid
+RFQ-0163-INV-V010,RFQ-0163,V010,Adriatic Fastenings d.o.o.,2025-03-05,Mechanical Parts,14,True,bid
+RFQ-0163-INV-V024,RFQ-0163,V024,BalticTech UAB,2025-03-05,Mechanical Parts,14,True,bid
+RFQ-0164-INV-V016,RFQ-0164,V016,Precision Arc Systems,2025-04-05,Electrical Components,15,False,no_response
+RFQ-0164-INV-V013,RFQ-0164,V013,Vantage Sensors GmbH,2025-04-05,Electrical Components,15,True,bid
+RFQ-0164-INV-V021,RFQ-0164,V021,Helios Micro Systems,2025-04-05,Electrical Components,15,True,bid
+RFQ-0164-INV-V011,RFQ-0164,V011,Solaris Power Components,2025-04-05,Electrical Components,15,False,no_response
+RFQ-0164-INV-V006,RFQ-0164,V006,Bright Spark Electronics Ltd,2025-04-05,Electrical Components,15,False,no_response
+RFQ-0164-INV-V002,RFQ-0164,V002,Tanaka Electrical KK,2025-04-05,Electrical Components,15,True,bid
+RFQ-0164-INV-V018,RFQ-0164,V018,Guangzhou Mech & Elec Co.,2025-04-05,Electrical Components,15,True,bid
+RFQ-0165-INV-V002,RFQ-0165,V002,Tanaka Electrical KK,2025-04-12,Electrical Components,15,True,bid
+RFQ-0165-INV-V018,RFQ-0165,V018,Guangzhou Mech & Elec Co.,2025-04-12,Electrical Components,15,False,no_response
+RFQ-0165-INV-V011,RFQ-0165,V011,Solaris Power Components,2025-04-12,Electrical Components,15,True,bid
+RFQ-0165-INV-V013,RFQ-0165,V013,Vantage Sensors GmbH,2025-04-12,Electrical Components,15,True,bid
+RFQ-0165-INV-V006,RFQ-0165,V006,Bright Spark Electronics Ltd,2025-04-12,Electrical Components,15,True,bid
+RFQ-0165-INV-V021,RFQ-0165,V021,Helios Micro Systems,2025-04-12,Electrical Components,15,False,no_response
+RFQ-0165-INV-V016,RFQ-0165,V016,Precision Arc Systems,2025-04-12,Electrical Components,15,True,bid
+RFQ-0166-INV-V021,RFQ-0166,V021,Helios Micro Systems,2025-04-26,Electrical Components,15,True,bid
+RFQ-0166-INV-V002,RFQ-0166,V002,Tanaka Electrical KK,2025-04-26,Electrical Components,15,True,bid
+RFQ-0166-INV-V016,RFQ-0166,V016,Precision Arc Systems,2025-04-26,Electrical Components,15,True,bid
+RFQ-0166-INV-V011,RFQ-0166,V011,Solaris Power Components,2025-04-26,Electrical Components,15,False,no_response
+RFQ-0166-INV-V006,RFQ-0166,V006,Bright Spark Electronics Ltd,2025-04-26,Electrical Components,15,False,no_response
+RFQ-0166-INV-V013,RFQ-0166,V013,Vantage Sensors GmbH,2025-04-26,Electrical Components,15,True,bid
+RFQ-0166-INV-V018,RFQ-0166,V018,Guangzhou Mech & Elec Co.,2025-04-26,Electrical Components,15,True,bid
+RFQ-0167-INV-V006,RFQ-0167,V006,Bright Spark Electronics Ltd,2025-04-23,Electrical Components,15,True,bid
+RFQ-0167-INV-V002,RFQ-0167,V002,Tanaka Electrical KK,2025-04-23,Electrical Components,15,True,bid
+RFQ-0167-INV-V011,RFQ-0167,V011,Solaris Power Components,2025-04-23,Electrical Components,15,True,bid
+RFQ-0167-INV-V021,RFQ-0167,V021,Helios Micro Systems,2025-04-23,Electrical Components,15,True,bid
+RFQ-0167-INV-V013,RFQ-0167,V013,Vantage Sensors GmbH,2025-04-23,Electrical Components,15,True,bid
+RFQ-0167-INV-V016,RFQ-0167,V016,Precision Arc Systems,2025-04-23,Electrical Components,15,False,no_response
+RFQ-0167-INV-V018,RFQ-0167,V018,Guangzhou Mech & Elec Co.,2025-04-23,Electrical Components,15,True,bid
+RFQ-0168-INV-V016,RFQ-0168,V016,Precision Arc Systems,2025-04-16,Electrical Components,15,False,no_response
+RFQ-0168-INV-V002,RFQ-0168,V002,Tanaka Electrical KK,2025-04-16,Electrical Components,15,True,bid
+RFQ-0168-INV-V006,RFQ-0168,V006,Bright Spark Electronics Ltd,2025-04-16,Electrical Components,15,True,bid
+RFQ-0168-INV-V013,RFQ-0168,V013,Vantage Sensors GmbH,2025-04-16,Electrical Components,15,True,bid
+RFQ-0168-INV-V021,RFQ-0168,V021,Helios Micro Systems,2025-04-16,Electrical Components,15,True,bid
+RFQ-0168-INV-V018,RFQ-0168,V018,Guangzhou Mech & Elec Co.,2025-04-16,Electrical Components,15,True,bid
+RFQ-0168-INV-V011,RFQ-0168,V011,Solaris Power Components,2025-04-16,Electrical Components,15,True,bid
+RFQ-0169-INV-V011,RFQ-0169,V011,Solaris Power Components,2025-04-17,Electrical Components,15,True,bid
+RFQ-0169-INV-V002,RFQ-0169,V002,Tanaka Electrical KK,2025-04-17,Electrical Components,15,True,bid
+RFQ-0169-INV-V021,RFQ-0169,V021,Helios Micro Systems,2025-04-17,Electrical Components,15,False,no_response
+RFQ-0169-INV-V013,RFQ-0169,V013,Vantage Sensors GmbH,2025-04-17,Electrical Components,15,True,bid
+RFQ-0169-INV-V006,RFQ-0169,V006,Bright Spark Electronics Ltd,2025-04-17,Electrical Components,15,True,bid
+RFQ-0169-INV-V018,RFQ-0169,V018,Guangzhou Mech & Elec Co.,2025-04-17,Electrical Components,15,False,no_response
+RFQ-0169-INV-V016,RFQ-0169,V016,Precision Arc Systems,2025-04-17,Electrical Components,15,False,no_response
+RFQ-0170-INV-V001,RFQ-0170,V001,Kovacs Precision GmbH,2025-04-19,Mechanical Parts,15,False,no_response
+RFQ-0170-INV-V007,RFQ-0170,V007,Nakamura Tooling Co.,2025-04-19,Mechanical Parts,15,True,bid
+RFQ-0170-INV-V009,RFQ-0170,V009,Fischer & Söhne KG,2025-04-19,Mechanical Parts,15,True,bid
+RFQ-0170-INV-V017,RFQ-0170,V017,Türk Makina A.Ş.,2025-04-19,Mechanical Parts,15,True,bid
+RFQ-0170-INV-V004,RFQ-0170,V004,Strömberg Hydraulics AB,2025-04-19,Mechanical Parts,15,True,bid
+RFQ-0170-INV-V022,RFQ-0170,V022,Andean Precision SRL,2025-04-19,Mechanical Parts,15,True,bid
+RFQ-0170-INV-V010,RFQ-0170,V010,Adriatic Fastenings d.o.o.,2025-04-19,Mechanical Parts,15,True,bid
+RFQ-0170-INV-V024,RFQ-0170,V024,BalticTech UAB,2025-04-19,Mechanical Parts,15,True,bid
+RFQ-0171-INV-V022,RFQ-0171,V022,Andean Precision SRL,2025-04-06,Mechanical Parts,15,True,bid
+RFQ-0171-INV-V004,RFQ-0171,V004,Strömberg Hydraulics AB,2025-04-06,Mechanical Parts,15,True,bid
+RFQ-0171-INV-V007,RFQ-0171,V007,Nakamura Tooling Co.,2025-04-06,Mechanical Parts,15,False,no_response
+RFQ-0171-INV-V009,RFQ-0171,V009,Fischer & Söhne KG,2025-04-06,Mechanical Parts,15,True,bid
+RFQ-0171-INV-V017,RFQ-0171,V017,Türk Makina A.Ş.,2025-04-06,Mechanical Parts,15,True,bid
+RFQ-0171-INV-V019,RFQ-0171,V019,Emerald Isle Castings Ltd,2025-04-06,Mechanical Parts,15,True,bid
+RFQ-0171-INV-V010,RFQ-0171,V010,Adriatic Fastenings d.o.o.,2025-04-06,Mechanical Parts,15,True,bid
+RFQ-0171-INV-V024,RFQ-0171,V024,BalticTech UAB,2025-04-06,Mechanical Parts,15,True,bid
+RFQ-0172-INV-V021,RFQ-0172,V021,Helios Micro Systems,2025-04-09,Electrical Components,15,True,bid
+RFQ-0172-INV-V002,RFQ-0172,V002,Tanaka Electrical KK,2025-04-09,Electrical Components,15,True,bid
+RFQ-0172-INV-V013,RFQ-0172,V013,Vantage Sensors GmbH,2025-04-09,Electrical Components,15,True,bid
+RFQ-0172-INV-V018,RFQ-0172,V018,Guangzhou Mech & Elec Co.,2025-04-09,Electrical Components,15,False,no_response
+RFQ-0172-INV-V016,RFQ-0172,V016,Precision Arc Systems,2025-04-09,Electrical Components,15,True,bid
+RFQ-0172-INV-V006,RFQ-0172,V006,Bright Spark Electronics Ltd,2025-04-09,Electrical Components,15,False,no_response
+RFQ-0172-INV-V011,RFQ-0172,V011,Solaris Power Components,2025-04-09,Electrical Components,15,False,no_response
+RFQ-0173-INV-V016,RFQ-0173,V016,Precision Arc Systems,2025-04-13,Electrical Components,15,True,bid
+RFQ-0173-INV-V013,RFQ-0173,V013,Vantage Sensors GmbH,2025-04-13,Electrical Components,15,True,bid
+RFQ-0173-INV-V011,RFQ-0173,V011,Solaris Power Components,2025-04-13,Electrical Components,15,True,bid
+RFQ-0173-INV-V021,RFQ-0173,V021,Helios Micro Systems,2025-04-13,Electrical Components,15,True,bid
+RFQ-0173-INV-V002,RFQ-0173,V002,Tanaka Electrical KK,2025-04-13,Electrical Components,15,False,no_response
+RFQ-0173-INV-V006,RFQ-0173,V006,Bright Spark Electronics Ltd,2025-04-13,Electrical Components,15,True,bid
+RFQ-0173-INV-V018,RFQ-0173,V018,Guangzhou Mech & Elec Co.,2025-04-13,Electrical Components,15,True,bid
+RFQ-0174-INV-V021,RFQ-0174,V021,Helios Micro Systems,2025-04-12,Electrical Components,15,True,bid
+RFQ-0174-INV-V002,RFQ-0174,V002,Tanaka Electrical KK,2025-04-12,Electrical Components,15,True,bid
+RFQ-0174-INV-V006,RFQ-0174,V006,Bright Spark Electronics Ltd,2025-04-12,Electrical Components,15,True,bid
+RFQ-0174-INV-V013,RFQ-0174,V013,Vantage Sensors GmbH,2025-04-12,Electrical Components,15,True,bid
+RFQ-0174-INV-V016,RFQ-0174,V016,Precision Arc Systems,2025-04-12,Electrical Components,15,True,bid
+RFQ-0174-INV-V011,RFQ-0174,V011,Solaris Power Components,2025-04-12,Electrical Components,15,True,bid
+RFQ-0174-INV-V018,RFQ-0174,V018,Guangzhou Mech & Elec Co.,2025-04-12,Electrical Components,15,True,bid
+RFQ-0175-INV-V010,RFQ-0175,V010,Adriatic Fastenings d.o.o.,2025-04-24,Mechanical Parts,15,True,bid
+RFQ-0175-INV-V024,RFQ-0175,V024,BalticTech UAB,2025-04-24,Mechanical Parts,15,True,bid
+RFQ-0175-INV-V004,RFQ-0175,V004,Strömberg Hydraulics AB,2025-04-24,Mechanical Parts,15,False,no_response
+RFQ-0175-INV-V019,RFQ-0175,V019,Emerald Isle Castings Ltd,2025-04-24,Mechanical Parts,15,True,bid
+RFQ-0175-INV-V017,RFQ-0175,V017,Türk Makina A.Ş.,2025-04-24,Mechanical Parts,15,True,bid
+RFQ-0175-INV-V009,RFQ-0175,V009,Fischer & Söhne KG,2025-04-24,Mechanical Parts,15,True,bid
+RFQ-0175-INV-V007,RFQ-0175,V007,Nakamura Tooling Co.,2025-04-24,Mechanical Parts,15,True,bid
+RFQ-0175-INV-V022,RFQ-0175,V022,Andean Precision SRL,2025-04-24,Mechanical Parts,15,True,bid
+RFQ-0176-INV-V013,RFQ-0176,V013,Vantage Sensors GmbH,2025-05-13,Electrical Components,16,True,bid
+RFQ-0176-INV-V011,RFQ-0176,V011,Solaris Power Components,2025-05-13,Electrical Components,16,False,no_response
+RFQ-0176-INV-V006,RFQ-0176,V006,Bright Spark Electronics Ltd,2025-05-13,Electrical Components,16,False,no_response
+RFQ-0176-INV-V016,RFQ-0176,V016,Precision Arc Systems,2025-05-13,Electrical Components,16,False,no_response
+RFQ-0176-INV-V021,RFQ-0176,V021,Helios Micro Systems,2025-05-13,Electrical Components,16,True,bid
+RFQ-0176-INV-V002,RFQ-0176,V002,Tanaka Electrical KK,2025-05-13,Electrical Components,16,False,no_response
+RFQ-0176-INV-V018,RFQ-0176,V018,Guangzhou Mech & Elec Co.,2025-05-13,Electrical Components,16,True,bid
+RFQ-0177-INV-V021,RFQ-0177,V021,Helios Micro Systems,2025-05-19,Electrical Components,16,True,bid
+RFQ-0177-INV-V002,RFQ-0177,V002,Tanaka Electrical KK,2025-05-19,Electrical Components,16,True,bid
+RFQ-0177-INV-V013,RFQ-0177,V013,Vantage Sensors GmbH,2025-05-19,Electrical Components,16,True,bid
+RFQ-0177-INV-V006,RFQ-0177,V006,Bright Spark Electronics Ltd,2025-05-19,Electrical Components,16,True,bid
+RFQ-0177-INV-V011,RFQ-0177,V011,Solaris Power Components,2025-05-19,Electrical Components,16,True,bid
+RFQ-0177-INV-V016,RFQ-0177,V016,Precision Arc Systems,2025-05-19,Electrical Components,16,False,no_response
+RFQ-0177-INV-V018,RFQ-0177,V018,Guangzhou Mech & Elec Co.,2025-05-19,Electrical Components,16,False,no_response
+RFQ-0178-INV-V002,RFQ-0178,V002,Tanaka Electrical KK,2025-05-31,Electrical Components,16,True,bid
+RFQ-0178-INV-V021,RFQ-0178,V021,Helios Micro Systems,2025-05-31,Electrical Components,16,True,bid
+RFQ-0178-INV-V016,RFQ-0178,V016,Precision Arc Systems,2025-05-31,Electrical Components,16,True,bid
+RFQ-0178-INV-V013,RFQ-0178,V013,Vantage Sensors GmbH,2025-05-31,Electrical Components,16,True,bid
+RFQ-0178-INV-V011,RFQ-0178,V011,Solaris Power Components,2025-05-31,Electrical Components,16,False,no_response
+RFQ-0178-INV-V006,RFQ-0178,V006,Bright Spark Electronics Ltd,2025-05-31,Electrical Components,16,True,bid
+RFQ-0178-INV-V018,RFQ-0178,V018,Guangzhou Mech & Elec Co.,2025-05-31,Electrical Components,16,False,no_response
+RFQ-0179-INV-V007,RFQ-0179,V007,Nakamura Tooling Co.,2025-06-02,Mechanical Parts,16,True,bid
+RFQ-0179-INV-V017,RFQ-0179,V017,Türk Makina A.Ş.,2025-06-02,Mechanical Parts,16,True,bid
+RFQ-0179-INV-V010,RFQ-0179,V010,Adriatic Fastenings d.o.o.,2025-06-02,Mechanical Parts,16,True,bid
+RFQ-0179-INV-V019,RFQ-0179,V019,Emerald Isle Castings Ltd,2025-06-02,Mechanical Parts,16,True,bid
+RFQ-0179-INV-V024,RFQ-0179,V024,BalticTech UAB,2025-06-02,Mechanical Parts,16,False,no_response
+RFQ-0179-INV-V022,RFQ-0179,V022,Andean Precision SRL,2025-06-02,Mechanical Parts,16,True,bid
+RFQ-0179-INV-V004,RFQ-0179,V004,Strömberg Hydraulics AB,2025-06-02,Mechanical Parts,16,False,no_response
+RFQ-0179-INV-V009,RFQ-0179,V009,Fischer & Söhne KG,2025-06-02,Mechanical Parts,16,True,bid
+RFQ-0180-INV-V006,RFQ-0180,V006,Bright Spark Electronics Ltd,2025-05-16,Electrical Components,16,False,no_response
+RFQ-0180-INV-V011,RFQ-0180,V011,Solaris Power Components,2025-05-16,Electrical Components,16,False,no_response
+RFQ-0180-INV-V021,RFQ-0180,V021,Helios Micro Systems,2025-05-16,Electrical Components,16,True,bid
+RFQ-0180-INV-V013,RFQ-0180,V013,Vantage Sensors GmbH,2025-05-16,Electrical Components,16,True,bid
+RFQ-0180-INV-V016,RFQ-0180,V016,Precision Arc Systems,2025-05-16,Electrical Components,16,True,bid
+RFQ-0180-INV-V002,RFQ-0180,V002,Tanaka Electrical KK,2025-05-16,Electrical Components,16,True,bid
+RFQ-0180-INV-V018,RFQ-0180,V018,Guangzhou Mech & Elec Co.,2025-05-16,Electrical Components,16,True,bid
+RFQ-0181-INV-V016,RFQ-0181,V016,Precision Arc Systems,2025-05-28,Electrical Components,16,False,no_response
+RFQ-0181-INV-V006,RFQ-0181,V006,Bright Spark Electronics Ltd,2025-05-28,Electrical Components,16,True,bid
+RFQ-0181-INV-V011,RFQ-0181,V011,Solaris Power Components,2025-05-28,Electrical Components,16,False,no_response
+RFQ-0181-INV-V002,RFQ-0181,V002,Tanaka Electrical KK,2025-05-28,Electrical Components,16,True,bid
+RFQ-0181-INV-V013,RFQ-0181,V013,Vantage Sensors GmbH,2025-05-28,Electrical Components,16,True,bid
+RFQ-0181-INV-V021,RFQ-0181,V021,Helios Micro Systems,2025-05-28,Electrical Components,16,True,bid
+RFQ-0181-INV-V018,RFQ-0181,V018,Guangzhou Mech & Elec Co.,2025-05-28,Electrical Components,16,False,no_response
+RFQ-0182-INV-V017,RFQ-0182,V017,Türk Makina A.Ş.,2025-05-19,Mechanical Parts,16,True,bid
+RFQ-0182-INV-V004,RFQ-0182,V004,Strömberg Hydraulics AB,2025-05-19,Mechanical Parts,16,False,no_response
+RFQ-0182-INV-V007,RFQ-0182,V007,Nakamura Tooling Co.,2025-05-19,Mechanical Parts,16,True,bid
+RFQ-0182-INV-V010,RFQ-0182,V010,Adriatic Fastenings d.o.o.,2025-05-19,Mechanical Parts,16,False,no_response
+RFQ-0182-INV-V024,RFQ-0182,V024,BalticTech UAB,2025-05-19,Mechanical Parts,16,True,bid
+RFQ-0182-INV-V019,RFQ-0182,V019,Emerald Isle Castings Ltd,2025-05-19,Mechanical Parts,16,True,bid
+RFQ-0182-INV-V009,RFQ-0182,V009,Fischer & Söhne KG,2025-05-19,Mechanical Parts,16,True,bid
+RFQ-0182-INV-V001,RFQ-0182,V001,Kovacs Precision GmbH,2025-05-19,Mechanical Parts,16,True,bid
+RFQ-0183-INV-V021,RFQ-0183,V021,Helios Micro Systems,2025-05-24,Electrical Components,16,True,bid
+RFQ-0183-INV-V013,RFQ-0183,V013,Vantage Sensors GmbH,2025-05-24,Electrical Components,16,True,bid
+RFQ-0183-INV-V016,RFQ-0183,V016,Precision Arc Systems,2025-05-24,Electrical Components,16,True,bid
+RFQ-0183-INV-V011,RFQ-0183,V011,Solaris Power Components,2025-05-24,Electrical Components,16,False,no_response
+RFQ-0183-INV-V002,RFQ-0183,V002,Tanaka Electrical KK,2025-05-24,Electrical Components,16,True,bid
+RFQ-0183-INV-V006,RFQ-0183,V006,Bright Spark Electronics Ltd,2025-05-24,Electrical Components,16,False,no_response
+RFQ-0183-INV-V018,RFQ-0183,V018,Guangzhou Mech & Elec Co.,2025-05-24,Electrical Components,16,True,bid
+RFQ-0184-INV-V024,RFQ-0184,V024,BalticTech UAB,2025-05-09,Mechanical Parts,16,True,bid
+RFQ-0184-INV-V001,RFQ-0184,V001,Kovacs Precision GmbH,2025-05-09,Mechanical Parts,16,True,bid
+RFQ-0184-INV-V010,RFQ-0184,V010,Adriatic Fastenings d.o.o.,2025-05-09,Mechanical Parts,16,True,bid
+RFQ-0184-INV-V007,RFQ-0184,V007,Nakamura Tooling Co.,2025-05-09,Mechanical Parts,16,True,bid
+RFQ-0184-INV-V009,RFQ-0184,V009,Fischer & Söhne KG,2025-05-09,Mechanical Parts,16,True,bid
+RFQ-0184-INV-V022,RFQ-0184,V022,Andean Precision SRL,2025-05-09,Mechanical Parts,16,True,bid
+RFQ-0184-INV-V004,RFQ-0184,V004,Strömberg Hydraulics AB,2025-05-09,Mechanical Parts,16,True,bid
+RFQ-0184-INV-V019,RFQ-0184,V019,Emerald Isle Castings Ltd,2025-05-09,Mechanical Parts,16,True,bid
+RFQ-0185-INV-V013,RFQ-0185,V013,Vantage Sensors GmbH,2025-05-31,Electrical Components,16,True,bid
+RFQ-0185-INV-V018,RFQ-0185,V018,Guangzhou Mech & Elec Co.,2025-05-31,Electrical Components,16,False,no_response
+RFQ-0185-INV-V011,RFQ-0185,V011,Solaris Power Components,2025-05-31,Electrical Components,16,False,no_response
+RFQ-0185-INV-V006,RFQ-0185,V006,Bright Spark Electronics Ltd,2025-05-31,Electrical Components,16,True,bid
+RFQ-0185-INV-V021,RFQ-0185,V021,Helios Micro Systems,2025-05-31,Electrical Components,16,True,bid
+RFQ-0185-INV-V016,RFQ-0185,V016,Precision Arc Systems,2025-05-31,Electrical Components,16,True,bid
+RFQ-0185-INV-V002,RFQ-0185,V002,Tanaka Electrical KK,2025-05-31,Electrical Components,16,False,no_response
+RFQ-0186-INV-V003,RFQ-0186,V003,Patel Alloys Pvt Ltd,2025-05-26,Raw Materials,16,True,bid
+RFQ-0186-INV-V012,RFQ-0186,V012,Indra Copper Works,2025-05-26,Raw Materials,16,True,bid
+RFQ-0186-INV-V023,RFQ-0186,V023,Sahara Industrial FZE,2025-05-26,Raw Materials,16,True,bid
+RFQ-0186-INV-V015,RFQ-0186,V015,Nordic Steel AS,2025-05-26,Raw Materials,16,False,no_response
+RFQ-0186-INV-V020,RFQ-0186,V020,Rajasthan Rare Earths Ltd,2025-05-26,Raw Materials,16,True,bid
+RFQ-0186-INV-V008,RFQ-0186,V008,Delta Composites Inc.,2025-05-26,Raw Materials,16,True,bid
+RFQ-0186-INV-V014,RFQ-0186,V014,Coastal Alloys Pty Ltd,2025-05-26,Raw Materials,16,True,bid
+RFQ-0186-INV-V005,RFQ-0186,V005,Cerro Negro Metals SA,2025-05-26,Raw Materials,16,False,no_response
+RFQ-0187-INV-V020,RFQ-0187,V020,Rajasthan Rare Earths Ltd,2025-05-27,Raw Materials,16,True,bid
+RFQ-0187-INV-V008,RFQ-0187,V008,Delta Composites Inc.,2025-05-27,Raw Materials,16,True,bid
+RFQ-0187-INV-V005,RFQ-0187,V005,Cerro Negro Metals SA,2025-05-27,Raw Materials,16,True,bid
+RFQ-0187-INV-V023,RFQ-0187,V023,Sahara Industrial FZE,2025-05-27,Raw Materials,16,True,bid
+RFQ-0187-INV-V014,RFQ-0187,V014,Coastal Alloys Pty Ltd,2025-05-27,Raw Materials,16,True,bid
+RFQ-0187-INV-V015,RFQ-0187,V015,Nordic Steel AS,2025-05-27,Raw Materials,16,True,bid
+RFQ-0187-INV-V012,RFQ-0187,V012,Indra Copper Works,2025-05-27,Raw Materials,16,True,bid
+RFQ-0187-INV-V003,RFQ-0187,V003,Patel Alloys Pvt Ltd,2025-05-27,Raw Materials,16,True,bid
+RFQ-0188-INV-V010,RFQ-0188,V010,Adriatic Fastenings d.o.o.,2025-05-07,Mechanical Parts,16,True,bid
+RFQ-0188-INV-V001,RFQ-0188,V001,Kovacs Precision GmbH,2025-05-07,Mechanical Parts,16,True,bid
+RFQ-0188-INV-V007,RFQ-0188,V007,Nakamura Tooling Co.,2025-05-07,Mechanical Parts,16,True,bid
+RFQ-0188-INV-V009,RFQ-0188,V009,Fischer & Söhne KG,2025-05-07,Mechanical Parts,16,False,no_response
+RFQ-0188-INV-V004,RFQ-0188,V004,Strömberg Hydraulics AB,2025-05-07,Mechanical Parts,16,False,no_response
+RFQ-0188-INV-V017,RFQ-0188,V017,Türk Makina A.Ş.,2025-05-07,Mechanical Parts,16,False,no_response
+RFQ-0188-INV-V019,RFQ-0188,V019,Emerald Isle Castings Ltd,2025-05-07,Mechanical Parts,16,True,bid
+RFQ-0188-INV-V024,RFQ-0188,V024,BalticTech UAB,2025-05-07,Mechanical Parts,16,True,bid
+RFQ-0189-INV-V019,RFQ-0189,V019,Emerald Isle Castings Ltd,2025-06-26,Mechanical Parts,17,True,bid
+RFQ-0189-INV-V004,RFQ-0189,V004,Strömberg Hydraulics AB,2025-06-26,Mechanical Parts,17,True,bid
+RFQ-0189-INV-V007,RFQ-0189,V007,Nakamura Tooling Co.,2025-06-26,Mechanical Parts,17,True,bid
+RFQ-0189-INV-V001,RFQ-0189,V001,Kovacs Precision GmbH,2025-06-26,Mechanical Parts,17,True,bid
+RFQ-0189-INV-V009,RFQ-0189,V009,Fischer & Söhne KG,2025-06-26,Mechanical Parts,17,True,bid
+RFQ-0189-INV-V022,RFQ-0189,V022,Andean Precision SRL,2025-06-26,Mechanical Parts,17,True,bid
+RFQ-0189-INV-V024,RFQ-0189,V024,BalticTech UAB,2025-06-26,Mechanical Parts,17,True,bid
+RFQ-0189-INV-V010,RFQ-0189,V010,Adriatic Fastenings d.o.o.,2025-06-26,Mechanical Parts,17,True,bid
+RFQ-0190-INV-V021,RFQ-0190,V021,Helios Micro Systems,2025-06-21,Electrical Components,17,True,bid
+RFQ-0190-INV-V013,RFQ-0190,V013,Vantage Sensors GmbH,2025-06-21,Electrical Components,17,True,bid
+RFQ-0190-INV-V006,RFQ-0190,V006,Bright Spark Electronics Ltd,2025-06-21,Electrical Components,17,True,bid
+RFQ-0190-INV-V016,RFQ-0190,V016,Precision Arc Systems,2025-06-21,Electrical Components,17,False,no_response
+RFQ-0190-INV-V002,RFQ-0190,V002,Tanaka Electrical KK,2025-06-21,Electrical Components,17,True,bid
+RFQ-0190-INV-V011,RFQ-0190,V011,Solaris Power Components,2025-06-21,Electrical Components,17,True,bid
+RFQ-0190-INV-V018,RFQ-0190,V018,Guangzhou Mech & Elec Co.,2025-06-21,Electrical Components,17,False,no_response
+RFQ-0191-INV-V021,RFQ-0191,V021,Helios Micro Systems,2025-07-03,Electrical Components,17,True,bid
+RFQ-0191-INV-V011,RFQ-0191,V011,Solaris Power Components,2025-07-03,Electrical Components,17,True,bid
+RFQ-0191-INV-V006,RFQ-0191,V006,Bright Spark Electronics Ltd,2025-07-03,Electrical Components,17,True,bid
+RFQ-0191-INV-V002,RFQ-0191,V002,Tanaka Electrical KK,2025-07-03,Electrical Components,17,True,bid
+RFQ-0191-INV-V013,RFQ-0191,V013,Vantage Sensors GmbH,2025-07-03,Electrical Components,17,True,bid
+RFQ-0191-INV-V016,RFQ-0191,V016,Precision Arc Systems,2025-07-03,Electrical Components,17,False,no_response
+RFQ-0191-INV-V018,RFQ-0191,V018,Guangzhou Mech & Elec Co.,2025-07-03,Electrical Components,17,False,no_response
+RFQ-0192-INV-V021,RFQ-0192,V021,Helios Micro Systems,2025-06-18,Electrical Components,17,True,bid
+RFQ-0192-INV-V006,RFQ-0192,V006,Bright Spark Electronics Ltd,2025-06-18,Electrical Components,17,False,no_response
+RFQ-0192-INV-V013,RFQ-0192,V013,Vantage Sensors GmbH,2025-06-18,Electrical Components,17,True,bid
+RFQ-0192-INV-V011,RFQ-0192,V011,Solaris Power Components,2025-06-18,Electrical Components,17,True,bid
+RFQ-0192-INV-V016,RFQ-0192,V016,Precision Arc Systems,2025-06-18,Electrical Components,17,True,bid
+RFQ-0192-INV-V002,RFQ-0192,V002,Tanaka Electrical KK,2025-06-18,Electrical Components,17,True,bid
+RFQ-0192-INV-V018,RFQ-0192,V018,Guangzhou Mech & Elec Co.,2025-06-18,Electrical Components,17,False,no_response
+RFQ-0193-INV-V005,RFQ-0193,V005,Cerro Negro Metals SA,2025-06-18,Raw Materials,17,True,bid
+RFQ-0193-INV-V008,RFQ-0193,V008,Delta Composites Inc.,2025-06-18,Raw Materials,17,True,bid
+RFQ-0193-INV-V012,RFQ-0193,V012,Indra Copper Works,2025-06-18,Raw Materials,17,True,bid
+RFQ-0193-INV-V015,RFQ-0193,V015,Nordic Steel AS,2025-06-18,Raw Materials,17,True,bid
+RFQ-0193-INV-V023,RFQ-0193,V023,Sahara Industrial FZE,2025-06-18,Raw Materials,17,False,no_response
+RFQ-0193-INV-V003,RFQ-0193,V003,Patel Alloys Pvt Ltd,2025-06-18,Raw Materials,17,True,bid
+RFQ-0193-INV-V020,RFQ-0193,V020,Rajasthan Rare Earths Ltd,2025-06-18,Raw Materials,17,True,bid
+RFQ-0193-INV-V014,RFQ-0193,V014,Coastal Alloys Pty Ltd,2025-06-18,Raw Materials,17,True,bid
+RFQ-0194-INV-V017,RFQ-0194,V017,Türk Makina A.Ş.,2025-06-27,Mechanical Parts,17,True,bid
+RFQ-0194-INV-V009,RFQ-0194,V009,Fischer & Söhne KG,2025-06-27,Mechanical Parts,17,True,bid
+RFQ-0194-INV-V007,RFQ-0194,V007,Nakamura Tooling Co.,2025-06-27,Mechanical Parts,17,True,bid
+RFQ-0194-INV-V010,RFQ-0194,V010,Adriatic Fastenings d.o.o.,2025-06-27,Mechanical Parts,17,True,bid
+RFQ-0194-INV-V024,RFQ-0194,V024,BalticTech UAB,2025-06-27,Mechanical Parts,17,True,bid
+RFQ-0194-INV-V022,RFQ-0194,V022,Andean Precision SRL,2025-06-27,Mechanical Parts,17,True,bid
+RFQ-0194-INV-V004,RFQ-0194,V004,Strömberg Hydraulics AB,2025-06-27,Mechanical Parts,17,True,bid
+RFQ-0194-INV-V001,RFQ-0194,V001,Kovacs Precision GmbH,2025-06-27,Mechanical Parts,17,True,bid
+RFQ-0195-INV-V010,RFQ-0195,V010,Adriatic Fastenings d.o.o.,2025-06-12,Mechanical Parts,17,True,bid
+RFQ-0195-INV-V019,RFQ-0195,V019,Emerald Isle Castings Ltd,2025-06-12,Mechanical Parts,17,True,bid
+RFQ-0195-INV-V007,RFQ-0195,V007,Nakamura Tooling Co.,2025-06-12,Mechanical Parts,17,True,bid
+RFQ-0195-INV-V001,RFQ-0195,V001,Kovacs Precision GmbH,2025-06-12,Mechanical Parts,17,True,bid
+RFQ-0195-INV-V017,RFQ-0195,V017,Türk Makina A.Ş.,2025-06-12,Mechanical Parts,17,True,bid
+RFQ-0195-INV-V024,RFQ-0195,V024,BalticTech UAB,2025-06-12,Mechanical Parts,17,True,bid
+RFQ-0195-INV-V009,RFQ-0195,V009,Fischer & Söhne KG,2025-06-12,Mechanical Parts,17,True,bid
+RFQ-0195-INV-V004,RFQ-0195,V004,Strömberg Hydraulics AB,2025-06-12,Mechanical Parts,17,True,bid
+RFQ-0196-INV-V016,RFQ-0196,V016,Precision Arc Systems,2025-06-24,Electrical Components,17,False,no_response
+RFQ-0196-INV-V006,RFQ-0196,V006,Bright Spark Electronics Ltd,2025-06-24,Electrical Components,17,True,bid
+RFQ-0196-INV-V021,RFQ-0196,V021,Helios Micro Systems,2025-06-24,Electrical Components,17,False,no_response
+RFQ-0196-INV-V002,RFQ-0196,V002,Tanaka Electrical KK,2025-06-24,Electrical Components,17,True,bid
+RFQ-0196-INV-V011,RFQ-0196,V011,Solaris Power Components,2025-06-24,Electrical Components,17,True,bid
+RFQ-0196-INV-V013,RFQ-0196,V013,Vantage Sensors GmbH,2025-06-24,Electrical Components,17,False,no_response
+RFQ-0196-INV-V018,RFQ-0196,V018,Guangzhou Mech & Elec Co.,2025-06-24,Electrical Components,17,True,bid
+RFQ-0197-INV-V016,RFQ-0197,V016,Precision Arc Systems,2025-07-02,Electrical Components,17,False,no_response
+RFQ-0197-INV-V002,RFQ-0197,V002,Tanaka Electrical KK,2025-07-02,Electrical Components,17,True,bid
+RFQ-0197-INV-V006,RFQ-0197,V006,Bright Spark Electronics Ltd,2025-07-02,Electrical Components,17,False,no_response
+RFQ-0197-INV-V013,RFQ-0197,V013,Vantage Sensors GmbH,2025-07-02,Electrical Components,17,True,bid
+RFQ-0197-INV-V021,RFQ-0197,V021,Helios Micro Systems,2025-07-02,Electrical Components,17,True,bid
+RFQ-0197-INV-V018,RFQ-0197,V018,Guangzhou Mech & Elec Co.,2025-07-02,Electrical Components,17,False,no_response
+RFQ-0197-INV-V011,RFQ-0197,V011,Solaris Power Components,2025-07-02,Electrical Components,17,False,no_response
+RFQ-0198-INV-V004,RFQ-0198,V004,Strömberg Hydraulics AB,2025-06-08,Mechanical Parts,17,True,bid
+RFQ-0198-INV-V010,RFQ-0198,V010,Adriatic Fastenings d.o.o.,2025-06-08,Mechanical Parts,17,True,bid
+RFQ-0198-INV-V007,RFQ-0198,V007,Nakamura Tooling Co.,2025-06-08,Mechanical Parts,17,True,bid
+RFQ-0198-INV-V009,RFQ-0198,V009,Fischer & Söhne KG,2025-06-08,Mechanical Parts,17,True,bid
+RFQ-0198-INV-V019,RFQ-0198,V019,Emerald Isle Castings Ltd,2025-06-08,Mechanical Parts,17,True,bid
+RFQ-0198-INV-V022,RFQ-0198,V022,Andean Precision SRL,2025-06-08,Mechanical Parts,17,True,bid
+RFQ-0198-INV-V001,RFQ-0198,V001,Kovacs Precision GmbH,2025-06-08,Mechanical Parts,17,True,bid
+RFQ-0198-INV-V024,RFQ-0198,V024,BalticTech UAB,2025-06-08,Mechanical Parts,17,True,bid
+RFQ-0199-INV-V004,RFQ-0199,V004,Strömberg Hydraulics AB,2025-06-30,Mechanical Parts,17,True,bid
+RFQ-0199-INV-V001,RFQ-0199,V001,Kovacs Precision GmbH,2025-06-30,Mechanical Parts,17,True,bid
+RFQ-0199-INV-V007,RFQ-0199,V007,Nakamura Tooling Co.,2025-06-30,Mechanical Parts,17,True,bid
+RFQ-0199-INV-V017,RFQ-0199,V017,Türk Makina A.Ş.,2025-06-30,Mechanical Parts,17,True,bid
+RFQ-0199-INV-V024,RFQ-0199,V024,BalticTech UAB,2025-06-30,Mechanical Parts,17,True,bid
+RFQ-0199-INV-V019,RFQ-0199,V019,Emerald Isle Castings Ltd,2025-06-30,Mechanical Parts,17,True,bid
+RFQ-0199-INV-V010,RFQ-0199,V010,Adriatic Fastenings d.o.o.,2025-06-30,Mechanical Parts,17,True,bid
+RFQ-0199-INV-V009,RFQ-0199,V009,Fischer & Söhne KG,2025-06-30,Mechanical Parts,17,True,bid
+RFQ-0200-INV-V006,RFQ-0200,V006,Bright Spark Electronics Ltd,2025-06-16,Electrical Components,17,True,bid
+RFQ-0200-INV-V021,RFQ-0200,V021,Helios Micro Systems,2025-06-16,Electrical Components,17,True,bid
+RFQ-0200-INV-V002,RFQ-0200,V002,Tanaka Electrical KK,2025-06-16,Electrical Components,17,True,bid
+RFQ-0200-INV-V018,RFQ-0200,V018,Guangzhou Mech & Elec Co.,2025-06-16,Electrical Components,17,False,no_response
+RFQ-0200-INV-V013,RFQ-0200,V013,Vantage Sensors GmbH,2025-06-16,Electrical Components,17,False,no_response
+RFQ-0200-INV-V011,RFQ-0200,V011,Solaris Power Components,2025-06-16,Electrical Components,17,True,bid
+RFQ-0200-INV-V016,RFQ-0200,V016,Precision Arc Systems,2025-06-16,Electrical Components,17,True,bid
+RFQ-0201-INV-V007,RFQ-0201,V007,Nakamura Tooling Co.,2025-06-24,Mechanical Parts,17,True,bid
+RFQ-0201-INV-V017,RFQ-0201,V017,Türk Makina A.Ş.,2025-06-24,Mechanical Parts,17,True,bid
+RFQ-0201-INV-V004,RFQ-0201,V004,Strömberg Hydraulics AB,2025-06-24,Mechanical Parts,17,True,bid
+RFQ-0201-INV-V022,RFQ-0201,V022,Andean Precision SRL,2025-06-24,Mechanical Parts,17,False,no_response
+RFQ-0201-INV-V024,RFQ-0201,V024,BalticTech UAB,2025-06-24,Mechanical Parts,17,True,bid
+RFQ-0201-INV-V010,RFQ-0201,V010,Adriatic Fastenings d.o.o.,2025-06-24,Mechanical Parts,17,False,no_response
+RFQ-0201-INV-V019,RFQ-0201,V019,Emerald Isle Castings Ltd,2025-06-24,Mechanical Parts,17,True,bid
+RFQ-0201-INV-V001,RFQ-0201,V001,Kovacs Precision GmbH,2025-06-24,Mechanical Parts,17,True,bid
+RFQ-0202-INV-V016,RFQ-0202,V016,Precision Arc Systems,2025-06-30,Electrical Components,17,True,bid
+RFQ-0202-INV-V013,RFQ-0202,V013,Vantage Sensors GmbH,2025-06-30,Electrical Components,17,True,bid
+RFQ-0202-INV-V011,RFQ-0202,V011,Solaris Power Components,2025-06-30,Electrical Components,17,True,bid
+RFQ-0202-INV-V018,RFQ-0202,V018,Guangzhou Mech & Elec Co.,2025-06-30,Electrical Components,17,False,no_response
+RFQ-0202-INV-V021,RFQ-0202,V021,Helios Micro Systems,2025-06-30,Electrical Components,17,True,bid
+RFQ-0202-INV-V002,RFQ-0202,V002,Tanaka Electrical KK,2025-06-30,Electrical Components,17,True,bid
+RFQ-0202-INV-V006,RFQ-0202,V006,Bright Spark Electronics Ltd,2025-06-30,Electrical Components,17,True,bid
